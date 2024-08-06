@@ -1,0 +1,258 @@
+
+    /* index */
+
+        body {
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            line-height: 1.5;
+            color: #333;
+            max-width: 51.25rem;
+            max-height: 100%;
+            /*border: 1px solid #bfc6ca ;
+            border-radius: 0.2em;*/
+            padding: 1em 2em 1em 2em;
+            margin-left: auto;
+            margin-right: auto;
+        }
+        :root {
+            font-family: Verdana;
+            font-weight: 300;
+            background-color: snow;
+        }
+        #greif {
+            float:left;
+            margin: -2em 0em 0em 0em;
+            max-height: 6.375em;
+            border: 1px solid snow;
+        }
+        p {
+            font-size: small;   /* Fliesstext */
+            font-weight: 300;
+        }
+
+        #p1 {
+            font-size: xx-large;    /* Schrift Logo */
+            letter-spacing: -0.02em;
+            text-align: right;
+        }
+
+        img {
+            max-width: 100%;
+            border: 1px solid #bfc6ca ;
+        }
+
+        #header {
+            max-width: 100%;
+            max-height: 100%;
+        }
+
+        #nav {
+            font-size: small;
+            color: black;
+            position: relative;
+        }
+
+        #teaser {
+            max-width: 100%; 
+            max-height: 100%;
+            position: relative;
+            z-index: -10;
+        }
+
+        
+
+        #Turnierplan {
+            position:relative; 
+            top:-6.5em;
+            left: 0.5em;
+            height:6.625em; 
+            width:4.6875em;
+        }
+
+        #Sparkasse {
+            position:relative; 
+            top:-10em; 
+            left:43.5em;
+            height:37px; 
+            width:114px;
+        }
+
+        main {
+            margin-top: -9em;
+	        max-width: 100%;
+            max-height: 100%;
+            color: #333333;
+	        display: grid;
+	        grid-template-columns: repeat(3, 1fr);
+            column-gap: 2.5em;
+        }
+
+        #inhalt1 {
+            max-width: 1fr;
+            max-height: auto;
+        }
+
+        #inhalt2 {
+            max-width: 1fr;
+            max-height: auto;
+        }
+
+        #inhalt3 {
+            max-width: 1fr;
+            max-height: auto;
+        }
+
+        #footer {
+            max-width: 100%;
+            max-height: 100%;
+	        background: snow;
+	        border-color: #8a9da8;
+        }
+
+        h1,h2,h3 {
+            color: rgb(3, 75, 3);
+            font: bold 10px Times;
+            margin-bottom: 10px;
+        }
+
+        h1{ font-size: 180%; }
+        h2{ font-size: 140%; }
+        h3{ font-size: 120%; }
+
+        #fusszeile {
+            clear: both;
+            border-top: 1px solid #333;
+        }
+
+        #fusszeile .bottom-right {
+            float: right;
+        }
+
+        #fusszeile a:hover {
+            color: #87a707;
+        }
+
+    /* navigation */
+
+        span {
+            display: inline;
+            margin-right: 0.75em; /* navi bar */
+        }
+
+        #navigation {
+            font-size: small;
+            max-height: 3em;
+            max-width: 100%;
+        }
+
+        #navigation, #navigation  li a span {
+            margin: 0px; 
+        }
+
+        #navigation, #navigation li/*, #navigation ul*/ {       /* head navigation */
+            list-style: none;
+            margin: 0px;
+            padding: 0px;
+            background: url("images/leiste.1.png") bottom left repeat-x;
+            list-style-type: none;
+            float: right;
+        }
+        #navigation ul li {     /* neu für drop down */
+            list-style: none;
+            margin-top: 0em;
+            padding: 0px;
+            background: url("images/leiste.6.png") bottom left repeat-x;
+            list-style-type: none;
+            float: right;
+        } 
+
+        #navigation {
+            position: absolute;
+        }
+
+        #navigation a, #navigation span {
+            display: block;
+            padding: 0.5em;
+            color: white;
+        } 
+
+        #navigation li {
+            padding: 0px 0px 0px 0px;
+            border: none;
+        }
+
+        #navigation a, #navigation span { /*Schrift im bar*/
+            font-size: 14px;
+            font-weight: 300;
+            padding: 0.625em 2px;
+            color: black;
+            text-decoration: none;
+        }   
+
+        #navigation a:hover, #navigation span:hover, #navigation li, #navigation span a {
+            color: red;
+            width: relative;
+            position: relative;
+        }
+
+        #navigation li {
+            float: left;
+            position: relative;
+            white-space: nowrap;
+        }
+
+        #navigation li li {
+            border-bottom: none;
+            float: none;
+            font-weight: normal;
+            position: relative;
+        }
+
+        /*#navigation li a, #navigation span, #navigation *.dir {     weiße Umrahmungen weg
+            border-style: solid;
+            border-width: 1px 1px 1px 1px;
+            border-color: black;
+        }*/
+
+
+        #navigation li li a, #navigation li:hover li li a {
+            padding: 0.625em 4px;;
+            position: relative;
+            cursor: pointer;
+        }
+
+
+        #navigation li a {
+            display: block;
+            text-decoration: none;
+            padding: 0.625em 4px;
+        }
+
+        #navigation li ul, #navigation li:hover ul ul {
+            padding: 0px 0px;
+            position: absolute;
+            left: -999em;
+            cursor: pointer;
+        }
+
+        #navigation li:hover ul {
+            left: 0;
+        }
+
+        #navigation li li {
+            border-bottom: none;
+            float: none;
+            font-weight: normal;
+            position: relative;
+        }
+
+        #navigation li li:hover ul {
+            left:100%;
+            top: 0;
+        }
+
+        /*#navigation span li a {
+         padding: 10px 10px;
+            display: block;
+            color: white;
+        }*/
+
