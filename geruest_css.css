@@ -67,6 +67,7 @@
             left: 0.5em;
             height:6.625em; 
             width:4.6875em;
+            z-index: 5;
         }
 
         #Sparkasse {
@@ -75,6 +76,7 @@
             right:-43.5em;
             height:37px; 
             width:114px;
+            z-index: 5;
         }
 
         main {
