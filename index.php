@@ -23,19 +23,23 @@
     <teaser id="teaser">
         <img src="images/TeasHome.jpg" title="Frühling auf dem Platz" alt="Frühling auf dem Platz">
     </teaser>
-    
-    <buttons id="buttons">
-        <div id="Turnierplan"><a href="images/Turnierplan2024.pdf"><img src="images/WebTurnierplan2024klein.gif" 
-        alt="Turnierplan 2024 des BPV-Freiburg" onmouseover="src='images/WebTurnierplan2024kleinA.gif'" 
-        onmouseout="src='images/WebTurnierplan2024klein.gif'" /></a></div>
 
-        <div id="Sparkasse"><a target="_blank" href="http://www.sparkasse-freiburg.de/"><img src="images/Logospark.jpg" 
-        alt="Logo der Sparkasse Freiburg" title="Logo der Sparkasse Freiburg" /></a></div>
+    <buttons>    
+        <Turnierplan id="turnierplan">
+            <div><a href="images/Turnierplan2024.pdf"><img src="images/WebTurnierplan2024klein.gif" 
+            alt="Turnierplan 2024 des BPV-Freiburg" onmouseover="src='images/WebTurnierplan2024kleinA.gif'" 
+            onmouseout="src='images/WebTurnierplan2024klein.gif'" /></a></div>
+        </Turnierplan>
+
+        <Sparkasse id="sparkasse">   
+            <div><a target="_blank" href="http://www.sparkasse-freiburg.de/"><img src="images/Logospark.jpg" 
+            alt="Logo der Sparkasse Freiburg" title="Logo der Sparkasse Freiburg" /></a></div>
+        </Sparkasse>
     </buttons>
 
     <main>
 
-        <spalte id="Inhalt1">
+        <div id="Inhalt1">
 
             <h2>Der Sommercup ist schon wieder ins Wasser gefallen</h2>
 
@@ -58,9 +62,9 @@
 
             <p>Hier die <a target="_blank"href="images/Samstagspiele_Tag_06_20240615.pdf">Rangliste</a>
                     vom 15. Juni.</p>
-        </spalte>
+        </div>
 
-        <spalte id="Inhalt2">
+        <div id="Inhalt2">
 
             <h2>Ligaergebnisse der Saison 2024</h2>
 
@@ -89,9 +93,9 @@
     
             <p>Dogern hat den 1. Platz errungen wozu wir gratulieren. Dogern hat zwar eine Begegnung mehr gewonnen (7:2) </p>
     
-        </spalte>
+        </div>
 
-        <spalte id="Inhalt3">
+        <div id="Inhalt3">
 
 			<p>als der BPV (6:3), aber in der Spieledifferenz steht der BPV mit 17 Zählern besser da als Dogern (11).</p>
 
@@ -113,7 +117,7 @@
 
             <img src="images/WebNocturne2024small.jpg" alt="Nocturne 2024" title="Nocturne 2024" />
 
-        </spalte>
+</div>
 
     </main>
     <footer id="footer">
