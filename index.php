@@ -12,8 +12,9 @@
 </head>
 <body>
     <header id="header">
-        <img id=greif src="images/Greif_neu.png" title="Logo BPV" alt="Logo BPV">
-        <p id="p1">Badischer Pétanque-Verein e.V. Freiburg</p>
+        <!--<img id=greif src="images/Greif_neu.png" title="Logo BPV" alt="Logo BPV">
+        <p id="p1">Badischer Pétanque-Verein e.V. Freiburg</p>-->
+        <img id=logo src="images/logo.png" title="Logo BPV" alt="Logo BPV">
     </header>
 
     <nav id="navigation">
