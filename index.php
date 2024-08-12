@@ -42,7 +42,7 @@
 
             <h2>Der Sommercup ist schon wieder ins Wasser gefallen</h2>
 
-            <img src="images/WebSommercup2024small.jpg" alt="Sommercup 2024" title="Sommercup 2024">
+            <img src="images/WebSommercup2024small.jpg" alt="Sommercup 2024" title="Sommercup 2024" width="100%"/>
     
             <p style="color:red;">Am Samstag, den 27. Juli 2024 findet der Sommercup 		
             nicht statt, weil das NOCTURNE ab 16.30 Uhr stattfindet.</p>
@@ -55,7 +55,7 @@
             Preisgeldtopf für das Abschlussturnier und die Endrangliste. Cash pro Turnier und 
             Spieler sind 3,50 EUR.</p>
     
-            <img src="images/WebSommercup20240622small1.jpg" alt="Sommercup 2024" title="Sommercup 2024" />
+            <img src="images/WebSommercup20240622small1.jpg" alt="Sommercup 2024" title="Sommercup 2024" width="100%"/>
     
             <BR CLEAR="left"><p>Am Samstag, den 6. Juli 2024 kamen im Dauerregen nur 12 Spieler und Spielerinnen. Deshalb wurde der Sommercup zu unserem Bedauern abgesagt.</p>
 
@@ -102,7 +102,7 @@
 
 		    <h3>Fünfte Mannschaft</h3>
 
-            <img src="images/WebFuenfte2024small.jpg" alt="Die Aufsteiger der fünften Mannschaft" title="Die Aufsteiger der fünften Mannschaft" />
+            <img src="images/WebFuenfte2024small.jpg" alt="Die Aufsteiger der fünften Mannschaft" title="Die Aufsteiger der fünften Mannschaft"  width="100%"/>
 
 			<p>Die 5. Mannschaft des BPV hat am 13. Juli in Bergalingen ihren Aufstieg aus der Bezirksliga in die Landesliga Schwarzwald-Oberrhein festgemacht.</p>
 
@@ -114,7 +114,7 @@
 
 			<h2>Nocturne am Samstag,<br>27. Juli ab 16.30 Uhr</h2>
 
-            <img src="images/WebNocturne2024small.jpg" alt="Nocturne 2024" title="Nocturne 2024" />
+            <img src="images/WebNocturne2024small.jpg" alt="Nocturne 2024" title="Nocturne 2024"  width="100%"/>
 
 </div>
 
