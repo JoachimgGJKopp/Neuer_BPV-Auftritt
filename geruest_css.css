@@ -284,7 +284,11 @@
         /* navigation Mobil */
 
         #navigation2 {
-            margin-top: 9em;
+            margin-top: 8.5em;
+        }
+
+        img{
+            border: none;
         }
 
         p {
