@@ -59,6 +59,23 @@
             position: relative;
         }
 
+        #btnMenu {
+            display:none;
+        }
+
+        @media screen and (max-width:calc(48rem - 1px)) {
+            #btnMenu { display:block; }
+            nav {display:none;}
+        }
+
+        /* $("#btnMenu").on("click", function() {
+            $(this).closest("nav").toggleClass("visible");
+        }); */
+
+        #btnMenu {
+            display:none;
+        }
+
         #teaser {
             grid-column: 1 / -1;
             /*margin-top: 4.5em;*/
@@ -262,6 +279,71 @@
         #navigation li li:hover ul {
             left:100%;
             top: 0;
+        }
+
+        /* navigation Mobil */
+
+        #navigation2 {
+            margin-top: 9em;
+        }
+
+        p {
+            font-size: 1em;
+        }
+
+        #navigation2 {
+            display: none;
+            border-radius: 2em;
+            background-color: rgb(3, 75, 3);
+            position: absolute;
+            width: 100%;
+            top: 0;
+            left: 0;
+            z-index: 1000;
+        }
+        
+        #navigation2 ul {
+            list-style-type: none;
+            padding: 1rem;
+            margin: 0;
+        }
+        
+        #navigation2 ul li {
+            padding: 1rem;
+            border-bottom: 1px solid white;
+        }
+        
+        #navigation2 ul li a {
+            color: white;
+            text-decoration: none;
+        }
+        
+        #navigation2 ul li ul.dropdown {
+            display: none;
+            border-radius: 1em;
+            background-color: rgb(21, 145, 62);
+            padding: 0;
+        }
+        
+        #navigation2 ul li:hover ul.dropdown {
+            display: block;
+        }
+        
+        #navigation2 ul li ul.dropdown li {
+            border-bottom: 1px solid darkgrey;
+        }
+        
+        #btnMenu {
+            padding: 0em 0em 1em 0em;
+            display: none;
+            background: none;
+            border: none;
+            cursor: pointer;
+        }
+        
+        @media screen and (max-width:calc(48rem - 1px)) {
+            nav { display: none; }
+            #btnMenu { display: block; }
         }
 
 

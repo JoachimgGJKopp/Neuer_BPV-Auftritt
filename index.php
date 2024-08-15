@@ -12,14 +12,43 @@
 </head>
 <body>
     <header id="header">
-        <!--<img id=greif src="images/Greif_neu.png" title="Logo BPV" alt="Logo BPV">
-        <p id="p1">Badischer Pétanque-Verein e.V. Freiburg</p>-->
         <img id=logo src="images/logo.png" title="Logo BPV" alt="Logo BPV">
     </header>
 
     <nav id="navigation">
         <?php include ('navigation.php'); ?>
     </nav>
+
+    <button id="btnMenu">
+        <img src="images/menu.png" alt="Menu">
+    </button>
+
+    <nav2 id="navigation2">
+        <ul>
+            <li><a href="index.php">Home</a></li>
+            <li>
+                <a href="#">Équipes</a>
+                <ul class="dropdown">
+                    <li><a href="mannschaft.1.php">1. Mannschaft</a></li>
+                    <li><a href="mannschaft.2.php">2. Mannschaft</a></li>
+                    <li><a href="mannschaft.3.php">3. Mannschaft</a></li>
+                    <li><a href="mannschaft.4.php">4. Mannschaft</a></li>
+                    <li><a href="mannschaft.5.php">5. Mannschaft</a></li>
+                </ul>
+            </li>
+            <li>
+                <a href="#">Verein</a>
+                <ul class="dropdown">
+                    <li><a href="vorstand.php">Vorstand</a></li>
+                    <li><a href="adresse 2.php">Adresse / Anfahrt</a></li>
+                    <li><a href="info.php">Informationen</a></li>
+                    <li><a href="sponsoren.php">Sponsoren</a></li>
+                </ul>
+            </li>
+            <li><a href="liga.php">Liga</a></li>
+            <li><a href="kontakt.php">Kontakt</a></li>
+        </ul>
+    </nav2>
 
     <teaser id="teaser">
         <img src="images/TeasHome.jpg" title="Frühling auf dem Platz" alt="Frühling auf dem Platz">
@@ -35,6 +64,23 @@
         <div><a target="_blank" href="http://www.sparkasse-freiburg.de/"><img src="images/Logospark.jpg" 
         alt="Logo der Sparkasse Freiburg" title="Logo der Sparkasse Freiburg" /></a></div>
     </Sparkasse>
+
+    <script src="scripts.js"></script>
+
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            const btnMenu = document.getElementById("btnMenu");
+            const navigation2 = document.getElementById("navigation2");
+
+            btnMenu.addEventListener("click", function() {
+                if (navigation2.style.display === "block") {
+                    navigation2.style.display = "none";
+                } else {
+                    navigation2.style.display = "block";
+                }
+            });
+        });
+    </script>
 
     <main>
 
