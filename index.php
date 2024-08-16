@@ -11,6 +11,11 @@
 
 </head>
 <body>
+    
+    <button id="btnMenu">
+        <img src="images/menu.png" alt="Menu">
+    </button>
+
     <header id="header">
         <img id=logo src="images/logo.png" title="Logo BPV" alt="Logo BPV">
     </header>
@@ -18,10 +23,6 @@
     <nav id="navigation">
         <?php include ('navigation.php'); ?>
     </nav>
-
-    <button id="btnMenu">
-        <img src="images/menu.png" alt="Menu">
-    </button>
 
     <nav2 id="navigation2">
         <ul>

@@ -283,6 +283,10 @@
 
         /* navigation Mobil */
 
+        h1{ font-size: 200%; }
+        h2{ font-size: 160%; }
+        h3{ font-size: 140%; }
+
         #navigation2 {
             margin-top: 8.5em;
         }
@@ -292,17 +296,19 @@
         }
 
         p {
-            font-size: 1em;
+            font-size: 1.2em;
         }
 
         #navigation2 {
             display: none;
-            border-radius: 2em;
-            background-color: rgb(3, 75, 3);
+            border-radius: 1em;
+            background-color: rgb(229, 228, 228);
             position: absolute;
-            width: 100%;
-            top: 0;
-            left: 0;
+            width: 60%;
+            top: -5em;
+            margin-left: 20%;
+            margin-right: 20%;
+            left: 0em;
             z-index: 1000;
         }
         
@@ -318,14 +324,14 @@
         }
         
         #navigation2 ul li a {
-            color: white;
+            color: black;
             text-decoration: none;
         }
         
         #navigation2 ul li ul.dropdown {
             display: none;
             border-radius: 1em;
-            background-color: rgb(21, 145, 62);
+            background-color: rgb(247, 246, 246);
             padding: 0;
         }
         
@@ -338,11 +344,11 @@
         }
         
         #btnMenu {
-            padding: 0em 0em 1em 0em;
             display: none;
             background: none;
             border: none;
             cursor: pointer;
+            margin-bottom: -2em;
         }
         
         @media screen and (max-width:calc(48rem - 1px)) {
