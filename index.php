@@ -1,14 +1,8 @@
 <!DOCTYPE html>
 <html lang="de">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="css/common.css">
-    <link rel="stylesheet" href="css/grid2.css">
-    <link rel="stylesheet" type="text/css" href="geruest_css.css" />
-    
     <title>Index</title>
-
+    <?php include ('header.php'); ?>
 </head>
 <body>
     
@@ -25,30 +19,7 @@
     </nav>
 
     <nav2 id="navigation2">
-        <ul>
-            <li><a href="index.php">Home</a></li>
-            <li>
-                <a href="#">Équipes</a>
-                <ul class="dropdown">
-                    <li><a href="mannschaft.1.php">1. Mannschaft</a></li>
-                    <li><a href="mannschaft.2.php">2. Mannschaft</a></li>
-                    <li><a href="mannschaft.3.php">3. Mannschaft</a></li>
-                    <li><a href="mannschaft.4.php">4. Mannschaft</a></li>
-                    <li><a href="mannschaft.5.php">5. Mannschaft</a></li>
-                </ul>
-            </li>
-            <li>
-                <a href="#">Verein</a>
-                <ul class="dropdown">
-                    <li><a href="vorstand.php">Vorstand</a></li>
-                    <li><a href="adresse 2.php">Adresse / Anfahrt</a></li>
-                    <li><a href="info.php">Informationen</a></li>
-                    <li><a href="sponsoren.php">Sponsoren</a></li>
-                </ul>
-            </li>
-            <li><a href="liga.php">Liga</a></li>
-            <li><a href="kontakt.php">Kontakt</a></li>
-        </ul>
+        <?php include ('navigation2.php'); ?>
     </nav2>
 
     <teaser id="teaser">
@@ -89,8 +60,10 @@
 
             <h2>Der Sommercup ist schon wieder ins Wasser gefallen</h2>
 
-            <img src="images/WebSommercup2024small.jpg" alt="Sommercup 2024" title="Sommercup 2024" width="100%"/>
-    
+            <a href="images/WebSommercup2024big.jpg"><img 
+		    src="images/WebSommercup2024small.jpg" alt="Sommercup 2024"
+ 		    title="Sommercup 2024" /></a>
+
             <p style="color:red;">Am Samstag, den 27. Juli 2024 findet der Sommercup 		
             nicht statt, weil das NOCTURNE ab 16.30 Uhr stattfindet.</p>
     
@@ -159,10 +132,11 @@
 
 			<p>Insgesamt kann der Verein mit der sportlichen Leistung der Mannschaften sehr zufrieden sein und mit gutem Mut in die Saison 2025 blicken.</p>
 
-			<h2>Nocturne am Samstag,<br>27. Juli ab 16.30 Uhr</h2>
+			<h2>Jubiläumsturnier am Freitag, 1. November</h2>
 
-            <img src="images/WebNocturne2024small.jpg" alt="Nocturne 2024" title="Nocturne 2024"  width="100%"/>
-
+            <a href="images/WebJubi2024big.jpg"><img 
+		    src="images/WebJubi2024small.jpg" alt="Sommercup 2024"
+ 		    title="Sommercup 2024" /></a>
 </div>
 
     </main>
