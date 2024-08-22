@@ -137,15 +137,13 @@
             <a href="images/WebJubi2024big.jpg"><img 
 		    src="images/WebJubi2024small.jpg" alt="Sommercup 2024"
  		    title="Sommercup 2024" /></a>
-</div>
+
+        </div>
 
     </main>
-    <footer id="footer">
-        <div id="fusszeile">
-            <p class="bottom-right"><a href="impressum.php">Impresssum</a></p>
-            <p>Copyright &copy; 2024 Andreas Schulz und Joachim Kopp</p>
-        </div>
-    </footer>
+
+    <?php include('inc_fusszeile.php') ?>
+    
 </body>
 
 </html>

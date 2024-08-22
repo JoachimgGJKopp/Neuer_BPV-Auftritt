@@ -22,20 +22,7 @@
         <?php include ('navigation2.php'); ?>
     </nav2>
 
-    <teaser id="teaser">
-        <img src="images/Kontakt.jpg" title="Dokumente" alt="Dokumente">
-    </teaser>
-
-    <Turnierplan id="turnierplan">
-        <div><a href="images/Turnierplan2024.pdf"><img src="images/WebTurnierplan2024klein.gif" 
-        alt="Turnierplan 2024 des BPV-Freiburg" onmouseover="src='images/WebTurnierplan2024kleinA.gif'" 
-        onmouseout="src='images/WebTurnierplan2024klein.gif'" /></a></div>
-    </Turnierplan>
-
-    <Sparkasse id="sparkasse">   
-        <div><a target="_blank" href="http://www.sparkasse-freiburg.de/"><img src="images/Logospark.jpg" 
-        alt="Logo der Sparkasse Freiburg" title="Logo der Sparkasse Freiburg" /></a></div>
-    </Sparkasse>
+    <img src="images/Kontakt.jpg" title="Dokumente" alt="Dokumente" style="margin-bottom: 9em;">
 
     <script src="scripts.js"></script>
 
@@ -63,7 +50,7 @@
             <table>
 
                 <thead>
-                    <tr><td style="color: rgb(3, 75, 3);">BPV-Plakate</td><td>Downloads</td></tr>
+                    <tr><td style="color: rgb(3, 75, 3);">BPV-Plakate</td></tr>
                 </thead>
 
                 <tbody>
@@ -92,7 +79,7 @@
             <table>
 
                 <thead>
-                    <tr><td style="color: rgb(3, 75, 3);">Materialien</td><td>Downloads</td></tr>
+                    <tr><td style="color: rgb(3, 75, 3);">Materialien</td></tr>
                 </thead>
 
                 <tbody>
