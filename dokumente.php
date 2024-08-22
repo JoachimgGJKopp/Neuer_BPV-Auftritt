@@ -22,9 +22,9 @@
         <?php include ('navigation2.php'); ?>
     </nav2>
 
-    <img src="images/Kontakt.jpg" title="Dokumente" alt="Dokumente" style="margin-bottom: 9em;">
+    <img src="images/Kontakt.jpg" title="Dokumente" alt="Dokumente" style="margin-bottom: 2em;">
 
-    <script src="scripts.js"></script>
+    <!--<script src="scripts.js"></script>-->
 
     <script>
         document.addEventListener("DOMContentLoaded", function() {

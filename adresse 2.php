@@ -36,7 +36,7 @@
         alt="Logo der Sparkasse Freiburg" title="Logo der Sparkasse Freiburg" /></a></div>
     </Sparkasse>
 
-    <script src="scripts.js"></script>
+    <!--<script src="scripts.js"></script>-->
 
     <script>
         document.addEventListener("DOMContentLoaded", function() {
