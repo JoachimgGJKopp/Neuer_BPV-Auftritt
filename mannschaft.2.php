@@ -49,27 +49,19 @@
             
     <div id="mannschaft1">
 
-        <table>
+        <h3>Mannschaftsmitglieder</h3>
 
-            <thead>
-                <tr><th style="color:rgb(3, 75, 3)">Mannschaftsmitglieder</th></tr>
-            </thead>
-
-            <tbody>
-                <tr><td><th>David Ivan Farias Da Silva</th></td></tr>
-                <tr><td><th>Paulo Da Silva</th></td></tr>
-                <tr><td><th>Muazzez Eckert</th></td></tr>
-                <tr><td><th>Andreas Herrmann (Mannschaftsf&uuml;hrer)</th><td>Mail: hoerm68@web.de</td></tr>
-                <tr><td><th>Dominik Hanser</th></td></tr>
-                <tr><td><th>Nik Heyder</th></td></tr>
-                <tr><td><th>Lyes-Sofian Lounes</th></td></tr>
-                <tr><td><th>Heike Nägele</th></td></tr>
-                <tr><td><th>Xavier Peyre</th></td></tr>
-                <tr><td><th>Martin Pfitzner</th></td></tr>
-                <tr><td><th>Andriniaina Ramahemintsoa Fenohasina</th></td></tr>
-            </tbody>
-
-        </table>
+        <p1>David Ivan Farias Da Silva<br>
+        Paulo Da Silva<br>
+        Muazzez Eckert<br>
+        Andreas Herrmann (Mannschaftsführer)&nbsp;&nbsp;<small>Mail: hoerm68@web.de</small><br>
+        Dominik Hanser<br>
+        Nik Heyder<br>
+        Lyes-Sofian Lounes<br>
+        Heike Nägele<br>
+        Xavier Peyre<br>
+        Martin Pfitzner<br>
+        Andriniaina Ramahemintsoa Fenohasina</p1>
 
     </div>
 

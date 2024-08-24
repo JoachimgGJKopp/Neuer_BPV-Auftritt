@@ -49,27 +49,19 @@
             
     <div id="mannschaft1">
 
-        <table>
+        <h3>Mannschaftsmitglieder</h3>
 
-            <thead>
-                <tr><th style="color:rgb(3, 75, 3)">Mannschaftsmitglieder</th></tr>
-            </thead>
-
-            <tbody>
-                <tr><td><th>Oliver Anders</th></td></tr>
-                <tr><td><th>Harry Burger</th></td></tr>
-                <tr><td><th>Njakanosy Iandrianantenaina</th></td></tr>
-                <tr><td><th>Didier Kauffmann</th></td></tr>
-                <tr><td><th>Franz Kirschner</th></td></tr>
-                <tr><th><th>John Lancon</th></td></tr>
-                <tr><td><th>Harry Maugeais</th></td></tr>
-                <tr><td><th>Clement Melnikoff</th></td></tr>
-                <tr><td><th>Cathy Noll (Mannschaftsführerin)</th><td>Mail: c.noll@noll-avocats.com</td></tr>
-                <tr><td><th>Anjaratiana Rabeariosa</th></td></tr>
-                <tr><td><th>Christophe Riff</th></td></tr>
-            </tbody>
-
-        </table>
+        <p1>Oliver Anders<br>
+        Harry Burger<br>
+        Njakanosy Iandrianantenaina<br>
+        Didier Kauffmann<br>
+        Franz Kirschner<br>
+        John Lancon<br>
+        Harry Maugeais<br>
+        Clement Melnikoff<br>
+        Cathy Noll (Mannschaftsführerin)&nbsp;&nbsp;<small>Mail: c.noll@noll-avocats.com</small><br>
+        Anjaratiana Rabeariosa<br>
+        Christophe Riff</p1>
 
     </div>
 

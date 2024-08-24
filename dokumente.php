@@ -22,9 +22,10 @@
         <?php include ('navigation2.php'); ?>
     </nav2>
 
-    <img src="images/Kontakt.jpg" title="Dokumente" alt="Dokumente" style="margin-bottom: 2em;">
-
-    <!--<script src="scripts.js"></script>-->
+    <teaser>
+        <img src="images/Kontakt.jpg" title="Dokumente" alt="Dokumente" style="margin-bottom: 1em;">
+        <h2>Dokumente</h2>
+    </teaser>
 
     <script>
         document.addEventListener("DOMContentLoaded", function() {
@@ -42,8 +43,6 @@
     </script>
 
     <div id="dokumente">
-
-        <h2>Dokumente</h2>
 
         <div id="dokumente-plakate">
     
@@ -74,7 +73,7 @@
             
         </div>
         
-        <div id="dokumente-material">
+        <div id="dokumente-material";>
     
             <table>
 

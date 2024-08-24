@@ -1,10 +1,12 @@
 ﻿
 <!DOCTYPE html>
 <html lang="de">
+    
 <head>
     <title>Liga</title>
     <?php include ('header.php'); ?>
 </head>
+
 <body>
     
     <button id="btnMenu">
@@ -24,11 +26,9 @@
     </nav2>
 
     <teaser id="teaser">
-        <img src="images/TeasLiga.jpg" alt="Turnier im Seepark" title="Turnier im Seepark" />
+        <img src="images/TeasLiga.jpg" alt="Turnier im Seepark" title="Turnier im Seepark" style="margin-bottom: 1em;"/>
         <h2>Information zum Ligasport des BPV Freiburg</h2>
     </teaser>
-
-    <script src="scripts.js"></script>
 
     <script>
         document.addEventListener("DOMContentLoaded", function() {
@@ -47,7 +47,7 @@
 
     <div id="liga">
 
-        <div id="liga-text">
+        <div id="Liga-text">
 
             <p>Der Verein ist sportlich ausgerichtet. Dies belegt sein Liga-Engagement und
             die Ausrichtung von lizenzfreien und Ranglisten-Turnieren.</p> 
@@ -69,7 +69,7 @@
 
         </div>
         
-        <div id="liga-links">
+        <div id="Liga-links">
 
             <h3>Links zu Ligen</h3>
 
@@ -87,7 +87,7 @@
     </div>
 
     <?php include('inc_fusszeile.php') ?>
-                
+          
 </body>
 </html>
 

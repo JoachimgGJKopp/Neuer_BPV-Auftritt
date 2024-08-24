@@ -23,7 +23,7 @@
     </nav2>
 
     <teaser id=teaser>
-        <img src="images/TeasHexen2015.jpg" alt="elsässer Hexen" title="elsässer Hexen" style="margin-bottom: 9em"/>
+        <img src="images/TeasHexen2015.jpg" alt="elsässer Hexen" title="elsässer Hexen" style="margin-bottom: 11em"/>
     </teaser>
 
     <script src="scripts.js"></script>

@@ -49,27 +49,20 @@
             
     <div id="mannschaft1">
 
-        <table>
+        <h3>Mannschaftsmitglieder</h3>
 
-            <thead>
-                <tr><th style="color:rgb(3, 75, 3)">Mannschaftsmitglieder</th></tr>
-            </thead>
-
-            <tbody>
-                    <tr><td><th>Serge Aloird</th></td></tr>
-                    <tr><td><th>Claude Carette</th></td></tr>
-                    <tr><td><th>Youcef Hamoudi</th></td></tr>
-                    <tr><td><th>Helmut Köttner</th></td></tr>
-                    <tr><td><th>Harry Kröner</th></td></tr>
-                    <tr><td><th>Erika Passon (Mannschaftsführerin)</th><td>Mail: RikaMitsch@gmx.de</td></tr>
-                    <tr><td><th>Denis Reinhardt</th></td></tr>
-                    <tr><td><th>Anjarasoa Ratohinomenjonahary</th></td></tr>
-                    <tr><td><th>Barbara Staudinger</th></td></tr>
-                    <tr><td><th>Julia Tengattini</th></td></tr>
-                    <tr><td><th>Tim Villard</th></td></tr>
-               </tbody>
-
-        </table>
+        <p1>Serge Aloird<br>
+        Claude Carette<br>
+        Muazzez Eckert<br>
+        Youcef Hamoudi<br>
+        Helmut Köttner<br>
+        Harry Kröner<br>
+        Erika Passon (Mannschaftsführerin)&nbsp;&nbsp;<small>Mail: RikaMitsch@gmx.de</small></br>
+        Denis Reinhardt<br>
+        Anjarasoa Ratohinomenjonahary<br>
+        Barbara Staudinger<br>
+        Julia Tengattini<br>
+        Tim Villard</p1>
 
     </div>
 

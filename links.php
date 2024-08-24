@@ -46,7 +46,7 @@
         
     <div id="links">
 
-        <div id="linkspalte1">
+        <div id="Linkspalte1">
 
             <h2>Verbände</h2>
 
@@ -69,7 +69,7 @@
     
         </div>
 
-        <div id="linkspalte2">
+        <div id="Linkspalte2">
 
             <h2>Vereine</h2>
 
@@ -89,11 +89,11 @@
 
         </div>
         
-        <div id="linkspalte3">
+        <div id="Linkspalte3">
 
             <h2>Boule-Spieler</h2>
 
-            <p><a target="_blank"href="http://www.boulistenaute.com/actualite-joueurs-petanque-portrait-20-rocher-dylan-benji-4760">Spieler Dylan Rocher</a><br>
+            <p><a target="_blank"href="https://www.famille-rocher.com/index.php">Spieler Dylan Rocher</a><br>
             <a target="_blank"href="http://www.quintaisport.fr/">Spieler Phillippe Quintais</a><br>
             <a target="_blank"href="http://bruno.leboursicaud.free.fr/">Spieler Bruno Leboursicaud</a></p>
 
@@ -114,7 +114,7 @@
 
         </div>
         
-        <div id="linkspalte4">
+        <div id="Linkspalte4">
 
             <h2>Literatur / Video</h2>
 

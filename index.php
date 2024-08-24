@@ -33,8 +33,7 @@
     </Turnierplan>
 
     <Sparkasse id="sparkasse">   
-        <div><a target="_blank" href="http://www.sparkasse-freiburg.de/"><img src="images/Logospark.jpg" 
-        alt="Logo der Sparkasse Freiburg" title="Logo der Sparkasse Freiburg" /></a></div>
+        <div><a target="_blank" href="http://www.sparkasse-freiburg.de/"><img src="images/Logospark.jpg" alt="Logo der Sparkasse Freiburg" title="Logo der Sparkasse Freiburg" /></a></div>
     </Sparkasse>
 
     <!--<script src="scripts.js"></script>-->
@@ -75,14 +74,13 @@
             Preisgeldtopf für das Abschlussturnier und die Endrangliste. Cash pro Turnier und 
             Spieler sind 3,50 EUR.</p>
     
-            <img src="images/WebSommercup20240622small1.jpg" alt="Sommercup 2024" title="Sommercup 2024">
+            <img src="images/WebSommercup20240622small1.jpg" alt="Sommercup 2024" title="Sommercup 2024" width="100%"/>
     
-            <p>Am Samstag, den 6. Juli 2024 kamen im Dauerregen nur 12 Spieler und Spielerinnen. Deshalb wurde der 
-            Sommercup zu unserem Bedauern abgesagt.</p>
+            <BR CLEAR="left"><p>Am Samstag, den 6. Juli 2024 kamen im Dauerregen nur 12 Spieler und Spielerinnen. Deshalb wurde der Sommercup zu unserem Bedauern abgesagt.</p>
 
             <p>Hier die <a target="_blank"href="images/Samstagspiele_Tag_06_20240615.pdf">Rangliste</a>
             vom 15. Juni.</p>
-            
+
         </div>
 
         <div id="Inhalt2">
@@ -124,7 +122,7 @@
 
 		    <h3>Fünfte Mannschaft</h3>
 
-            <img src="images/WebFuenfte2024small.jpg" alt="Die Aufsteiger der fünften Mannschaft" title="Die Aufsteiger der fünften Mannschaft">
+            <img src="images/WebFuenfte2024small.jpg" alt="Die Aufsteiger der fünften Mannschaft" title="Die Aufsteiger der fünften Mannschaft"  width="100%"/>
 
 			<p>Die 5. Mannschaft des BPV hat am 13. Juli in Bergalingen ihren Aufstieg aus der Bezirksliga in die Landesliga Schwarzwald-Oberrhein festgemacht.</p>
 
@@ -136,10 +134,7 @@
 
 			<h2>Jubiläumsturnier am Freitag, 1. November</h2>
 
-            <a href="images/WebJubi2024big.jpg"><img 
-		    src="images/WebJubi2024small.jpg" alt="Sommercup 2024"
- 		    title="Sommercup 2024" /></a>
-
+            <a href="images/WebJubi2024big.jpg"><img src="images/WebJubi2024small.jpg" alt="Sommercup 2024" title="Sommercup 2024" /></a>
         </div>
 
     </main>

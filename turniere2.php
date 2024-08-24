@@ -23,21 +23,8 @@
     </nav2>
 
     <teaser id="teaser">
-        <img src="images/TeasTurnier.jpg" title="Das Boulodrome" alt="Das Boulodrome">
+        <img src="images/TeasTurnier.jpg" title="Das Boulodrome" alt="Das Boulodrome" style="margin-bottom: 10em;">
     </teaser>
-
-    <Turnierplan id="turnierplan">
-        <div><a href="images/Turnierplan2024.pdf"><img src="images/WebTurnierplan2024klein.gif" 
-        alt="Turnierplan 2024 des BPV-Freiburg" onmouseover="src='images/WebTurnierplan2024kleinA.gif'" 
-        onmouseout="src='images/WebTurnierplan2024klein.gif'" /></a></div>
-    </Turnierplan>
-
-    <Sparkasse id="sparkasse">   
-        <div><a target="_blank" href="http://www.sparkasse-freiburg.de/"><img src="images/Logospark.jpg" 
-        alt="Logo der Sparkasse Freiburg" title="Logo der Sparkasse Freiburg" /></a></div>
-    </Sparkasse>
-
-    <script src="scripts.js"></script>
 
     <script>
         document.addEventListener("DOMContentLoaded", function() {
@@ -88,7 +75,6 @@
             <a target="_blank"href="images/SC_Rangliste_20221015_Tag_25.pdf">2022</a>,
             <a target="_blank"href="images/Samstagspiele20191012.pdf">2019</a> und 
             <a target="_blank"href="images/Samstagspiele2018.pdf">2018</a> einsehen.</p>
-
 
         </div>
 

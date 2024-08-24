@@ -49,26 +49,18 @@
             
     <div id="mannschaft1">
 
-        <table>
+        <h3>Mannschaftsmitglieder</h3>
 
-            <thead>
-                <tr><th style="color:rgb(3, 75, 3)">Mannschaftsmitglieder</th></tr>
-            </thead>
-
-            <tbody>
-                <tr><td><th>Mensur Barakovic</th></td></tr>
-                <tr><td><th>Bernd Birnbreier</th></td></tr>
-                <tr><td><th>Martin Böhler</th></td></tr>
-                <tr><td><th>Salvador Fernandez (Mannschaftsführer)</th><td>Mail: salvafreiburg@gmail.com</td></tr>
-                <tr><td><th>Sahoby Olivier Herinantenaina</th></td></tr>
-                <tr><td><th>Hermann Klausmann</th></td></tr>
-                <tr><td><th>Hans Koch</th></td></tr>
-                <tr><td><th>Hasina Liantsoa Razanajatovo</th></td></tr>
-                <tr><td><th>Thomas Marschner</th></td></tr>
-                <tr><td><th>Hans Pfeiffer</th></td></tr>
-            </tbody>
-
-        </table>
+        <p1>Mensur Barakovic<br>
+        Bernd Birnbreier<br>
+        Martin Böhler<br>
+        Salvador Fernandez (Mannschaftsführer)&nbsp;&nbsp;<small>Mail: salvafreiburg@gmail.com</small><br>
+        Sahoby Olivier Herinantenaina<br>
+        Hermann Klausmann<br>
+        Hans Koch<br>
+        Hasina Liantsoa Razanajatovo<br>
+        Thomas Marschner<br>
+        Hans Pfeiffer</p1>
 
     </div>
 

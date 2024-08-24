@@ -23,21 +23,10 @@
     </nav2>
 
     <teaser id="teaser">
-        <img src="archiv/TeasArchiv.jpg" title="Frühling auf dem Platz" alt="Frühling auf dem Platz">
+        <img src="archiv/TeasArchiv.jpg" title="Frühling auf dem Platz" alt="Frühling auf dem Platz" style="margin-bottom: 11em;">
     </teaser>
 
-    <Turnierplan id="turnierplan">
-        <div><a href="images/Turnierplan2024.pdf"><img src="images/WebTurnierplan2024klein.gif" 
-        alt="Turnierplan 2024 des BPV-Freiburg" onmouseover="src='images/WebTurnierplan2024kleinA.gif'" 
-        onmouseout="src='images/WebTurnierplan2024klein.gif'" /></a></div>
-    </Turnierplan>
-
-    <Sparkasse id="sparkasse">   
-        <div><a target="_blank" href="http://www.sparkasse-freiburg.de/"><img src="images/Logospark.jpg" 
-        alt="Logo der Sparkasse Freiburg" title="Logo der Sparkasse Freiburg" /></a></div>
-    </Sparkasse>
-
-    <script src="scripts.js"></script>
+    <!--<script src="scripts.js"></script>-->
 
     <script>
         document.addEventListener("DOMContentLoaded", function() {
@@ -61,7 +50,7 @@
 	        <p>Das Archiv enthält screen shots der Startseite. Diese werden immer dann archiviert, wenn die Startseite grundlegend aktualisiert wird.</p>
 
         	<h2>2018</h2>
-				<a target="_blank"href="archiv/screenshot20180904.jpg">04.09.2018</a> Sönke LM, Bernard<br>
+				<p><a target="_blank"href="archiv/screenshot20180904.jpg">04.09.2018</a> Sönke LM, Bernard<br>
 				<a target="_blank"href="archiv/screenshot20180910.jpg">10.09.2018</a> Oktoberfest<br>
 				<a target="_blank"href="archiv/screenshot20181002.jpg">02.10.2018</a> Herbstturnier<br>
 				<a target="_blank"href="archiv/screenshot20181014.jpg">14.10.2018</a> Finale Sommercup<br>
@@ -71,7 +60,7 @@
 
         	<h2>2019</h2>
 
-				<a target="_blank"href="archiv/screenshot20190205.jpg">05.02.2019</a> Regelabend, Start Cup<br>
+				<p><a target="_blank"href="archiv/screenshot20190205.jpg">05.02.2019</a> Regelabend, Start Cup<br>
 				<a target="_blank"href="archiv/screenshot20190315.jpg">15.03.2019</a> Mitgliederversammlung<br>
 				<a target="_blank"href="archiv/screenshot20190324.jpg">24.03.2019</a> Frühlingsturnier<br>
 				<a target="_blank"href="archiv/screenshot20190623.jpg">23.06.2019</a> 44. Badische<br>
@@ -87,7 +76,7 @@
 
         	<h2>2020</h2>
 
-				<a target="_blank"href="archiv/screenshot20200104.jpg">04.01.2020</a> Laubaktion<br>
+				<p><a target="_blank"href="archiv/screenshot20200104.jpg">04.01.2020</a> Laubaktion<br>
 				<a target="_blank"href="archiv/screenshot20200108.jpg">08.01.2020</a> Abwasserprobleme<br>
 				<a target="_blank"href="archiv/screenshot20200218.jpg">18.02.2020</a> neues Flutlicht<br>
 				<a target="_blank"href="archiv/screenshot20200221.jpg">21.02.2020</a> Einladung MV<br>
@@ -97,7 +86,7 @@
 
         <div id="Inhalt2">
 
-				<a target="_blank"href="archiv/screenshot20200317.jpg">17.03.2020</a> MV verschoben<br>
+				<p><a target="_blank"href="archiv/screenshot20200317.jpg">17.03.2020</a> MV verschoben<br>
 				<a target="_blank"href="archiv/screenshot20200501.jpg">01.05.2020</a> Regeln Pandemie<br>
 				<a target="_blank"href="archiv/screenshot20200512.jpg">12.05.2020</a> Wiedereröffnung<br>
 				<a target="_blank"href="archiv/screenshot20200526.jpg">26.05.2020</a> Corona KM 02.06.<br>
@@ -111,13 +100,13 @@
 
 			<h2>2021</h2>
 
-				<a target="_blank"href="archiv/screenshot20210721.jpg">21.07.2021</a> Nachruf Fred Hauser<br>
+				<p><a target="_blank"href="archiv/screenshot20210721.jpg">21.07.2021</a> Nachruf Fred Hauser<br>
 				<a target="_blank"href="archiv/screenshot20210908.jpg">08.09.2021</a> DM Qualis 2021<br>
 				<a target="_blank"href="archiv/screenshot20211126.jpg">26.11.2021</a> Vereinsturnier</p>
 
 	    	<h2>2022</h2>
 
-				<a target="_blank"href="archiv/screenshot20220522.jpg">22.05.2022</a> Bronze, 2. BaWü-Tag<br>
+				<p><a target="_blank"href="archiv/screenshot20220522.jpg">22.05.2022</a> Bronze, 2. BaWü-Tag<br>
 				<a target="_blank"href="archiv/screenshot20220622.jpg">22.06.2022</a> 3. DM, 1. BaWü-Liga<br>
 				<a target="_blank"href="archiv/screenshot20220705.jpg">05.07.2022</a> Ligaabschluss 2022<br>
 				<a target="_blank"href="archiv/screenshot20220711.jpg">11.07.2022</a> Einladung aoMV 2022<br>
@@ -132,15 +121,14 @@
 
 			<h2>2023</h2>
 
-				<a target="_blank"href="archiv/screenshot20230324.jpg">24.03.2023</a> Mitgliederversammlung<br>
-				<a target="_blank"href="archiv/screenshot20230402.jpg">02.04.2023</a> Frühlingsturnier 2023<br>
-				<a target="_blank"href="archiv/screenshot20230407.jpg">07.04.2023</a> Pokal Cadrage 2023 Bergalingen</p>
-
+				<p><a target="_blank"href="archiv/screenshot20230324.jpg">24.03.2023</a> Mitgliederversammlung<br>
+				<a target="_blank"href="archiv/screenshot20230402.jpg">02.04.2023</a> Frühlingsturnier 2023</p>
+			
         </div>
 		
         <div id="Inhalt3">
 
-
+				<p><a target="_blank"href="archiv/screenshot20230407.jpg">07.04.2023</a> Pokal Cadrage 2023 Bergalingen<br>
 				<a target="_blank"href="archiv/screenshot20230411.jpg">11.04.2023</a> Erneuerung Belag Boulodrome<br>
 				<a target="_blank"href="archiv/screenshot20230415.jpg">15.04.2023</a> Start Sommercup 2023<br>
 				<a target="_blank"href="archiv/screenshot20230421.jpg">21.04.2023</a> Nachruf Paula Jörger<br>
@@ -159,7 +147,7 @@
 
 			<h2>2024</h2>
 
-				<a target="_blank"href="archiv/screenshot20240323.jpg">23.03.2024</a> Frühjahrsputzete<br>
+				<p><a target="_blank"href="archiv/screenshot20240323.jpg">23.03.2024</a> Frühjahrsputzete<br>
 				<a target="_blank"href="archiv/screenshot20240322.jpg">22.03.2024</a> MV 2024 Kurzbericht<br>
 				<a target="_blank"href="archiv/screenshot20240407.jpg">07.04.2024</a> Frühjahrsturnier 2024<br>
 				<a target="_blank"href="archiv/screenshot20240515.jpg">15.05.2024</a> neuer Pavillon<br>

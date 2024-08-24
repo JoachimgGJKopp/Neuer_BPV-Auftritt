@@ -45,21 +45,8 @@
     </nav2>
 
     <teaser id="teaser">
-        <img src="images/TeasBegin.jpg" title="Vereinsheim des BPV" alt="Vereinsheim des BPV">
+        <img src="images/TeasBegin.jpg" title="Vereinsheim des BPV" alt="Vereinsheim des BPV" style="margin-bottom: 10em;">
     </teaser>
-
-    <Turnierplan id="turnierplan">
-        <div><a href="images/Turnierplan2024.pdf"><img src="images/WebTurnierplan2024klein.gif" 
-        alt="Turnierplan 2024 des BPV-Freiburg" onmouseover="src='images/WebTurnierplan2024kleinA.gif'" 
-        onmouseout="src='images/WebTurnierplan2024klein.gif'" /></a></div>
-    </Turnierplan>
-
-    <Sparkasse id="sparkasse">   
-        <div><a target="_blank" href="http://www.sparkasse-freiburg.de/"><img src="images/Logospark.jpg" 
-        alt="Logo der Sparkasse Freiburg" title="Logo der Sparkasse Freiburg" /></a></div>
-    </Sparkasse>
-
-    <script src="scripts.js"></script>
 
     <script>
         document.addEventListener("DOMContentLoaded", function() {
