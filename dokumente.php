@@ -23,7 +23,7 @@
     </nav2>
 
     <teaser>
-        <img src="images/Kontakt.jpg" title="Dokumente" alt="Dokumente" style="margin-bottom: 1em;">
+        <img src="images/kontakt.jpg" title="Dokumente" alt="Dokumente" style="margin-bottom: 1em;">
         <h2>Dokumente</h2>
     </teaser>
 

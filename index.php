@@ -57,85 +57,92 @@
 
         <div id="Inhalt1">
 
-            <h2>Der Sommercup ist schon wieder ins Wasser gefallen</h2>
+			<h3>Der Sommercup läuft</h3>
 
-            <a href="images/WebSommercup2024big.jpg"><img 
-		    src="images/WebSommercup2024small.jpg" alt="Sommercup 2024"
- 		    title="Sommercup 2024" /></a>
+			<div class="galerie-foto"><a rel="lightbox"
+			href="images/WebSommercup2024big.jpg"><img 
+			src="images/WebSommercup2024medium.jpg" alt="Sommercup 2024"
+			title="Sommercup 2024" /></a></div>
 
-            <p style="color:red;">Am Samstag, den 27. Juli 2024 findet der Sommercup 		
-            nicht statt, weil das NOCTURNE ab 16.30 Uhr stattfindet.</p>
-    
-            <p>Am Samstag, den 20. Juli 2024 spielen wir im Seepark ab 13.30
-            Uhr Doublette Formée. Das Spiel ist lizenzfrei und jedermann ist herzlich
-            eingeladen mit uns mitzuspielen.</p>
-    
-            <p>Der Einsatz pro Spieler beträgt 5 EUR, davon gehen 1,50 EUR in den
-            Preisgeldtopf für das Abschlussturnier und die Endrangliste. Cash pro Turnier und 
-            Spieler sind 3,50 EUR.</p>
-    
-            <img src="images/WebSommercup20240622small1.jpg" alt="Sommercup 2024" title="Sommercup 2024" width="100%"/>
-    
-            <BR CLEAR="left"><p>Am Samstag, den 6. Juli 2024 kamen im Dauerregen nur 12 Spieler und Spielerinnen. Deshalb wurde der Sommercup zu unserem Bedauern abgesagt.</p>
+			<p>Am Samstag, den 31. August 2024 spielen wir im Seepark ab 13.30
+			Uhr Tête à Tête (Mann gegen Mann).</p> <p>Das Spiel ist lizenzfrei und jedermann ist 			herzlich
+			eingeladen mit uns mitzuspielen.</p>
 
-            <p>Hier die <a target="_blank"href="images/Samstagspiele_Tag_06_20240615.pdf">Rangliste</a>
-            vom 15. Juni.</p>
+			<p>Der Einsatz pro Spieler beträgt 5 EUR, davon gehen 1,50 EUR in den
+			Preisgeldtopf für das Abschlussturnier und die Endrangliste. Cash pro Turnier und 
+			Spieler sind 3,50 EUR.</p>
+
+			<div class="galerie-foto"><a rel="lightbox"
+			href="images/WebSommercup20240824big.jpg"><img 
+			src="images/WebSommercup20240824medium.jpg" alt="Sommercup 2024"
+			title="Sommercup 2024" /></a></div>
+
+			<p>Am Samstag, den 24. August 2024 kamen bei heißem und gewitterigen
+			Wetter zur Doublette Formée 28 Spieler und Spielerinnen.</p>
+
+			<p><strong>Die Sieger sind:</strong></p>
+			<p>1. Hasina Hasina und Gino de Cunzo,</p>
+			<p>2. Matthew Byrne und Andry Ram,</p> 
+			<p>3. Nik Heyder und Christian Fakler,</p>
+			<p>4. Karin Sumser und Harald Mayer.</p>
+
+			<p>Hier die <a target="_blank"href="images/Samstagspiele_Tag_13_20240824.pdf">Rangliste</a>
+			vom 24. August.</p>
+
 
         </div>
 
         <div id="Inhalt2">
 
-            <h2>Ligaergebnisse der Saison 2024</h2>
+			<h3>Nocturne</h3>
 
-            <h3>Erste Mannschaft</h3>
-    
-            <p>Unsere 1. Mannschaft musste sich mit 9:2 Punkten nur dem BC Achern 1 (11:0) geschlagen geben und hat somit einen stolzen 2. Platz errungen.</p>
-    
-            <p>Wir gratulieren zu dieser sehr guten Leistung der Mannschaft.</p>
-            
-            <h3>Zweite Mannschaft</h3>
-    
-            <p>Unsere 2. Mannschaft hat nach BC Lindenberg 1 und BC Ettenheim 1 einen guten 3. Platz in der Regionalliga Süd errungen. 
-            Die Qualität dieser Mannschaft zeigt sich in der überragenden Spieledifferenz von 21 Zählern.
-            Keine andere Mannschaft der Regionalliga Süd kann eine zweistellige positive Spieledifferenz vorweisen.<p>
-    
-            <p>Auch hier honorieren wir eine gute Leistung mit Applaus.</p>
-    
-            <h3>Dritte Mannschaft</h3>
-                
-            <p>Unsere Dritte Mannschaft steht auf dem besten Abstiegsplatz in der Regionalliga Süd. Dies eröffnet die Chance, 
-            dass Aufsteiger einen Platz frei machen, den unsere Dritte in der Regionalliga Süd 2025 einnehmen kann. Dies wird sich im kommenden Herbst entscheiden.</p>
-    
-            <h3>Vierte Mannschaft</h3>
-    
-            <p>Unsere 4. Mannschaft ist haarscharf am Aufstieg in der Landesliga Schwarzwald-Oberrhein vorbeigeschrammt und beendet die Saison 2024 auf dem 2. Platz.</p>
-    
-            <p>Dogern hat den 1. Platz errungen wozu wir gratulieren. Dogern hat zwar eine Begegnung mehr gewonnen (7:2) </p>
-    
+			<p>Um 16.30 Uhr startete das Nocturne in einen warmen etwas schwülen Sommerabend parallel zum Seefest der Freiburg Wirtschaft 
+			Touristik und Messe (FWTM).</p>
+
+			<div class="galerie-foto"><a rel="lightbox"
+			href="images/WebNocturne2024big4.jpg"><img 
+			src="images/WebNocturne2024medium4.jpg" alt="Nocturne 2024"
+			title="Nocturne 2024" /></a></div>		
+
+			<p>Ca. 50 Spieler und Spielerinnen traten an um in Poules zu je 4 Doubletten zu spielen in wechselnden Besetzungen. 
+			Während des Turniers wurden 19 Poules gespielt.</p>
+
+			<p>Verpflegt wurden die Spieler mit langer roter Wurst im Wecken mit dem üblichen Getränkeangebot. An dieser Stelle sei dem Service
+			mit Heike, Christian und Nik herzlich gedankt für ihre Arbeit.</p>
+
+			<div class="galerie-foto"><a rel="lightbox"
+			href="images/WebNocturne2024big1.jpg"><img 
+			src="images/WebNocturne2024medium1.jpg" alt="Nocturne 2024"
+			title="Nocturne 2024" /></a></div>
+			
+			<p>Da ein Gewitter angekündigt war fand das Feuerwerk des Seefestes bereits um 10.30 Uhr statt.  Nach der durch das Feuerwerk
+			bedingten Spielpause wurde trotz zwischenzeitlichem Regenwetter munter weiter gespielt bis 2 Uhr in der Frühe.</p>
+		
         </div>
 
-        <div id="Inhalt3">
+        <div id="Inhalt3" style="padding-top: 1em";>
 
-			<p>als der BPV (6:3), aber in der Spieledifferenz steht der BPV mit 17 Zählern besser da als Dogern (11).</p>
+			<p>Unter den Spielern und Spielerinnen waren viele aus Nachbarvereinen, auch aus dem Elsass zu sehen. </p>
 
-			<p>Auch der Vierten gratulieren wir zu ihrem Erfolg herzlich und wünschen für die Saison 2025 viel Glück.</p>
+			<h3>Anja und Christophe sind Deutsche Meister</h3>
 
-		    <h3>Fünfte Mannschaft</h3>
+			<div class="galerie-foto"><a rel="lightbox"
+			href="images/WebDMMixte2024big.jpg"><img 
+			src="images/WebDMMixte2024medium.jpg" alt="Die Deutschen Meister Doublette mixte 2024"
+			title="Die Deutschen Meister Doublette mixte 2024" /></a></div>
 
-            <img src="images/WebFuenfte2024small.jpg" alt="Die Aufsteiger der fünften Mannschaft" title="Die Aufsteiger der fünften Mannschaft"  width="100%"/>
+			<BR CLEAR="left"><p>Anjaratiana Rabearisoa Christophe Riff haben am 25. August in Düsseldorf die Deutsche Meisterschaft 
+			Doublette mixte gewonnen. Sie konnten sich 13:12 gegen Carsta Glaser ( TV 1877 MA-Waldhof) und Leon Gotha-Jeckle 
+			(VFSK 1900 Oppau) in einem harten Match durchsetzen. Herzlichen Glückwunsch vom Verein zu dieser außerordentlichen Leistung!</p>
+			
+			<h3>Herbstturnier Samstag,<br>14. September ab 9:45</h3>
 
-			<p>Die 5. Mannschaft des BPV hat am 13. Juli in Bergalingen ihren Aufstieg aus der Bezirksliga in die Landesliga Schwarzwald-Oberrhein festgemacht.</p>
+			<div class="galerie-foto"><a rel="lightbox"
+			href="images/WebHerbst2024big.jpg"><img 
+			src="images/WebHerbst2024medium.jpg" alt="Herbstturnier 2024"
+			title="Herbstturnier 2024" /></a></div>
 
-			<p>Die Mannschaft ist dieses Jahr in den Ligawettbewerb gestartet und ist sofort durchmarschiert mit 10:1 Punkten.</p>
-
-			<p>Der Verein gratuliert zu dieser hervorragenden Leistung.</p>
-
-			<p>Insgesamt kann der Verein mit der sportlichen Leistung der Mannschaften sehr zufrieden sein und mit gutem Mut in die Saison 2025 blicken.</p>
-
-			<h2>Jubiläumsturnier am Freitag, 1. November</h2>
-
-            <a href="images/WebJubi2024big.jpg"><img src="images/WebJubi2024small.jpg" alt="Sommercup 2024" title="Sommercup 2024" /></a>
-        </div>
+		</div>
 
     </main>
 

@@ -36,7 +36,8 @@
 
             <li><span>Ergebnisse</span>
             <ul>
-		        <li><a href="ergebnis50.php">Fr&uuml;hlingsturnier 2024</a></li>
+                <p>Ergebnisse abgehängt</p>
+		        <!--<li><a href="ergebnis50.php">Fr&uuml;hlingsturnier 2024</a></li>
                 <li><a href="ergebnis49.php">Jubil&auml;umsturnier 2023</a></li>
                 <li><a href="ergebnis48.php">Herbstturnier 2023</a></li>   
 	            <li><a href="ergebnis47.php">Badische Meisterschaften 2023</a></li>
@@ -46,13 +47,14 @@
                 <li><a href="ergebnis43.php">Jubil&auml;umsturnier 2019</a></li>
                 <li><a href="ergebnis42.php">Herbstturnier 2019</a></li>
 	            <li><a href="ergebnis41.php">Badische Meisterschaften 2019</a></li>
-	            <li><a href="ergebnis40.php">Fr&uuml;hlingsturnier 2019</a></li>  
+	            <li><a href="ergebnis40.php">Fr&uuml;hlingsturnier 2019</a></li> --> 
             </ul>
             </li>
 
             <li><span>Galerien</span>
             <ul>
-                <li><a href="galerie73.php">Fr&uuml;hlingsturnier 2024</a></li>
+                <p>Galerien abgehängt</p>
+                <!--<li><a href="galerie73.php">Fr&uuml;hlingsturnier 2024</a></li>
 	            <li><a href="galerie68.php">Jubil&auml;umsturnier 2023</a></li>
                 <li><a href="galerie65.php">Oktoberfest 2023</a></li>
                 <li><a href="galerie62.php">Herbstturnier 2023</a></li>
@@ -66,7 +68,7 @@
                 <li><a href="galerie41.php">Jubil&auml;umsturnier 2019</a></li>
                 <li><a href="galerie39.php">Herbstturnier 2019</a></li>
                 <li><a href="galerie36.php">Badische Meisterschaften 2019</a></li>
-                <li><a href="galerie34.php">Fr&uuml;hlingsturnier 2019</a></li>
+                <li><a href="galerie34.php">Fr&uuml;hlingsturnier 2019</a></li>-->
             </ul>
 	        </li>
 
