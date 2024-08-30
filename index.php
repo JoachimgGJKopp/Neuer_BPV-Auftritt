@@ -61,7 +61,7 @@
 
 			<div class="galerie-foto"><a rel="lightbox"
 			href="images/WebSommercup2024big.jpg"><img 
-			src="images/WebSommercup2024medium.jpg" alt="Sommercup 2024"
+			src="images/WebSommercup2024big.jpg" alt="Sommercup 2024"
 			title="Sommercup 2024" /></a></div>
 
 			<p>Am Samstag, den 31. August 2024 spielen wir im Seepark ab 13.30
@@ -74,7 +74,7 @@
 
 			<div class="galerie-foto"><a rel="lightbox"
 			href="images/WebSommercup20240824big.jpg"><img 
-			src="images/WebSommercup20240824medium.jpg" alt="Sommercup 2024"
+			src="images/WebSommercup20240824big.jpg" alt="Sommercup 2024"
 			title="Sommercup 2024" /></a></div>
 
 			<p>Am Samstag, den 24. August 2024 kamen bei heißem und gewitterigen
@@ -101,7 +101,7 @@
 
 			<div class="galerie-foto"><a rel="lightbox"
 			href="images/WebNocturne2024big4.jpg"><img 
-			src="images/WebNocturne2024medium4.jpg" alt="Nocturne 2024"
+			src="images/WebNocturne2024big4.jpg" alt="Nocturne 2024"
 			title="Nocturne 2024" /></a></div>		
 
 			<p>Ca. 50 Spieler und Spielerinnen traten an um in Poules zu je 4 Doubletten zu spielen in wechselnden Besetzungen. 
@@ -112,7 +112,7 @@
 
 			<div class="galerie-foto"><a rel="lightbox"
 			href="images/WebNocturne2024big1.jpg"><img 
-			src="images/WebNocturne2024medium1.jpg" alt="Nocturne 2024"
+			src="images/WebNocturne2024big1.jpg" alt="Nocturne 2024"
 			title="Nocturne 2024" /></a></div>
 			
 			<p>Da ein Gewitter angekündigt war fand das Feuerwerk des Seefestes bereits um 10.30 Uhr statt.  Nach der durch das Feuerwerk
@@ -128,7 +128,7 @@
 
 			<div class="galerie-foto"><a rel="lightbox"
 			href="images/WebDMMixte2024big.jpg"><img 
-			src="images/WebDMMixte2024medium.jpg" alt="Die Deutschen Meister Doublette mixte 2024"
+			src="images/WebDMMixte2024big.jpg" alt="Die Deutschen Meister Doublette mixte 2024"
 			title="Die Deutschen Meister Doublette mixte 2024" /></a></div>
 
 			<BR CLEAR="left"><p>Anjaratiana Rabearisoa Christophe Riff haben am 25. August in Düsseldorf die Deutsche Meisterschaft 
@@ -139,7 +139,7 @@
 
 			<div class="galerie-foto"><a rel="lightbox"
 			href="images/WebHerbst2024big.jpg"><img 
-			src="images/WebHerbst2024medium.jpg" alt="Herbstturnier 2024"
+			src="images/WebHerbst2024big.jpg" alt="Herbstturnier 2024"
 			title="Herbstturnier 2024" /></a></div>
 
 		</div>

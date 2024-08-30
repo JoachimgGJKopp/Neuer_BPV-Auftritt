@@ -47,7 +47,7 @@
 
             <h2>Der w&ouml;chentliche Sommercup am Samstag (Turnierserie mit Rangliste)</h2>
 
-	        <div class="galerie-foto"><a rel="lightbox"href="images/WebSommercup2024big.jpg"><img id="rechts-sommercup" src="images/WebSommercup2024small.jpg" alt="Plakat Sommercup 2024" title="Plakat Sommercup 2024" /></a></div>
+	        <div class="galerie-foto"><a rel="lightbox"href="images/WebSommercup2024big.jpg"><img id="rechts-sommercup" src="images/WebSommercup2024medium.jpg" alt="Plakat Sommercup 2024" title="Plakat Sommercup 2024" /></a></div>
 
             <p>Der Sommercup des Badischen Pétanque-Vereins läuft vom 4. Mai bis 26. Oktober 2024 als 
             wöchentliches Samstag Nachmittag Turnier mit Einschreibeschluss um 13.30 Uhr. Die 
