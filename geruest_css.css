@@ -220,13 +220,12 @@
             }
 
         #vorstand {
-            max-width: 100%;
-            margin-top: 2em;
             color: #333333;
             display: grid;
             grid-template-columns: repeat(auto-fill, minmax(1fr, 1fr));
-            column-gap: 13em;
-        }
+            column-gap: 14em;
+            font-size: small;
+            }
 
             .imgV {
                 float: right;
@@ -235,11 +234,12 @@
 
             #vorstand1 {
                 grid-column: 1 / -2;
-            }
+            }       
 
             #vorstand2 {
                 grid-column: 2 / -1;
 	        }
+
 
         #sponsoren {
             max-width: 100%;
@@ -269,7 +269,6 @@
             }
 
         #kontakt {
-            /*grid-column: 1 / -1;*/
 	        max-width: 100%;
             color: #333333;
             display: grid;
@@ -281,7 +280,6 @@
 
             #fakler, #heyder {
                 float: right;
-                padding-right: 3.5em;
             }
             
             #kontakt1 {
@@ -289,7 +287,6 @@
             }
 
             #kontakt2 {
-                padding-left: 10em;
                 grid-column: 2 / -1;
             }
 

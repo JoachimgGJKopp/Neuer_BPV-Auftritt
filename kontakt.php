@@ -50,14 +50,16 @@
             <p>&nbsp;</p>
 
             <img src="images/Vorstand/WebNik.jpg" alt="Nik Heyder" title="Nik Heyder" id="heyder"/>
-            <h3>Präsident</h3>
-            <p style="font-size: large;"><a href="mailto:nikheyder@hotmail.com">Mail:<br>nikheyder@hotmail.com</a></p>
+            <h3 style="padding-top: 0.7em";>Präsident</h3>
+            <p>Nik Heyder</p>
+            <p style="font-size: normal;"><a href="mailto:nikheyder@hotmail.com">Mail: nikheyder@hotmail.com</a></p>
  
             <p>&nbsp;</p>
 
             <img src="images/Vorstand/WebChristian.jpg" alt="Christian Fakler" title="Christian Fakler" id="fakler"/>
-            <h3>Kassenwart</h3>
-            <p style="font-size: large;"><a href="mailto:CFakler61@gmail.com">Mail:<br>CFakler61@gmail.com</a></p>
+            <h3 style="padding-top: 0.7em";>Kassenwart</h3>
+            <p>Christian Fakler</p>
+            <p style="font-size: normal;"><a href="mailto:CFakler61@gmail.com">Mail: CFakler61@gmail.com</a></p>
        
         </div>
         

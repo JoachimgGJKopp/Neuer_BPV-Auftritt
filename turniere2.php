@@ -50,8 +50,8 @@
 	        <div class="galerie-foto"><a rel="lightbox"href="images/WebSommercup2024big.jpg"><img id="rechts-sommercup" src="images/WebSommercup2024small.jpg" alt="Plakat Sommercup 2024" title="Plakat Sommercup 2024" /></a></div>
 
             <p>Der Sommercup des Badischen Pétanque-Vereins läuft vom 4. Mai bis 26. Oktober 2024 als 
-            wöchentliches Samstagnachmittag-Turnier mit Einschreibeschluss um 13.30 Uhr. Die 
-            indest-Teilnehmerzahl sind 16 Spieler. Bei weniger als 16 Spielern erhält jeder Anwesende 
+            wöchentliches Samstag Nachmittag Turnier mit Einschreibeschluss um 13.30 Uhr. Die 
+            Mindest-Teilnehmerzahl sind 16 Spieler. Bei weniger als 16 Spielern erhält jeder Anwesende 
             einen Ranglistenpunkt. Am letzten Spieltag des Sommercup wird ein Abschlussturnier gespielt, 
             zu dem der Verein ein zusätzliches Preisgeld von 300 Euro stiftet.</p>
 
