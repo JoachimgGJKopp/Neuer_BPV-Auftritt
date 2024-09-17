@@ -1,0 +1,31 @@
+# Ignoriere alle Bilddateien
+
+
+# Ignoriere Bilddateien in bestimmten Verzeichnissen
+images/Tuniere/
+Bilderwand/images/
+
+# Ignoriere auch temporäre und Cache-Dateien
+*.log
+*.tmp
+*.cache
+
+# Ignoriere IDE-spezifische Dateien
+.vscode/
+*.suo
+*.user
+*.swp
+*.swo
+
+# Ignoriere Node.js spezifische Dateien
+node_modules/
+
+# Ignoriere PHP spezifische Dateien
+vendor/
+
+# Ignoriere Build-Ordner
+dist/
+build/
+
+# Ignoriere Composer spezifische Dateien
+composer.lock

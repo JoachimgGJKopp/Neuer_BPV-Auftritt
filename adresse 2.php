@@ -99,7 +99,7 @@
             Der Eingang von der Schlettstadter Straße ist bezeichnet.</p> 
             
             <a href="images/PlanPlatzbig.jpg" target="_blank"><img 
-            src="images/PlanPlatzsmall.jpg" alt="Lageplan der Bahnen" max-width="100%"/></a>
+            src="images/PlanPlatzbig.jpg" alt="Lageplan der Bahnen" max-width="100%"/></a>
 
         </div>
 

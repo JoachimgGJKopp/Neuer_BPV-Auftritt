@@ -1,5 +1,5 @@
 
-    <div>
+    <div>           <!-- Desktop -->
 
             <li><a href="index.php">Home&nbsp;&nbsp;</a></li>
 
@@ -15,7 +15,7 @@
 
             <li><span>Verein</span>
         	<ul>
-                <li><a href="vorstand1.php">Vorstand</a></li>
+                <li><a href="dvorstand.php">Vorstand</a></li>
                 <li><a href="adresse 2.php">Adresse / Anfahrt</a></li>
                 <li><a href="info.php">Informationen</a></li>
                 <li><a href="sponsoren.php">Sponsoren</a></li>

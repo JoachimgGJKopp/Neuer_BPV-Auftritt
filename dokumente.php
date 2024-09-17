@@ -65,6 +65,7 @@
                         <tr><td>Plakat Sommercup 2024</td><td><a href="dokumente/Sommercup2024.jpg"><img src="images/jpgLogo.jpg"alt="jpg download" title="jpg download"/></a></td></tr>
                         <tr><td>&nbsp;</td></tr>
                         <tr><td>Turnierplan 2024</td><td><a href="dokumente/Turnierplan2024.pdf"><img src="images/pdf.gif"alt="pdf download" title="pdf download"/></a></td></tr>
+                        <tr><td>&nbsp;</td></tr>
                     </ul>
 
                 </tbody>

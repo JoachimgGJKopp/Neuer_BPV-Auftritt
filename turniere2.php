@@ -70,10 +70,9 @@
             teilnehmen kann, wer zuvor an 5 Samstagen im Cup gespielt hat.</p>
 
             <p>Über den ganzen Sommercup wird eine Rangliste geführt. An die ersten 8 Spieler der 
-            Rangliste werden am Ende 50 Prozent des Abschlusstopfes ausgeschüttet. Hier k&önnen Sie die 
+            Rangliste werden am Ende 50 Prozent des Abschlusstopfes ausgeschüttet. Hier können Sie die 
             <a target="_blank"href="images/Samstagspiele_Tag_22_20231015.pdf">Abschluss-Rangliste 2023</a>,
-            <a target="_blank"href="images/SC_Rangliste_20221015_Tag_25.pdf">2022</a>,
-            <a target="_blank"href="images/Samstagspiele20191012.pdf">2019</a> und 
+            <a target="_blank"href="images/SC_Rangliste_20221015_Tag_25.pdf">2022</a> und
             <a target="_blank"href="images/Samstagspiele2018.pdf">2018</a> einsehen.</p>
 
         </div>

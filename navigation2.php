@@ -1,4 +1,4 @@
-
+    <!-- Mobile -->
 	
 	<ul>
         <li><a href="index.php">Home</a></li>
@@ -17,7 +17,7 @@
         <li>
             <a href="#">Verein</a>
             <ul class="dropdown">
-                <li><a href="vorstand.php">Vorstand</a></li>
+                <li><a href="mvorstand.php">Vorstand</a></li>
                 <li><a href="adresse 2.php">Adresse / Anfahrt</a></li>
                 <li><a href="info.php">Informationen</a></li>
                 <li><a href="sponsoren.php">Sponsoren</a></li>
@@ -38,13 +38,6 @@
         </li>
         
         <li><a href="liga.php">Liga</a></li>
-
-        <li>
-            <a href="#">Einsteiger</a>
-            <ul class="dropdown">
-                <li><a href="beginners.php">Informationen zum Beginn</a></li>
-            </ul>
-        </li>
 
         <li><a href="links.php">Links&nbsp;</a></li>
 
