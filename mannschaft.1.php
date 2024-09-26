@@ -51,7 +51,7 @@
 
         <h3>Mannschaftsmitglieder</h3>
 
-        <p1>Oliver Anders<br>
+        <p>Oliver Anders<br>
         Harry Burger<br>
         Njakanosy Iandrianantenaina<br>
         Didier Kauffmann<br>
@@ -61,7 +61,7 @@
         Clement Melnikoff<br>
         Cathy Noll (Mannschaftsführerin)&nbsp;&nbsp;<small>Mail: c.noll@noll-avocats.com</small><br>
         Anjaratiana Rabeariosa<br>
-        Christophe Riff</p1>
+        Christophe Riff</p>
 
     </div>
 

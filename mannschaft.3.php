@@ -51,7 +51,7 @@
 
         <h3>Mannschaftsmitglieder</h3>
 
-        <p1>Serge Aloird<br>
+        <p>Serge Aloird<br>
         Claude Carette<br>
         Muazzez Eckert<br>
         Youcef Hamoudi<br>
@@ -62,7 +62,7 @@
         Anjarasoa Ratohinomenjonahary<br>
         Barbara Staudinger<br>
         Julia Tengattini<br>
-        Tim Villard</p1>
+        Tim Villard</p>
 
     </div>
 

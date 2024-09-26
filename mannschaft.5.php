@@ -51,7 +51,7 @@
 
         <h3>Mannschaftsmitglieder</h3>
 
-        <p1>Zavatsilavina Philibert Andriananantenasoa<br>
+        <p>Zavatsilavina Philibert Andriananantenasoa<br>
         Florian Bischler<br>
         Martin Böhler<br>
         Johanna Bischler<br>
@@ -59,7 +59,7 @@
         Hansjörg Grund<br>
         Christian Fakler (Mannschaftsführer)&nbsp;&nbsp;<small>Mail: CFakler61@gmail.com></small><br>
         Pieter Krebs<br>
-        Hannes Schuler</p1>
+        Hannes Schuler</p>
 
     </div>
 

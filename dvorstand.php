@@ -100,7 +100,7 @@
 
 			<p>&nbsp;</p> 
 
-			<img src="images/Vorstand/WebBlind.jpg" alt="n. n." title="n. n." class="imgV"/>	
+			<img src="images/Vorstand/WebBlind.jpg" alt="n. n." title="n. n." class="imgV" style="margin-top: 1em;"/>	
 			<p>Platzwart</p>
 			<p>n. n.<p>
 			<p><a href=" ">Mail: n. n.</a></p>

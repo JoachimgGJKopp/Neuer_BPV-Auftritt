@@ -51,7 +51,7 @@
 
         <h3>Mannschaftsmitglieder</h3>
 
-        <p1>Mensur Barakovic<br>
+        <p>Mensur Barakovic<br>
         Bernd Birnbreier<br>
         Martin Böhler<br>
         Salvador Fernandez (Mannschaftsführer)&nbsp;&nbsp;<small>Mail: salvafreiburg@gmail.com</small><br>
@@ -60,7 +60,7 @@
         Hans Koch<br>
         Hasina Liantsoa Razanajatovo<br>
         Thomas Marschner<br>
-        Hans Pfeiffer</p1>
+        Hans Pfeiffer</p>
 
     </div>
 

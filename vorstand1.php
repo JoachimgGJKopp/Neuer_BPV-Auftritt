@@ -76,7 +76,7 @@
 
 			<img src="images/Vorstand/WebAndreas.jpg" alt="Andreas Herrmann" title="Andreas Herrmann" class="imgV"/>
 			<p>Sportwart:</p>
-			<p>Andreas Herrmann</P>
+			<p>Andreas Herrmann</p>
 			<p><a href="mailto: hoerm68@web.de">Mail:&nbsp;hoerm68@web.de</a></p>
 
 			<img src="images/Vorstand/WebHansjoerg.jpg" alt="Hansjörg Grund" title="Hansjörg Grund" class="imgV"/>

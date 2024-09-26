@@ -1,5 +1,5 @@
 <?php
-$ordner = 'images/Badische2019'; // Pfad zu deinem Bilder-Ordner
+$ordner = 'images/Herbst2024'; // Pfad zu deinem Bilder-Ordner
 
 // Alle Bilder mit dem Endung big.jpg finden
 $bilder_gross = glob($ordner . '/*big.jpg');
@@ -24,7 +24,7 @@ foreach($bilder_gross as $bild_gross) {
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Bildergalerie mit Fancybox</title>
+  <title>Herbstturnier am 14. September 2024</title>
   
   <!-- jQuery einbinden -->
   <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
@@ -43,10 +43,10 @@ foreach($bilder_gross as $bild_gross) {
 </head>
 <body>
 
-  <h1>Bildergalerie mit Fancybox</h1>
+  <h1 style="margin: 1em 0em 0em 1.5em;">Herbstturnier am 14. September 2024</h1>
 
   <!-- Bildergalerie -->
-  <div class="gallery">
+  <div class="gallery" style="margin: 2em 1em 0em 3em;">
     <?php foreach($bilder_klein as $bilder): ?>
       <a data-fancybox="gallery" href="<?php echo $bilder['gross']; ?>">
         <img src="<?php echo $bilder['klein']; ?>" alt="<?php echo basename($bilder['gross']); ?>">
@@ -56,6 +56,12 @@ foreach($bilder_gross as $bild_gross) {
 
   <!-- Fancybox JS einbinden -->
   <script src="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
+
+  <script>
+  $(document).ready(function() {
+    $('[data-fancybox="gallery"]').fancybox();
+  });
+</script>
 
 </body>
 </html>

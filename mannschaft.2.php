@@ -51,7 +51,7 @@
 
         <h3>Mannschaftsmitglieder</h3>
 
-        <p1>David Ivan Farias Da Silva<br>
+        <p>David Ivan Farias Da Silva<br>
         Paulo Da Silva<br>
         Muazzez Eckert<br>
         Andreas Herrmann (Mannschaftsführer)&nbsp;&nbsp;<small>Mail: hoerm68@web.de</small><br>
@@ -61,7 +61,7 @@
         Heike Nägele<br>
         Xavier Peyre<br>
         Martin Pfitzner<br>
-        Andriniaina Ramahemintsoa Fenohasina</p1>
+        Andriniaina Ramahemintsoa Fenohasina</p>
 
     </div>
 

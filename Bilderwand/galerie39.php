@@ -1,5 +1,5 @@
 <?php
-$ordner = 'images/Fruehling2024'; // Pfad zu deinem Bilder-Ordner
+$ordner = 'images/Herbst2019'; // Pfad zu deinem Bilder-Ordner
 
 // Alle Bilder mit dem Endung big.jpg finden
 $bilder_gross = glob($ordner . '/*big.jpg');
@@ -24,7 +24,7 @@ foreach($bilder_gross as $bild_gross) {
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Frühlingsturnier am 7. April 2024</title>
+  <title>Herbstturnier am 29. September 2019</title>
   
   <!-- jQuery einbinden -->
   <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
@@ -43,9 +43,9 @@ foreach($bilder_gross as $bild_gross) {
 </head>
 <body>
 
-  <h1 style="margin: 1em 0em 0em 1.5em; color: rgb(3, 75, 3);">Frühlingsturnier am 7. April 2024</h1>
+  <h1 style="margin: 1em 0em 0em 1.5em; color: rgb(3, 75, 3);">Herbstturnier am 29. September 2019</h1>
   <p style="margin-left: 3em;"><a href="..">Zur Homepage</a></p>
-  
+
   <!-- Bildergalerie -->
   <div class="gallery" style="margin: 2em 1em 0em 3em;">
     <?php foreach($bilder_klein as $bilder): ?>
@@ -62,7 +62,7 @@ foreach($bilder_gross as $bild_gross) {
   $(document).ready(function() {
     $('[data-fancybox="gallery"]').fancybox();
   });
-  </script>
+</script>
 
 </body>
 </html>
