@@ -58,6 +58,9 @@
         <li>
             <a href="#">Galerien</a>
             <ul class="dropdown">
+                <li><a href="Bilderwand/galerie75.php"><?php echo $imagefolder ?? 'Herbst2024'; ?></a>
+                    <?php $imagefolder = 'Herbst2024'; $headline = 'Herbstturnier am 14. September 2024'; ?>
+                </li>                
                 <li><a href="Bilderwand/galerie74.php">Herbstturnier 2024</a></li>                
                 <li><a href="Bilderwand/galerie73.php">Frühlingsturnier 2024</a></li>
 	            <li><a href="Bilderwand/galerie68.php">Jubiläumsturnier 2023</a></li>
