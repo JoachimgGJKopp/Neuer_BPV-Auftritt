@@ -71,6 +71,7 @@
                     'Badische Meisterschaften 2019',
                     'Frühlingsturnier am 24. März 2019'
                 ];
+                
 
                 echo '<ul>';
                 foreach ($galerien as $galerie) {
