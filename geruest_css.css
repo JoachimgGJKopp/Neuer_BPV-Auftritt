@@ -15,6 +15,10 @@
             max-width: 51.25em;
         }
 
+        h1{ font-size: 180%; }
+        h2{ font-size: 140%; }
+        h3{ font-size: 120%; }
+
         p {
             font-size: small;
         }
@@ -52,7 +56,7 @@
 
         @media (max-width: 768px) {     /* Schriftgröße für Bildschirme mit einer Breite von maximal 768px (z. B. mobile Geräte)*/ 
             p {
-            font-size: 1.125em;  /*Größere Schriftgröße für mobile Geräte*/ 
+            font-size: 1.3rem;  /*Größere Schriftgröße für mobile Geräte*/ 
             }
         } 
 
@@ -108,31 +112,31 @@
             font-size: normal;           
         }
 
-        #dokumente-plakate table {
-            grid-column: 1 / -2;
-            text-align: left; 
-            line-height: 180%;
-        }
+            #dokumente-plakate table {
+                grid-column: 1 / -2;
+                text-align: left; 
+                line-height: 180%;
+            }
 
-        #dokumente-material table {
-            grid-column: 2 / -1;
-            text-align: left;
-            line-height: 180%;
-        }
+            #dokumente-material table {
+                grid-column: 2 / -1;
+                text-align: left;
+                line-height: 180%;
+            }
 
         #info {
             grid-column: 1 / -1;
         }
 
-        #info-rechts {
-            float:right;
-            width: 15.32em;
-            height: auto;
-            margin-top: 2.19em;
-            margin-left: 1.25em;
-            margin-bottom: 0.625em;
-            border: none;
-        } 
+            #info-rechts {
+                float:right;
+                width: 15.32em;
+                height: auto;
+                margin-top: 2.19em;
+                margin-left: 1.25em;
+                margin-bottom: 0.625em;
+                border: none;
+            } 
 
         #sommercup {
             grid-column: 1 / -1;    
@@ -143,13 +147,13 @@
                 margin-top: 0.3125em;
                 margin-left: 1.25em;
                 margin-bottom: 0.625em;
-                border: none;    
+                border: 1px solid darkgray;
+                border-radius: 2px;    
             }
 
         #mannschaft1 {              /* betrifft alle 5 Mannschaften */
             display: grid;
             grid-column: 1 / -1;
-            max-width: 51.25em;
 	        max-width: 100%;
             max-height: auto;
             color: #333333;
@@ -189,6 +193,7 @@
             column-gap: 2.5em;
             img {
                 border: 1px solid darkgrey;
+                border-radius: 2px;
             }
         }
     
@@ -253,7 +258,7 @@
                 border: 1px solid lightgray;
             }
 
-        #sponsoren {
+        #dsponsoren {       /* Desktop */
             max-width: 100%;
             color: #333333;
             display: grid;
@@ -261,21 +266,47 @@
             column-gap: 3em;
         }
 
-            #sponsoren1 {
+            #dsponsoren1 {
                 #sparkasse-img {
                     float: left;
                     margin: 0.5em 0.5em 0em 0em;
+                    max-width: 100%;
                 }
                 grid-column: 1 / -2;
             }
 
-            #sponsoren2 {
+            #dsponsoren2 {
+                #mayer-img {
+                    float: left;
+                    border: 1px solid darkgray;
+                    margin: 0.5em 0.5em 0em 0em;
+                    max-width: 100%;
+                }
+                grid-column: 2 / -1;
+            }
+
+        #msponsoren {        /* Mobile */
+            max-width: 100%;
+            color: #333333;
+            display: grid;
+            grid-column: 1 / -1;        
+        }
+
+            #msponsoren1 {
+                #sparkasse-img {
+                    float: left;
+                    margin: 0.5em 0.5em -0.5em 0em;
+                }
+                grid-column: 1 / -1;
+            }
+
+            #msponsoren2 {
                 #mayer-img {
                     float: left;
                     border: 1px solid lightgray;
                     margin: 0.5em 0.5em 0em 0em;
                 }
-                grid-column: 2 / -1;
+                grid-column: 1 / -1;
             }
 
         #kontakt {
@@ -291,8 +322,8 @@
             #fakler, #heyder {
                 float: right;
                 border: 1px solid lightgray;
-            }
-            
+            }   
+
             #kontakt1 {
                 grid-column: 1 / -2;
             }
@@ -315,10 +346,6 @@
             font: bold 10px Times;
             margin-bottom: 10px;
         }
-
-        h1{ font-size: 180%; }
-        h2{ font-size: 140%; }
-        h3{ font-size: 120%; }
 
         #fusszeile {
             clear: both;
@@ -349,7 +376,6 @@
 
         #navigation, #navigation  li a span {
             margin: 0px; 
-            /*background: url("images/leiste.6.png") bottom left repeat-x;*/
             max-width: 100%;
         }
 
@@ -360,6 +386,8 @@
             padding: 0px;
             background: url("images/leiste.6.png") bottom left repeat-x;
             list-style-type: none;
+            border: 1px solid lightgray;
+            border-radius: 2px;
             float: right;
         }
 
@@ -520,7 +548,7 @@
         /* Schriftgröße für Bildschirme mit einer Breite von maximal 768px (z. B. mobile Geräte)*/ 
         @media (max-width: 768px) {
             p {
-            font-size: 1.125em;  /*Größere Schriftgröße für mobile Geräte*/ 
+            font-size: 1.3rem;  /*Größere Schriftgröße für mobile Geräte*/ 
             }
         } 
 

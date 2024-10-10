@@ -23,7 +23,7 @@
     </nav2>
 
     <teaser id="teaser">
-        <img src="Bilderwand/images/TeasHerbst2019.jpg" title="Herbstturnier 2019" alt="Herbstturnier 2019">
+        <img src="imagefolder/TeasHerbst2019.jpg" title="Herbstturnier 2019" alt="Herbstturnier 2019">
     </teaser>
 
     <script>

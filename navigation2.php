@@ -20,7 +20,7 @@
                 <li><a href="mvorstand.php">Vorstand</a></li>
                 <li><a href="adresse 2.php">Adresse / Anfahrt</a></li>
                 <li><a href="info.php">Informationen</a></li>
-                <li><a href="sponsoren.php">Sponsoren</a></li>
+                <li><a href="msponsoren.php">Sponsoren</a></li>
                 <li><a target="_blank"href="dokumente/Satzung2023.pdf">Satzung</a></li>
                 <li><a target="_blank"href="dokumente/MAntragEinwillBeitragso2022.pdf">Mitgliedsantrag</a></li>
                 <li><a target="_blank"href="dokumente/Datenschutzhinweis 2022.pdf">Datenschutzhinweis</a></li>
@@ -58,25 +58,22 @@
         <li>
             <a href="#">Galerien</a>
             <ul class="dropdown">
-                <li><a href="Bilderwand/galerie75.php"><?php echo $imagefolder ?? 'Herbst2024'; ?></a>
-                    <?php $imagefolder = 'Herbst2024'; $headline = 'Herbstturnier am 14. September 2024'; ?>
-                </li>                
-                <li><a href="Bilderwand/galerie74.php">Herbstturnier 2024</a></li>                
-                <li><a href="Bilderwand/galerie73.php">Frühlingsturnier 2024</a></li>
-	            <li><a href="Bilderwand/galerie68.php">Jubiläumsturnier 2023</a></li>
-                <li><a href="Bilderwand/galerie65.php">Oktoberfest 2023</a></li>
-                <li><a href="Bilderwand/galerie62.php">Herbstturnier 2023</a></li>
-                <li><a href="Bilderwand/galerie60.php">Nocturne 2023</a></li>
-                <li><a href="Bilderwand/galerie58.php">Badische Meisterschaften 2023</a></li>
-                <li><a href="Bilderwand/galerie55.php">2. Großspieltag RL Süd 2023</a></li>
-                <li><a href="Bilderwand/galerie52.php">Frühlingsturnier 2023</a></li>
-                <li><a href="Bilderwand/galerie48.php">Jubiläumsturnier 2022</a></li>
-                <li><a href="Bilderwand/galerie46.php">Oktoberfest 2022</a></li>
-                <li><a href="Bilderwand/galerie43.php">Herbstturnier 2022</a></li>
-                <li><a href="Bilderwand/galerie41.php">Jubiläumsturnier 2019</a></li>
-                <li><a href="Bilderwand/galerie39.php">Herbstturnier 2019</a></li>
-                <li><a href="Bilderwand/galerie36.php">Badische Meisterschaften 2019</a></li>
-                <li><a href="Bilderwand/galerie34.php">Frühlingsturnier 2019</a></li>
+                <li><a href="galerie74.php">Herbstturnier 2024</a></li>                
+                <li><a href="galerie73.php">Frühlingsturnier 2024</a></li>
+	            <li><a href="galerie68.php">Jubiläumsturnier 2023</a></li>
+                <li><a href="galerie65.php">Oktoberfest 2023</a></li>
+                <li><a href="galerie62.php">Herbstturnier 2023</a></li>
+                <li><a href="galerie60.php">Nocturne 2023</a></li>
+                <li><a href="galerie58.php">Badische Meisterschaften 2023</a></li>
+                <li><a href="galerie55.php">2. Großspieltag RL Süd 2023</a></li>
+                <li><a href="galerie52.php">Frühlingsturnier 2023</a></li>
+                <li><a href="galerie48.php">Jubiläumsturnier 2022</a></li>
+                <li><a href="galerie46.php">Oktoberfest 2022</a></li>
+                <li><a href="galerie43.php">Herbstturnier 2022</a></li>
+                <li><a href="galerie41.php">Jubiläumsturnier 2019</a></li>
+                <li><a href="galerie39.php">Herbstturnier 2019</a></li>
+                <li><a href="galerie36.php">Badische Meisterschaften 2019</a></li>
+                <li><a href="galerie34.php">Frühlingsturnier 2019</a></li>
             </ul>
 	    </li>
 

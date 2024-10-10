@@ -154,7 +154,8 @@
 				<a target="_blank"href="archiv/screenshot20240627.jpg">27.06.2024</a> 70. Haribo<br>
 				<a target="_blank"href="archiv/screenshot20240713.jpg">13.07.2024</a> Ligasaison Abschluss 2024<br>
 				<a target="_blank"href="archiv/screenshot20240727.jpg">27.07.2024</a> Nocturne 2024<br>
-				<a target="_blank"href="archiv/screenshot20240914.jpg">14.09.2024</a> Herbstturnier 2024</p>
+				<a target="_blank"href="archiv/screenshot20240914.jpg">14.09.2024</a> Herbstturnier 2024<br>
+				<a target="_blank"href="archiv/screenshot20240927.jpg">27.09.2024</a> Beleuchtung repariert</p>
 		</div>
 
 	</main>

@@ -18,7 +18,7 @@
                 <li><a href="dvorstand.php">Vorstand</a></li>
                 <li><a href="adresse 2.php">Adresse / Anfahrt</a></li>
                 <li><a href="info.php">Informationen</a></li>
-                <li><a href="sponsoren.php">Sponsoren</a></li>
+                <li><a href="dsponsoren.php">Sponsoren</a></li>
                 <li><a target="_blank"href="dokumente/Satzung2023.pdf">Satzung</a></li>
                 <li><a target="_blank"href="dokumente/MAntragEinwillBeitragso2022.pdf">Mitgliedsantrag</a></li>
                 <li><a target="_blank"href="dokumente/Datenschutzhinweis 2022.pdf">Datenschutzhinweis</a></li>
@@ -52,24 +52,35 @@
             </li>
 
             <li><span>Galerien</span>
-            <ul>
-                <li><a href="Bilderwand/galerie74.php">Herbstturnier 2024</a></li>                
-                <li><a href="Bilderwand/galerie73.php">Frühlingsturnier 2024</a></li>
-	            <li><a href="Bilderwand/galerie68.php">Jubiläumsturnier 2023</a></li>
-                <li><a href="Bilderwand/galerie65.php">Oktoberfest 2023</a></li>
-                <li><a href="Bilderwand/galerie62.php">Herbstturnier 2023</a></li>
-                <li><a href="Bilderwand/galerie60.php">Nocturne 2023</a></li>
-                <li><a href="Bilderwand/galerie58.php">Badische Meisterschaften 2023</a></li>
-                <li><a href="Bilderwand/galerie55.php">2. Großspieltag RL Süd 2023</a></li>
-                <li><a href="Bilderwand/galerie52.php">Frühlingsturnier 2023</a></li>
-                <li><a href="Bilderwand/galerie48.php">Jubiläumsturnier 2022</a></li>
-                <li><a href="Bilderwand/galerie46.php">Oktoberfest 2022</a></li>
-                <li><a href="Bilderwand/galerie43.php">Herbstturnier 2022</a></li>
-                <li><a href="Bilderwand/galerie41.php">Jubiläumsturnier 2019</a></li>
-                <li><a href="Bilderwand/galerie39.php">Herbstturnier 2019</a></li>
-                <li><a href="Bilderwand/galerie36.php">Badische Meisterschaften 2019</a></li>
-                <li><a href="Bilderwand/galerie34.php">Frühlingsturnier 2019</a></li>
-            </ul>
+            <?php
+                $galerien = [
+                    'Herbstturnier 2024',
+                    'Frühlingsturnier 2024',
+                    'Jubiläumsturnier 2023',
+                    'Oktoberfest 2023',
+                    'Herbstturnier 2023',
+                    'Nocturne 2023',
+                    'Badische Meisterschaften 2023',
+                    '2. Großspieltag RL Süd 2023',
+                    'Frühlingsturnier 2023',
+                    'Jubiläumsturnier 2022',
+                    'Oktoberfest 2022',
+                    'Herbstturnier 2022',
+                    'Jubiläumsturnier 2019',
+                    'Herbstturnier 2019',
+                    'Badische Meisterschaften 2019',
+                    'Frühlingsturnier am 24. März 2019'
+                ];
+
+                echo '<ul>';
+                foreach ($galerien as $galerie) {
+                    // Ersetze Leerzeichen durch Unterstriche im Dateinamen
+                    $folderName = str_replace(' ', '_', $galerie);
+                    echo '<li><a href="galerie.php?folder=' . $folderName . '">' . $galerie . '</a></li>';
+                }
+                echo '</ul>';
+            ?>
+
 	        </li>
 
             <li><a href="liga.php">Liga&nbsp;</a></li>

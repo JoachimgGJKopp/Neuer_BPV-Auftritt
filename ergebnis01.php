@@ -23,7 +23,7 @@
     </nav2>
 
     <teaser id="teaser">
-        <img src="Bilderwand/images/TeasFrueh2019.jpg" title="Frühlingsturnier 2019" alt="Frühlingsturnier 2019">
+        <img src="imagefolder/TeasFrueh2019.jpg" title="Frühlingsturnier 2019" alt="Frühlingsturnier 2019">
     </teaser>
 
     <script>
@@ -47,7 +47,7 @@
 
             <h2>Ergebnis Frühlingsturnier 2019 (Doublette Formée, ACB k.o.)</h2>
 
-            <a href="Bilderwand/images/Fruehling2019/BBPV-RLT-190324-Fruehlingsturnier-Freiburg-Ergebnis-Webseite.pdf">  Ergebnisse Frühlingsturnier 2019</a>
+            <a href="images/Fruehling2019/BBPV-RLT-190324-Fruehlingsturnier-Freiburg-Ergebnis-Webseite.pdf">  Ergebnisse Frühlingsturnier 2019</a>
 
             <h2>Bericht</h2>
 

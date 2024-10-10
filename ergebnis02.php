@@ -23,7 +23,7 @@
     </nav2>
 
     <teaser id="teaser">
-        <img src="Bilderwand/images/TeasBad2019.jpg" title="Badische Meisterschaften 2019" alt="Badische Meisterschaften 2019">
+        <img src="imagefolder/TeasBad2019.jpg" title="Badische Meisterschaften 2019" alt="Badische Meisterschaften 2019">
     </teaser>
 
     <script>

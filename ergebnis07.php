@@ -23,7 +23,7 @@
     </nav2>
 
     <teaser id="teaser">
-        <img src="Bilderwand/images/TeasFrueh2023.jpg" title="Frühlingsturnier 2023" alt="Frühlingsturnier 2023">
+        <img src="imagefolder/TeasFrueh2023.jpg" title="Frühlingsturnier 2023" alt="Frühlingsturnier 2023">
     </teaser>
 
     <script>

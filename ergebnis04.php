@@ -23,7 +23,7 @@
     </nav2>
 
     <teaser id="teaser">
-        <img src="Bilderwand/images/TeasJubi2019.jpg" title="Jubiläumsturnier 2019" alt="Jubiläumsturnier 2019">
+        <img src="imagefolder/TeasJubi2019.jpg" title="Jubiläumsturnier 2019" alt="Jubiläumsturnier 2019">
     </teaser>
 
     <script>

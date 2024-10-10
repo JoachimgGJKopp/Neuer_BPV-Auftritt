@@ -23,7 +23,7 @@
     </nav2>
 
     <teaser id="teaser">
-        <img src="Bilderwand/images/TeasHerbst2023.jpg" title="Herbst im Seepark" alt="Herbst im Seepark">
+        <img src="imagefolder/TeasHerbst2023.jpg" title="Herbst im Seepark" alt="Herbst im Seepark">
     </teaser>
 
     <script>

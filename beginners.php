@@ -18,30 +18,7 @@
     </nav>
 
     <nav2 id="navigation2">
-        <ul>
-            <li><a href="index.php">Home</a></li>
-            <li>
-                <a href="#">Équipes</a>
-                <ul class="dropdown">
-                    <li><a href="mannschaft.1.php">1. Mannschaft</a></li>
-                    <li><a href="mannschaft.2.php">2. Mannschaft</a></li>
-                    <li><a href="mannschaft.3.php">3. Mannschaft</a></li>
-                    <li><a href="mannschaft.4.php">4. Mannschaft</a></li>
-                    <li><a href="mannschaft.5.php">5. Mannschaft</a></li>
-                </ul>
-            </li>
-            <li>
-                <a href="#">Verein</a>
-                <ul class="dropdown">
-                    <li><a href="vorstand.php">Vorstand</a></li>
-                    <li><a href="adresse 2.php">Adresse / Anfahrt</a></li>
-                    <li><a href="info.php">Informationen</a></li>
-                    <li><a href="sponsoren.php">Sponsoren</a></li>
-                </ul>
-            </li>
-            <li><a href="liga.php">Liga</a></li>
-            <li><a href="kontakt.php">Kontakt</a></li>
-        </ul>
+        <?php include ('navigation2.php'); ?>     
     </nav2>
 
     <teaser id="teaser">
@@ -66,6 +43,7 @@
     <div id="beginner" style=margin-top:-9em>
 
         <h2>Informationen für Neueinsteiger ins Pétanque-Spiel</h2>
+
         <p>Wenn Sie das Spiel kennen lernen wollen unter Anleitung im Verein, 
         dann kommen Sie abends ungefähr zwischen 17 und 19 Uhr vorbei auf unserem 
         <a target="_blank"href="adresse 2.php">Bouleplatz</a> im Seepark. Bei trockenem Wetter 
@@ -73,17 +51,23 @@
         <a target="_blank"href="kontakt.php">Kontakt</a> aufnehmen mit Nik Heyder. Kommen Sie 
         auf unseren Bouleplatz und sprechen Sie Spieler an und sagen Sie diesen, dass Sie Anfänger 
         sind und Boule spielen wollen. Wir nehmen Sie unter unsere Fittiche, leiten Sie an und 
-        spielen mit Ihnen.
+        spielen mit Ihnen.</p>
+
         <p>Es genügt, wenn Sie in normaler Freizeitkleidung zu uns kommen. Fürs Erste können wir 
         Ihnen die Kugeln auf dem Platz kostenfrei stellen. Bitte kaufen Sie keine Kugeln oder 
         Ausrüstung im Voraus, wenn Sie noch nicht Bescheid wissen; wir beraten Sie.</p>
+
         <p>Später sollten Sie mit folgender Anfangs-Investition rechnen: 1 Satz Wettkampf-Kugeln 
         (3 Stück) in guter Qualität ca. 180 Euro, Maßband 3 Euro, Zielkugeln Stück 1 Euro, 
         Kugeltasche ca. 10-40 Euro.</p>
-        <p>Alle verfügbaren deutschen Lehrbcher für die Basics des Pétanquespiels bis hin zu 
+
+        <p>Deutsche Lehrbücher für die Basics des Pétanquespiels bis hin zu 
         Literatur für Turnierspieler finden Sie kommentiert in der 
         <a target="_blank"href="http://www.buchhandlunghenzler.de/bhneu/literaturliste_boule/literaturliste.htm">
-        Literaturliste Boule der Buchhandlung Henzler</a>.</p>
+        Literaturliste Boule der Buchhandlung Henzler</a> (ist allerdings schon länger nicht aktualisiert worden).</p>
+
+        <p>Aktuelle Literatur finden Sie im Web, wenn Sie "Bücher Petanque" eingeben.</p>
+
         <p>Nach ca. 3 Monaten bei uns sollten Sie sich entscheiden, ob Sie weiter mit uns spielen. 
         Dazu sollten Sie dann in unseren Verein eintreten. Der 
         <a target="_blank"href="dokumente/Beitragsordnung_2.1.pdf">Jahresbeitrag</a> beträgt 73 

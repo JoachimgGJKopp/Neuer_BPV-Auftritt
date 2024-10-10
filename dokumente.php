@@ -86,7 +86,7 @@
 
                     <ul>
                         <tr><td>&nbsp;</td></tr>
-                        <tr><td>Reglement DPV</td><td><a href="https://deutscher-petanque-verband.de/dpv-regelwerk/"><img src="images/pdf.gif"alt="pdf download" title="pdf download"/></a></td></tr>
+                        <tr><td>Reglement DPV</td><td><a href="https://deutscher-petanque-verband.de/wp-content/uploads/2021/03/Reglement_2021_0321.pdf"><img src="images/pdf.gif"alt="pdf download" title="pdf download"/></a></td></tr>
                         <tr><td>Sportordnung Landesverband</td><td><a href="https://petanque-bw.de/service/dokumente/"><img src="images/pdf.gif"alt="pdf download" title="pdf download"/></a></td></tr>
                         <tr><td>Ligarichtlinie Landesverband</td><td><a href="https://petanque-bw.de/service/dokumente/"><img src="images/pdf.gif"alt="pdf download" title="pdf download"/></a></td></tr>
                         <tr><td>Mitgliedsantrag im BPV</td><td><a href="dokumente/MAntragEinwillBeitragso2022.pdf"><img src="images/pdf.gif"alt="pdf download" title="pdf download"/></a></td></tr>

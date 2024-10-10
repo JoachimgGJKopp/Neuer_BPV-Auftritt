@@ -24,7 +24,6 @@
     </nav2>
 
     <img src="images/TeasKontakt.jpg" alt="Kontakt zum Seepark" title="Reiche mir deine Hand" style="margin-bottom: 1em;"/>
-    <h2 style="margin-bottom: 1em;">Kontakt</h2>
 
     <script>
         document.addEventListener("DOMContentLoaded", function() {
@@ -52,21 +51,26 @@
             <img src="images/Vorstand/WebNik.jpg" alt="Nik Heyder" title="Nik Heyder" id="heyder"/>
             <h3 style="padding-top: 0.7em";>Präsident</h3>
             <p>Nik Heyder</p>
-            <p style="font-size: normal;"><a href="mailto:nikheyder@hotmail.com">Mail: nikheyder@hotmail.com</a></p>
+            <p style="font-size: normal;"><a href="mailto:nikheyder@hotmail.com">nikheyder@hotmail.com</a></p>
  
             <p>&nbsp;</p>
 
             <img src="images/Vorstand/WebChristian.jpg" alt="Christian Fakler" title="Christian Fakler" id="fakler"/>
             <h3 style="padding-top: 0.7em";>Kassenwart</h3>
             <p>Christian Fakler</p>
-            <p style="font-size: normal;"><a href="mailto:CFakler61@gmail.com">Mail: CFakler61@gmail.com</a></p>
+            <p style="font-size: normal; padding-bottom: 1em;"><a href="mailto:CFakler61@gmail.com">CFakler61@gmail.com</a></p>
        
         </div>
         
         <div id="Kontakt2">
 
-                <h2 style="padding-bottom: 0.5em;">Adresse Präsident</h2>
-                <address>Nik Heyder<br/>Im Glaser 34<br/>79111 Freiburg<br/>Deutschland<br/>Telefon 0176 442 06 443<br>nikheyder@hotmail.com</address>
+                <h2>Adresse Präsident</h2>
+                <p style="padding-top: 1.5em;"><i>Nik Heyder<br/>
+                Im Glaser 34<br/>
+                79111 Freiburg<br/>
+                Deutschland<br/>
+                Telefon 0176 442 06 443<br>
+                nikheyder@hotmail.com</i></p>
 
         </div>
 

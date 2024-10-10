@@ -62,8 +62,8 @@
 			src="images/WebSommercup2024big.jpg" alt="Sommercup 2024"
 			title="Sommercup 2024" /></a></div>
 
-			<p>Am Samstag, den 28. September 2024 spielen wir im Seepark ab 13.30
-			Uhr Tête à Tête (Mann gegen Mann). Das Spiel ist lizenzfrei und jedermann ist herzlich
+			<p>Am Samstag, den 12. Oktober 2024 spielen wir im Seepark ab 13.30
+			Uhr Doublette Supermêlée. Das Spiel ist lizenzfrei und jedermann ist herzlich
 			eingeladen mit uns mitzuspielen.</p>
 
 			<p>Der Einsatz pro Spieler beträgt 5 EUR, davon gehen 1,50 EUR in den
@@ -71,83 +71,89 @@
 			Spieler sind 3,50 EUR.</p>
 
 			<div class="galerie-foto"><a rel="lightbox"
-			href="images/WebSommercup20240921big.jpg"><img 
-			src="images/WebSommercup20240921big.jpg" alt="Sommercup 2024"
+			href="images/WebSommercup20241005big.jpg"><img 
+			src="images/WebSommercup20241005big.jpg" alt="Sommercup 2024"
 			title="Sommercup 2024" /></a></div>
 
-			<p>Am 21. September spielten im schönsten Altweibersommer im Seepark 34 Spielerinnen und Spieler 
-			Doublette Formée. Coco als Nachzügler hatte für einen Blanc gesorgt.</p>
+			<p>Am 5. Oktober kamen 26 Spieler und Spielerinnen in den Seepark bei schönstem Herbstwetter. Es war sonnig und warm bei etwas kühlem Wind.</p>
 
 			<p><strong>Die Sieger sind:</strong></p>
-			<p>1. Marion Häuptle und Mick Löffler,<br>
-			2. Olivier Sahoby und Gino de Cunzo,<br>
-			3. Karin Sumser und Harald Mayer,<br>
-			4. Sigrid und Hans-Peter Böcherer.</p>
+			<p>1. Salvadore Fernandez und Harald Mayer,<br>
+			2. Peter Bischler und Philipp Wienker,<br>
+			3. Marion Häuptle und Mick Löffler,<br>
+			4. Wolfgang Behr und Harry Maugeais.</p>
 
-			<p>Hier die <a target="_blank"href="images/Samstagspiele_Tag_16_20240921.pdf">Rangliste</a>
-			vom 21. September.</p>
+			<p>Hier die <a target="_blank"href="images/Samstagspiele_Tag_18_20241005.pdf">Rangliste</a>
+			vom 5. Oktober 2024.</p>
 
-
-        </div>
+	    </div>
 
         <div id="Inhalt2">
 
-			<h3>Herbstturnier</h3>
+			<h3>Platzbeleuchtung wieder instand gesetzt</h3>
 
-			<p>Bei kühlem aber trockenem Wetter kamen am 14. September 28 Doubletten zu unserem Herbstturnier in den Seepark.</p>
-
-			<p>Es wurden 4 Spiele im Schweizer System gespielt. Anschliessend spielten die ersten vier 
-			Doubletten Halbfinale und Finale im A-Turnier. Parallel dazu spielten die zweiten vier 
-			Doubletten Halbfinale und Finale im B-Turnier.</p>
-
-			<p>Die Turnierleitung und Bewirtung wurde durch die zweite Mannschaft sichergestellt. Die 
-			Mannschaft wurde durch zahlreiche Kuchenspenden unterstützt. Wir bedanken uns bei der zweiten 
-			Mannschaft für die souveräne Durchführung des Herbstturniers. Auch möchten wir allen 
-			Kuchenspenderinnen ein herzliches Dankeschön sagen für ihre Arbeit.</p>
-
+			<p>Zu Beginn der kürzer werdendenTage fiel unsere Platzbeleuchtung  
+			aus. Der Vorstand beschloss die Verkabelung der Beleuchtungsmasten 
+			zu erneuern mit Hilfe der Stadt und des Badischen 
+			Sportbundes. Die Projektleitung übernahm Hans Koch. Hier sein 
+			Bericht:</p>
+			
 			<div class="galerie-foto"><a rel="lightbox"
-			href="images/WebHerbst2024Abig.jpg"><img 
-			src="images/WebHerbst2024Abig.jpg" alt="Herbstturnier 2024"
-			title="Herbstturnier 2024" /></a></div>
+			href="images/WebLicht2024big.jpg"><img 
+			src="images/WebLicht2024big.jpg" alt="Reparatur Beleuchtung 2024"
+			title="Reparatur Beleuchtung 2024" /></a></div>
 
-			<p><strong>A-Turnier:</strong><br>
-			1. Platz: Heiner Brecht mit Joachim Storl,<br>
-			2. Platz: Bruno Lesoeur mit Bernard Schwartz,<br>
-			3. Platz: Oliver Anders mit Rita Kurz sowie Clement Melnikoff mit Jessica Schultz.</p>
-
+			<p><i>Am Dienstag 17.09.24 begann der Helfertrupp mit Bernd 
+			Birnbreier, Hermann Klausmann und Hans Koch mit den Vorarbeiten, denn 
+			am Mittwoch 18.09.24 kam schon die Fa. Martin Wetzler mit dem Bagger 
+			angerollt um mit dem Aushub von ca. 190 lfd. m zu beginnen.</p>		
+			
 			<div class="galerie-foto"><a rel="lightbox"
-			href="images/WebHerbst2024Bbig.jpg"><img 
-			src="images/WebHerbst2024Bbig.jpg" alt="Herbstturnier 2024"
-			title="Herbstturnier 2024" /></a></div>
+			href="images/WebLicht2024big1.jpg"><img 
+			src="images/WebLicht2024big1.jpg" alt="Reparatur Beleuchtung 2024"
+			title="Reparatur Beleuchtung 2024" /></a></div>	
 
+			<p>Am Freitag wurden die restlichen ca. 150 m Kabel verlegt. Somit 
+			konnte die Fa. Wetzler, die mit Verstärkung antrat, alle Gräben 
+			wieder zuschütten. Das war bei dem widrigen Wetter eine absolute 
+			Meisterleistung, denn nebenher haben sie auch noch zwei Wassergräben 
+			gezogen.</i></p>
+						
 
 
         </div>
 
-        <div id="Inhalt3";>
-
-			<p style="margin-top: 0.5em;"><strong>B-Turnier:</strong><br>
-			1. Platz: Christophe Riff und Sebastien Tromeur,<br>
-			2. Platz: Fa Somsringam mit Gerd Helmerich aus Münster NRW,<br>
-			3. Platz: Christian Fakler mit Andrej Stark sowie Kai und Abdel aus Villingen-Schwenningen.</p>
-		
-			<h3>Christophe Riff<br>Deutscher Meister</h3>
+        <div id="Inhalt3" style="margin-top: 2em;">
 
 			<div class="galerie-foto"><a rel="lightbox"
-			href="images/WebRiffTirpr2024big.jpg"><img 
-			src="images/WebRiffTirpr2024big.jpg" alt="Christophe Riff Deutscher Meister im tir de précision"
-			title="Christophe Riff Deutscher Meister im tir de précision" /></a></div>
+			href="images/WebLicht2024big2.jpg"><img 
+			src="images/WebLicht2024big2.jpg" alt="Reparatur Beleuchtung 2024"
+			title="Reparatur Beleuchtung 2024" /></a></div>	
 
-			<p>Christophe Riff hat in Ensdorf seinen DM-Titel im tir de précision erfolgreich 
-			verteidigt. Mit seinem letzten Schuss aus neun Metern auf das Cochonnet konnte 
-			er das Finalspiel gegen Justin Neu noch mit 42 zu 38 zu seinen Gunsten entscheiden. 
-			Justin Neu erreichte im Halbfinale mit 65 Punkten einen neuen deutschen Rekord. 
-			Der Vorstand gratuliert ganz herzlich zu dieser herausragenden Leistung.</p>	
+			<p><i>Am Dienstag werden sie dann das restliche Abraummaterial 
+			abholen, etwas Humus mitbringen und wieder einsäen. Dem Sommercup 
+			steht demnach nichts im Wege.</p>
+			
+			<div class="galerie-foto"><a rel="lightbox"
+			href="images/WebLicht2024big4.jpg"><img 
+			src="images/WebLicht2024big4.jpg" alt="Reparatur Beleuchtung 2024"
+			title="Reparatur Beleuchtung 2024" /></a></div>	
+
+
+			
+			<p>Am Montag 30.09.24 und Dienstag 01.10.24 wird dann der Helfertrupp 
+			mit dem Elektriker die Kabel an den Sicherungskasten anschließen. Das 
+			alles im Laufe einer Woche.</i></p>
+			
+			<p>Der Vorstand dankt dem Projektleiter Hans Koch und allen Helfern 
+			für ihre erfolgreiche Arbeit und ihren großen Einsatz.</p>
+
+			<h3>Jubiläumsturnier<br>am 1. November</h3>
 
 			<div class="galerie-foto"><a rel="lightbox"
 			href="images/WebJubi2024big.jpg"><img 
 			src="images/WebJubi2024big.jpg" alt="Jubiläumsturnier 2024"
-			title="Jubiläumsturnier 2024" /></a></div>
+			title="Jubiläumsturnier 2024" /></a></div>	
 
 		</div>
 

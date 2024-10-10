@@ -23,7 +23,7 @@
     </nav2>
 
     <teaser id="teaser">
-        <img src="Bilderwand/images/TeasFrueh2024.jpg" title="Frühling im Seepark" alt="Frühling im Seepark">
+        <img src="imagefolder/TeasFrueh2024.jpg" title="Frühling im Seepark" alt="Frühling im Seepark">
     </teaser>
 
     <script>

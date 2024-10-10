@@ -23,7 +23,7 @@
     </nav2>
 
     <teaser id="teaser">
-        <img src="Bilderwand/images/TeasJubi2022.jpg" title="Jubiläumsturnier 2022" alt="Jubiläumsturnier 2022">
+        <img src="imagefolder/TeasJubi2022.jpg" title="Jubiläumsturnier 2022" alt="Jubiläumsturnier 2022">
     </teaser>
 
     <script>
