@@ -3,8 +3,7 @@
 <head>
     <title>Index</title>
 
-	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/ui@5/dist/fancybox.css" />
-	<script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui@5/dist/fancybox.umd.js"></script>
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/ui@4.0.0/dist/fancybox.css">
     <?php include ('header.php'); ?>
 </head>
 
@@ -171,8 +170,8 @@
 		oder aktivieren Sie JavaScript in Ihrem Browser.
 	</noscript>
 
-	<script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui@5/dist/fancybox.umd.js"></script>
-
+	<script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui@4.0.0/dist/fancybox.umd.js"></script>
+	
 	<script>
     	document.addEventListener("DOMContentLoaded", function() {
         	Fancybox.bind("[data-fancybox='gallery']", {
@@ -181,7 +180,7 @@
     	});
 	</script>
 
-	<script src="scripts/DataFancyBox.js"></script>S
+	<script src="scripts/DataFancyBox.js"></script>
 
 	<script src="scripts/AufrufButton.js"></script>
 
