@@ -96,38 +96,39 @@
             position: absolute;
             margin-top: 16em;
             margin-left: 0em;
+            z-index: -15;
         }
 
         
         /* Standard für Desktop: Textlogo anzeigen, TextlogoMobile verstecken */
-        .Textlogo {
+        #LogoText {
             display: block;
         }
 
-        .TextlogoMobile {
+        #LogoTextMobile {
             display: none;
         }
 
         /* Mobile Media Query */
         @media screen and (max-width: calc(48rem - 1px)) {
             /* Textlogo nur auf Mobile ausblenden */
-            .Textlogo {
+            #LogoText {
                 display: none;
             }
 
             /* TextlogoMobile nur auf Mobile anzeigen */
-            .TextlogoMobile {
+            #LogoTextMobile {
                 display: block;
             }
 
             /* Weitere Anpassungen für Mobile */
             #teaser {
-                margin-bottom: 2em;
+                margin-bottom: 4em;
             }
             #turnierplan {
-                margin-top: -2em;
+                margin-top: -4em;
             }
-            .Logos {
+            Logos {
                 margin-top: 2em;
             }
         }
