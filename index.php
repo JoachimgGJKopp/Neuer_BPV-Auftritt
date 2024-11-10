@@ -2,7 +2,9 @@
 <html lang="de">
 <head>
     <title>Index</title>
+
 	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/ui@5/dist/fancybox.css" />
+	<script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui@5/dist/fancybox.umd.js"></script>
     <?php include ('header.php'); ?>
 </head>
 
@@ -179,7 +181,7 @@
     	});
 	</script>
 
-	<script src="scripts/DataFancyBox.js"></script>
+	<script src="scripts/DataFancyBox.js"></script>S
 
 	<script src="scripts/AufrufButton.js"></script>
 
