@@ -1,0 +1,24 @@
+html
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/ui@5/dist/fancybox.css" />
+</head>
+<body>
+
+
+    <div class="galerie-foto">
+        <a data-fancybox="gallery" href="images/WebJubi2024big.jpg">
+            <img src="images/WebJubi2024big.jpg" alt="Jubiläumsturnier 2024" title="Jubiläumsturnier 2024" />
+        </a>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui@5/dist/fancybox.umd.js"></script>
+    <script>
+        Fancybox.bind("[data-fancybox='gallery']", {
+            closeButton: "inside", // Zeigt den Schließen-Button an
+        });
+    </script>
+
+</body>
+</html>

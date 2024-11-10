@@ -26,28 +26,13 @@
         <img src="imagefolder/TeasBad2023.jpg" title="Badische Meisterschaften 2023" alt="Badische Meisterschaften 2023">
     </teaser>
 
-    <script>
-        document.addEventListener("DOMContentLoaded", function() {
-            const btnMenu = document.getElementById("btnMenu");
-            const navigation2 = document.getElementById("navigation2");
-
-            btnMenu.addEventListener("click", function() {
-                if (navigation2.style.display === "block") {
-                    navigation2.style.display = "none";
-                } else {
-                    navigation2.style.display = "block";
-                }
-            });
-        });
-    </script>
-
     <div>
 
         <div id="ergebnis">
 
             <h3>Ergebnis Internationale Badische Meisterschaften 2023 Ranglistenturnier<br>(Doublette Formée, A-C-B k.o.)</h3>
 
-		    <a href="Bilderwand/images/Badische2023/ErgebnisBadische2023.pdf">Ergebnisse Internationale Badische Meisterschaften 2023</a> 
+		    <a href="imagefolder/Badische_Meisterschaften_2023/ErgebnisBadische2023.pdf">Ergebnisse Internationale Badische Meisterschaften 2023</a> 
 
             <p><strong>Ergebnis A-Turnier</p></strong>
 
@@ -90,7 +75,11 @@
         </div>
 
     </div>
-                    <?php include('inc_fusszeile.php') ?>
+
+    <?php include('inc_fusszeile.php') ?>
+
+    <script src="scripts/AufrufButton.js"></script>
+    
 </body>
 </html>
 

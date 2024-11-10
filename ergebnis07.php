@@ -26,28 +26,13 @@
         <img src="imagefolder/TeasFrueh2023.jpg" title="Frühlingsturnier 2023" alt="Frühlingsturnier 2023">
     </teaser>
 
-    <script>
-        document.addEventListener("DOMContentLoaded", function() {
-            const btnMenu = document.getElementById("btnMenu");
-            const navigation2 = document.getElementById("navigation2");
-
-            btnMenu.addEventListener("click", function() {
-                if (navigation2.style.display === "block") {
-                    navigation2.style.display = "none";
-                } else {
-                    navigation2.style.display = "block";
-                }
-            });
-        });
-    </script>
-
     <div>
 
         <div id="ergebnis">
 
             <h2>Ergebnis Frühlingsturnier 2023 (Doublette Schweizer System, 5 Runden)</h2>
 
-            <a href="Bilderwand/images/Fruehling2023/ErgebnisFrueh2023.pdf">Ergebnisse Frühlingsturnier 2023</a>
+            <a href="imagefolder/Frühlingsturnier_2023/ErgebnisFrueh2023.pdf">Ergebnisse Frühlingsturnier 2023</a>
 
             <h2>Bericht</h2>
 
@@ -74,7 +59,11 @@
         </div>
 
     </div>
-                    <?php include('inc_fusszeile.php') ?>
+
+    <?php include('inc_fusszeile.php') ?>
+
+    <script src="scripts/AufrufButton.js"></script>
+    
 </body>
 </html>
 

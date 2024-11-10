@@ -28,21 +28,6 @@
         <h2 style="margin-bottom: 2em; padding-left: 1.2em;">Vorstand des BPV Freiburg</h2>
     </teaser>
 
-    <script>
-        document.addEventListener("DOMContentLoaded", function() {
-            const btnMenu = document.getElementById("btnMenu");
-            const navigation2 = document.getElementById("navigation2");
-
-            btnMenu.addEventListener("click", function() {
-                if (navigation2.style.display === "block") {
-                    navigation2.style.display = "none";
-                } else {
-                    navigation2.style.display = "block";
-                }
-            });
-        });
-    </script>
-
     <div id="mvorstand">			<!-- Mobile -->
 
 			<img src="images/Vorstand/WebNik.jpg" alt="Nik Heyder" title="Nik Heyder" class="imgV1"/>
@@ -89,6 +74,8 @@
 			<a href=" ">Mail n. n.</a></p>
 
 	</div>
+
+	<script src="scripts/AufrufButton.js"></script>
 
 	<?php include('inc_fusszeile.php') ?>
 

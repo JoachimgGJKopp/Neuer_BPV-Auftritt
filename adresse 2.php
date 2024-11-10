@@ -25,21 +25,6 @@
         <img src="images/TeasClub.jpg" title="Vereinsheim des BPV" alt="Vereinsheim des BPV" style="margin-bottom: 10em;">
     </teaser>
 
-    <script>
-        document.addEventListener("DOMContentLoaded", function() {
-            const btnMenu = document.getElementById("btnMenu");
-            const navigation2 = document.getElementById("navigation2");
-
-            btnMenu.addEventListener("click", function() {
-                if (navigation2.style.display === "block") {
-                    navigation2.style.display = "none";
-                } else {
-                    navigation2.style.display = "block";
-                }
-            });
-        });
-    </script>
-
     <adresse id="adresse">
         <h2>Adresse/Anfahrt</h2>
         <p>79110 Freiburg, Schlettstadter Straße 45, Tel.: +49 761 8818276</p>
@@ -104,6 +89,8 @@
         </div>
 
     </main>
+
+    <script src="scripts/AufrufButton.js"></script>
 
     <?php include('inc_fusszeile.php') ?>
   

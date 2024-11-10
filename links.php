@@ -27,23 +27,6 @@
         <img src="images/TeasLinkAbend.jpg" alt="Abendhimmel überm Seepark" title="Abendhimmel überm Seepark" style="margin-bottom: 1.5em;"/>
     </teaser>
 
-    <!--<script src="scripts.js"></script>-->
-
-    <script>
-        document.addEventListener("DOMContentLoaded", function() {
-            const btnMenu = document.getElementById("btnMenu");
-            const navigation2 = document.getElementById("navigation2");
-
-            btnMenu.addEventListener("click", function() {
-                if (navigation2.style.display === "block") {
-                    navigation2.style.display = "none";
-                } else {
-                    navigation2.style.display = "block";
-                }
-            });
-        });
-    </script>
-        
     <div id="links">
 
         <div id="Linkspalte1">
@@ -62,11 +45,6 @@
             <a target="_blank"href="http://bouleclub-stuttgart.de/index.php?id=567">Nord-Württemberg</a><br>
             <a target="_blank"href="https://petanque-bw.de/liga-pokal/rl-nord-2-2-2-3-2/">Schwarzwald-Oberrhein</a></p>
 
-            <h2>Turnierkalender</h2>
-
-            <p><a target="_blank"href="http://www.petanque-bw.de/index.php?id=1427">BBPV-Turnierkalender</a><br>
-            <a target="_blank"href="https://petanque-aktuell.de/termine/">Pétanque aktuell Terminkalender</a></p>
-    
         </div>
 
         <div id="Linkspalte2">
@@ -87,6 +65,10 @@
             <a target="_blank"href="http://www.boulefreunde-rheinhausen-2010.de">Boulefreunde-Rheinhausen</a><br>
             <a target="_blank"href="http://www.boule13waldkirch.de/">Boule 13 Waldkirch e.V.</a></p>
 
+            <h2>Boulekurse</h2>
+
+            <p><a target="_blank"href="http://www.boulekurse.de">Training Sönke Backens</a></p>
+
         </div>
         
         <div id="Linkspalte3">
@@ -97,20 +79,19 @@
             <a target="_blank"href="http://www.quintaisport.fr/">Spieler Phillippe Quintais</a><br>
             <a target="_blank"href="http://bruno.leboursicaud.free.fr/">Spieler Bruno Leboursicaud</a></p>
 
-            <h2>Boulekurse</h2>
-
-            <p><a target="_blank"href="http://www.boulekurse.de">Training Sönke Backens</a></p>
-
 
             <h2>Kugelverkäufer</h2>
 
             <p><a target="_blank"href="https://www.bouleundwein.de/">Boule und Wein Frank Höfer</a><br>
             <a target="_blank"href="http://www.boule-petanque.de">Boule-Maus</a><br>
             <a target="_blank"href="http://www.boulesmatz.de/">Boules Matz</a><br>
-            <a target="_blank"href="http://www.boule-partner.de">Boule Partner</a><br>
-            <a target="_blank"href="http://www.bouleaufer.de/">Boule au fer</a><br>
             <a target="_blank"href="http://www.boule.ch/">Boule.ch </a><br>
             <a target="_blank"href="http://www.bouli.de/">Bouli.de</a></p>
+
+            <h2>Turnierkalender</h2>
+
+            <p><a target="_blank"href="http://www.petanque-bw.de/index.php?id=1427">BBPV-Turnierkalender</a><br>
+            <a target="_blank"href="https://petanque-aktuell.de/turnierkalender/">Pétanque aktuell</a></p>
 
         </div>
         
@@ -127,18 +108,19 @@
 
             <p><a target="_blank"href="http://www.obut.com/">Hersteller Obut</a><br>
             <a target="_blank"href="http://www.boules-jb.com/">Hersteller JB</a><br>
-            <a target="_blank"href="http://www.laboulenoire.com/">Hersteller Boule Noir</a><br>
+            <a target="_blank"href="https://www.obut.com/de/38-la-boule-noire-competition-reedition-2023">Hersteller Boule Noir</a><br>
             <a target="_blank"href="http://www.laboulebleue.fr/">Hersteller Boule Bleu</a><br>
-            <a target="_blank"href="http://www.labouleintegrale.com/">Hersteller Integrale</a><br>
-            <a target="_blank"href="http://www.ms-petanque.com/">Hersteller MS</a><br>
+            <a target="_blank"href="https://ms-petanque.com/fr/">Hersteller MS</a><br>
             <a target="_blank"href="http://www.bocceunibloc.it/">Hersteller Unibloc</a><br>
-            <a target="_blank"href="http://www.indoor-boules.de/">Hersteller Indoor Boules</a></p>
+            <a target="_blank"href="https://www.obut.com/de/gelandetaugliche-petanque-kugeln/70-boulekugeln-tout-terrain-fur-jeden-untergrund.html">Hersteller Indoor Boules</a></p>
 
         </div>
             
     </div>
 
-            <?php include('inc_fusszeile.php') ?>                
+    <script src="scripts/AufrufButton.js"></script>
+
+    <?php include('inc_fusszeile.php') ?>                
 
 </body>
 </html>

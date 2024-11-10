@@ -25,21 +25,6 @@
 
     <img src="images/TeasKontakt.jpg" alt="Kontakt zum Seepark" title="Reiche mir deine Hand" style="margin-bottom: 1em;"/>
 
-    <script>
-        document.addEventListener("DOMContentLoaded", function() {
-            const btnMenu = document.getElementById("btnMenu");
-            const navigation2 = document.getElementById("navigation2");
-
-            btnMenu.addEventListener("click", function() {
-                if (navigation2.style.display === "block") {
-                    navigation2.style.display = "none";
-                } else {
-                    navigation2.style.display = "block";
-                }
-            });
-        });
-    </script>
-
     <div id="kontakt">
 
         <div id="Kontakt1">
@@ -75,8 +60,10 @@
         </div>
 
     </div>
+
+    <script src="scripts/AufrufButton.js"></script>
  
-                <?php include('inc_fusszeile.php') ?>        
+    <?php include('inc_fusszeile.php') ?>        
         
 </body>
 </html>

@@ -26,28 +26,13 @@
         <img src="imagefolder/TeasJubi2022.jpg" title="Jubiläumsturnier 2022" alt="Jubiläumsturnier 2022">
     </teaser>
 
-    <script>
-        document.addEventListener("DOMContentLoaded", function() {
-            const btnMenu = document.getElementById("btnMenu");
-            const navigation2 = document.getElementById("navigation2");
-
-            btnMenu.addEventListener("click", function() {
-                if (navigation2.style.display === "block") {
-                    navigation2.style.display = "none";
-                } else {
-                    navigation2.style.display = "block";
-                }
-            });
-        });
-    </script>
-
     <div>
 
         <div id="ergebnis">
 
             <h2>Ergebnis 22. Jubil&auml;umsturnier 2022 (Doublette Formée)</h2>
 
-			<p>Hier die <a target="_blank"href="Bilderwand/images/Jubi2022/ErgJubi2022.pdf">Ergebnisliste</a> als PDF.</p>
+			<p>Hier die <a target="_blank"href="imagefolder/Jubiläumsturnier_2022/ErgJubi2022.pdf">Ergebnisliste</a> als PDF.</p>
 
             <p><strong>Ergebnis A-Turnier</strong></parse_str>
 
@@ -98,7 +83,11 @@
         </div>
 
     </div>
-                    <?php include('inc_fusszeile.php') ?>
+
+    <?php include('inc_fusszeile.php') ?>
+
+    <script src="scripts/AufrufButton.js"></script>
+    
 </body>
 </html>
 

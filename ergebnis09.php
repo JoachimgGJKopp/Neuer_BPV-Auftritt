@@ -26,21 +26,6 @@
         <img src="imagefolder/TeasHerbst2023.jpg" title="Herbst im Seepark" alt="Herbst im Seepark">
     </teaser>
 
-    <script>
-        document.addEventListener("DOMContentLoaded", function() {
-            const btnMenu = document.getElementById("btnMenu");
-            const navigation2 = document.getElementById("navigation2");
-
-            btnMenu.addEventListener("click", function() {
-                if (navigation2.style.display === "block") {
-                    navigation2.style.display = "none";
-                } else {
-                    navigation2.style.display = "block";
-                }
-            });
-        });
-    </script>
-
     <div>
 
         <div id="ergebnis">
@@ -48,7 +33,7 @@
  
             <h2>Ergebnis Herbstturnier 2023<br>Triplette Formée, 5 Runden Schweizer System + Finale, 24 Tripletten</h2>
 
-            <p>Hier das <a target="_blank"href="Bilderwand/images/Herbst2023/ErgebnisHerbst2023.pdf">Ergebnis</a> des Turniers</p>
+            <p>Hier das <a target="_blank" href="imagefolder/Herbstturnier_2023/ErgebnisHerbst2023.pdf">Ergebnis</a> des Turniers</p>
 
             <p>1. Peter Frank, Peter Martin, Andreas Scholz;<br>
             2. Didier Kauffmann, Christophe Riff, Clement Melnikoff;<br>
@@ -85,7 +70,11 @@
         </div>
 
     </div>
-                    <?php include('inc_fusszeile.php') ?>
+
+    <?php include('inc_fusszeile.php') ?>
+
+    <script src="scripts/AufrufButton.js"></script>
+    
 </body>
 </html>
 

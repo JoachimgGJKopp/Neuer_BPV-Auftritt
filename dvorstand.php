@@ -30,21 +30,6 @@
         <h2 style="margin-bottom: 2em;">Vorstand des BPV Freiburg</h2>
     </teaser>
 
-    <script>
-        document.addEventListener("DOMContentLoaded", function() {
-            const btnMenu = document.getElementById("btnMenu");
-            const navigation2 = document.getElementById("navigation2");
-
-            btnMenu.addEventListener("click", function() {
-                if (navigation2.style.display === "block") {
-                    navigation2.style.display = "none";
-                } else {
-                    navigation2.style.display = "block";
-                }
-            });
-        });
-    </script>
-
     <div id="dvorstand">			<!-- Desktop -->
 
 	    <div id="dvorstand1">
@@ -108,6 +93,8 @@
 		</div>
 
 	</div>
+
+	<script src="scripts/AufrufButton.js"></script>
 
     <?php include('inc_fusszeile.php') ?>
           

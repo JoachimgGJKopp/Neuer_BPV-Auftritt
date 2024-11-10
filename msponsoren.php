@@ -25,21 +25,6 @@
         <img src="images/TeasSpons.jpg" title="Turnier am Seepark" alt="Turnier am Seepark">
         <h2>Unsere Sponsoren</h2>
 
-    <script>
-        document.addEventListener("DOMContentLoaded", function() {
-            const btnMenu = document.getElementById("btnMenu");
-            const navigation2 = document.getElementById("navigation2");
-
-            btnMenu.addEventListener("click", function() {
-                if (navigation2.style.display === "block") {
-                    navigation2.style.display = "none";
-                } else {
-                    navigation2.style.display = "block";
-                }
-            });
-        });
-    </script>
-       
     <div id="msponsoren"> <!-- Mobileversion -->
 
         <div id="msponsoren1">
@@ -65,6 +50,8 @@
 
             
     </div>
+
+    <script src="scripts/AufrufButton.js"></script>
                 
     <?php include('inc_fusszeile.php') ?>       
 

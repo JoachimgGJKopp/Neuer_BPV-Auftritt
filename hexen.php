@@ -26,23 +26,6 @@
         <img src="images/TeasHexen2015.jpg" alt="elsässer Hexen" title="elsässer Hexen" style="margin-bottom: 11em"/>
     </teaser>
 
-    <script src="scripts.js"></script>
-
-    <script>
-        document.addEventListener("DOMContentLoaded", function() {
-            const btnMenu = document.getElementById("btnMenu");
-            const navigation2 = document.getElementById("navigation2");
-
-            btnMenu.addEventListener("click", function() {
-                if (navigation2.style.display === "block") {
-                    navigation2.style.display = "none";
-                } else {
-                    navigation2.style.display = "block";
-                }
-            });
-        });
-    </script>
-
     <main>
 
         <div id="Inhalt1">
@@ -83,6 +66,8 @@
         </div>
 
     </main>
+
+    <script src="scripts/AufrufButton.js"></script>
         
     <?php include('inc_fusszeile.php') ?>
             

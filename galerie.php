@@ -1,7 +1,5 @@
 <?php include 'getFolder.php';
 
-
-
 $ordner = 'imagefolder/' . getFolder(); // Pfad zu deinem Bilder-Ordner
 
 // echo $ordner;
@@ -69,21 +67,6 @@ foreach($bilder_gross as $bild_gross) {
         <?php include ('navigation2.php'); ?>
     </nav2>
 
-    <script>
-        document.addEventListener("DOMContentLoaded", function() {
-            const btnMenu = document.getElementById("btnMenu");
-            const navigation2 = document.getElementById("navigation2");
-
-            btnMenu.addEventListener("click", function() {
-                if (navigation2.style.display === "block") {
-                    navigation2.style.display = "none";
-                } else {
-                    navigation2.style.display = "block";
-                }
-            });
-        });
-    </script>
-
     <h1 style="margin: 1em 0em 0em 1.5em; color: rgb(3, 75, 3);">
       <?php echo getFolder(true); ?>
     </h1>
@@ -99,11 +82,9 @@ foreach($bilder_gross as $bild_gross) {
   <!-- Fancybox JS einbinden -->
   <script src="https://cdn.jsdelivr.net/npm/@fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
 
-    <script>
-        $(document).ready(function() {
-        $('[data-fancybox="gallery"]').fancybox();
-        });
-    </script>
+  <script src="scripts/DataFancyBox.js"></script>
+
+  <script src="scripts/AufrufButton.js"></script>
 
 </body>
 

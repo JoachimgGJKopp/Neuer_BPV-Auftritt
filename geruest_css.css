@@ -38,6 +38,10 @@
             max-width: 100%;
         }
 
+        png {
+            max-width: 100%;               /* Logo Lexware */
+        }
+
         #header {
             grid-column: 1 / -1;
             max-width: 100%;
@@ -50,7 +54,7 @@
             position: relative;
         }
 
-        #btnMenu {                      /* Burger-Button */
+        #btnMenu {                         /* Burger-Button */
             display:none;
         }
 
@@ -64,7 +68,7 @@
             #btnMenu {display:block;}
             nav {display:none;}
         }
-        
+
         #teaser {
             grid-column: 1 / -1;
             max-width: 100%; 
@@ -76,23 +80,103 @@
 
         #turnierplan {
             position:relative;
-            top:-6.5em;
+            top:-7.5em;
             left: 0.5em;
             height:6.625em; 
             width:4.6875em;
         }
 
-        #sparkasse {
-            box-sizing: border-box;
-            display: flex;
-            justify-content: flex-end;
-            align-items: center;
-            position: relative;
-            top:-10em;
-            right: 0.5em; 
-            width: 100%;
-            height: 100%;
+        #LogoText {                     /* Desktop: Mit freundlicher Unterstützung von */
+            position: absolute;
+            margin-top: -6.1em;
+            margin-left: 21em;
         }
+
+        #LogoTextMobile {
+            position: absolute;
+            margin-top: 16em;
+            margin-left: 0em;
+        }
+
+        
+        /* Standard für Desktop: Textlogo anzeigen, TextlogoMobile verstecken */
+        .Textlogo {
+            display: block;
+        }
+
+        .TextlogoMobile {
+            display: none;
+        }
+
+        /* Mobile Media Query */
+        @media screen and (max-width: calc(48rem - 1px)) {
+            /* Textlogo nur auf Mobile ausblenden */
+            .Textlogo {
+                display: none;
+            }
+
+            /* TextlogoMobile nur auf Mobile anzeigen */
+            .TextlogoMobile {
+                display: block;
+            }
+
+            /* Weitere Anpassungen für Mobile */
+            #teaser {
+                margin-bottom: 2em;
+            }
+            #turnierplan {
+                margin-top: -2em;
+            }
+            .logos {
+                margin-top: 2em;
+            }
+        }
+
+
+
+        .full-width-line {      /* Linie unter dem Werbeblock Hompage */
+            width: 100%;
+            border-top: 1px solid lightgray;
+            margin: -6.5em 0; /* Abstand oben und unten, anpassbar */
+        }
+
+        Logos {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(1fr, 1fr, 15em));
+            column-gap: 2.5em;
+            max-width: 100%;
+        }
+
+            #Lexware {
+                grid-column: 1 / -3;                
+                /*box-sizing: border-box;
+                display: flex;
+                justify-content: flex-start;*/
+                align-items: center;
+                position: relative;
+                top:-6.5em;
+                left: 0em; 
+                height: 100%
+            }
+
+            /*#Logotext {
+                grid-column: 2 / -2;
+                position: absolute;
+                margin-top: 0em;
+                margin-left: 20em;
+            }*/
+
+            #sparkasse {
+                grid-column: 3 / -1;  
+                box-sizing: border-box;
+                display: flex;
+                justify-content: flex-end;
+                align-items: center;
+                position: relative;
+                top:-6.5em;
+                right: 0em; 
+                height: 100%;
+            }
 
         #adresse {
             margin-top: -9em;
@@ -109,7 +193,13 @@
 	        display: grid;
             grid-template-columns: repeat(auto-fill, minmax(20em, 1fr));
             column-gap: 5em;
-            font-size: normal;           
+            font-size: normal;
+            
+            @media (max-width: 768px) {     /* Schriftgröße für Bildschirme mit einer Breite von maximal 768px (z. B. mobile Geräte)*/ 
+                td {
+                font-size: 1.3rem;  /*Größere Schriftgröße für mobile Geräte*/ 
+                }
+            } 
         }
 
             #dokumente-plakate table {
@@ -184,8 +274,8 @@
                 grid-column: 4/ -2;
             }
 
-        main {                                  /* dreispaltig: index, adresse */
-            margin-top: -9.5em;
+        main { 
+            margin-top: -7em;   /* dreispaltig: index, adresse */
             max-width: 100%;
             color: #333333;
             display: grid;

@@ -27,21 +27,6 @@
         <h2>Dokumente</h2>
     </teaser>
 
-    <script>
-        document.addEventListener("DOMContentLoaded", function() {
-            const btnMenu = document.getElementById("btnMenu");
-            const navigation2 = document.getElementById("navigation2");
-
-            btnMenu.addEventListener("click", function() {
-                if (navigation2.style.display === "block") {
-                    navigation2.style.display = "none";
-                } else {
-                    navigation2.style.display = "block";
-                }
-            });
-        });
-    </script>
-
     <div id="dokumente">
 
         <div id="dokumente-plakate">
@@ -56,15 +41,15 @@
 
                     <ul>
                         <tr><td>&nbsp;</td></tr>
-                        <tr><td>Plakat Frühlingsturnier 2024</td><td><a href="dokumente/Fruehling2024.jpg"><img src="images/jpgLogo.jpg"alt="jpg download" title="jpg download"/></a></td></tr>
-                        <tr><td>Plakat Nocturne 2024</td><td><a href="dokumente/Nocturne2024.jpg"><img src="images/jpgLogo.jpg"alt="jpg download" title="jpg download"/></a></td></tr>
-                        <tr><td>Plakat Herbstturnier 2024</td><td><a href="dokumente/Herbst2024.jpg"><img src="images/jpgLogo.jpg"alt="jpg download" title="jpg download"/></a></td></tr>
-                        <tr><td>Plakat Jubiläumsturnier 2024</td><td><a href="dokumente/Jubi2024.jpg"><img src="images/jpgLogo.jpg"alt="jpg download" title="jpg download"/></a></td></tr>
-                        <tr><td>Plakat Tauschturnier 2024</td><td><a href="dokumente/Tausch2024.jpg"><img src="images/jpgLogo.jpg"alt="jpg download" title="jpg download"/></a></td></tr>
+                        <tr><td>Plakat Frühlingsturnier 2024</td><td>&nbsp;&nbsp;</td><td><a href="dokumente/Fruehling2024.jpg"><img src="images/jpgLogo.jpg" alt="jpg download" title="jpg download" /></a></td></tr>
+                        <tr><td>Plakat Nocturne 2024</td><td>&nbsp;&nbsp;</td><td><a href="dokumente/Nocturne2024.jpg"><img src="images/jpgLogo.jpg" alt="jpg download" title="jpg download"/></a></td></tr>
+                        <tr><td>Plakat Herbstturnier 2024</td><td>&nbsp;&nbsp;</td><td><a href="dokumente/Herbst2024.jpg"><img src="images/jpgLogo.jpg" alt="jpg download" title="jpg download"/></a></td></tr>
+                        <tr><td>Plakat Jubiläumsturnier 2024</td><td>&nbsp;&nbsp;</td><td><a href="dokumente/Jubi2024.jpg"><img src="images/jpgLogo.jpg" alt="jpg download" title="jpg download"/></a></td></tr>
+                        <tr><td>Plakat Tauschturnier 2024</td><td>&nbsp;&nbsp;</td><td><a href="dokumente/Tausch2024.jpg"><img src="images/jpgLogo.jpg" alt="jpg download" title="jpg download"/></a></td></tr>
                         <tr><td>&nbsp;</td></tr>
-                        <tr><td>Plakat Sommercup 2024</td><td><a href="dokumente/Sommercup2024.jpg"><img src="images/jpgLogo.jpg"alt="jpg download" title="jpg download"/></a></td></tr>
+                        <tr><td>Plakat Sommercup 2024</td><td>&nbsp;&nbsp;</td><td><a href="dokumente/Sommercup2024.jpg"><img src="images/jpgLogo.jpg" alt="jpg download" title="jpg download"/></a></td></tr>
                         <tr><td>&nbsp;</td></tr>
-                        <tr><td>Turnierplan 2024</td><td><a href="dokumente/Turnierplan2024.pdf"><img src="images/pdf.gif"alt="pdf download" title="pdf download"/></a></td></tr>
+                        <tr><td>Turnierplan 2024</td><td>&nbsp;&nbsp;</td><td><a href="dokumente/Turnierplan2024.pdf"><img src="images/pdf.gif" alt="pdf download" title="pdf download"/></a></td></tr>
                         <tr><td>&nbsp;</td></tr>
                     </ul>
 
@@ -86,16 +71,15 @@
 
                     <ul>
                         <tr><td>&nbsp;</td></tr>
-                        <tr><td>Reglement DPV</td><td><a href="https://deutscher-petanque-verband.de/wp-content/uploads/2021/03/Reglement_2021_0321.pdf"><img src="images/pdf.gif"alt="pdf download" title="pdf download"/></a></td></tr>
-                        <tr><td>Sportordnung Landesverband</td><td><a href="https://petanque-bw.de/service/dokumente/"><img src="images/pdf.gif"alt="pdf download" title="pdf download"/></a></td></tr>
-                        <tr><td>Ligarichtlinie Landesverband</td><td><a href="https://petanque-bw.de/service/dokumente/"><img src="images/pdf.gif"alt="pdf download" title="pdf download"/></a></td></tr>
-                        <tr><td>Mitgliedsantrag im BPV</td><td><a href="dokumente/MAntragEinwillBeitragso2022.pdf"><img src="images/pdf.gif"alt="pdf download" title="pdf download"/></a></td></tr>
-                        <tr><td>Lizenzantrag Landesverband</td><td><a href="https://petanque-bw.de/service/formulare/"><img src="images/pdf.gif"alt="pdf download" title="pdf download"/></a></td></tr>
-                        <tr><td>Tagesersatzlizenz DPV</td><td><a href="https://petanque-bw.de/service/formulare/"><img src="images/pdf.gif"alt="pdf download" title="pdf download"/></a></td></tr>
-                        <tr><td>Fahrtkostenzuschuss DM</td><td><a href="images/Fahrtkostenzuschuss.pdf" download><img src="images/pdf.gif"alt="pdf download" title="pdf download"/></a></td></tr>
-                        <tr><td>Beitragsordnung</td><td><a href="dokumente/Beitragsordnung_2.1.pdf"><img src="images/pdf.gif"alt="pdf download" title="pdf download"/></a></td></tr>
-                        <tr><td>Bewirtungsordnung</td><td><a href="dokumente/Bewirtungsordnung.pdf"><img src="images/pdf.gif"alt="pdf download" title="pdf download"/></a></td></tr>
-                        <tr><td>Datenschutzhinweis</td><td><a href="dokumente/Datenschutzhinweis 2022.pdf"><img src="images/pdf.gif"alt="pdf download" title="pdf download"/></a></td></tr>
+                        <tr><td>Reglement DPV</td><td>&nbsp;&nbsp;</td><td><a href="https://deutscher-petanque-verband.de/wp-content/uploads/2021/03/Reglement_2021_0321.pdf"><img src="images/pdf.gif" alt="pdf download" title="pdf download"/></a></td></tr>
+                        <tr><td>Sportordnung Landesverband</td><td>&nbsp;&nbsp;</td><td><a href="https://petanque-bw.de/service/dokumente/"><img src="images/pdf.gif" alt="pdf download" title="pdf download"/></a></td></tr>
+                        <tr><td>Ligarichtlinie Landesverband</td><td>&nbsp;&nbsp;</td><td><a href="https://petanque-bw.de/service/dokumente/"><img src="images/pdf.gif" alt="pdf download" title="pdf download"/></a></td></tr>
+                        <tr><td>Mitgliedsantrag im BPV</td><td>&nbsp;&nbsp;</td><td><a href="dokumente/MAntragEinwillBeitragso2022.pdf"><img src="images/pdf.gif" alt="pdf download" title="pdf download"/></a></td></tr>
+                        <tr><td>Lizenzantrag Landesverband</td><td>&nbsp;&nbsp;</td><td><a href="https://petanque-bw.de/service/formulare/"><img src="images/pdf.gif" alt="pdf download" title="pdf download"/></a></td></tr>
+                        <tr><td>Tagesersatzlizenz DPV</td><td>&nbsp;&nbsp;</td><td><a href="https://petanque-bw.de/service/formulare/"><img src="images/pdf.gif" alt="pdf download" title="pdf download"/></a></td></tr>
+                        <tr><td>Beitragsordnung</td><td>&nbsp;&nbsp;</td><td><a href="dokumente/Beitragsordnung_2.1.pdf"><img src="images/pdf.gif" alt="pdf download" title="pdf download"/></a></td></tr>
+                        <tr><td>Bewirtungsordnung</td><td>&nbsp;&nbsp;</td><td><a href="dokumente/Bewirtungsordnung.pdf"><img src="images/pdf.gif" alt="pdf download" title="pdf download"/></a></td></tr>
+                        <tr><td>Datenschutzhinweis</td><td>&nbsp;&nbsp;</td><td><a href="dokumente/Datenschutzhinweis 2022.pdf"><img src="images/pdf.gif" alt="pdf download" title="pdf download"/></a></td></tr>
                     </ul>
 
                 </tbody>
@@ -105,7 +89,10 @@
         </div>
 
     </div>
-                <?php include('inc_fusszeile.php') ?>   
+
+	<script src="scripts/AufrufButton.js"></script>
+
+    <?php include('inc_fusszeile.php') ?>   
 
 </body>
 </html>

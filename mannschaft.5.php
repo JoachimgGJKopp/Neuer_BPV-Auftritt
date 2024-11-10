@@ -30,23 +30,6 @@
     </teaser>
 
 
-    <script src="scripts.js"></script>
-
-    <script>
-        document.addEventListener("DOMContentLoaded", function() {
-            const btnMenu = document.getElementById("btnMenu");
-            const navigation2 = document.getElementById("navigation2");
-
-            btnMenu.addEventListener("click", function() {
-                if (navigation2.style.display === "block") {
-                    navigation2.style.display = "none";
-                } else {
-                    navigation2.style.display = "block";
-                }
-            });
-        });
-    </script>
-            
     <div id="mannschaft1">
 
         <h3>Mannschaftsmitglieder</h3>
@@ -62,6 +45,8 @@
         Hannes Schuler</p>
 
     </div>
+
+    <script src="scripts/AufrufButton.js"></script>
 
     <?php include('inc_fusszeile.php') ?>
 

@@ -26,23 +26,6 @@
         <img src="archiv/TeasArchiv.jpg" title="Frühling auf dem Platz" alt="Frühling auf dem Platz" style="margin-bottom: 11em;">
     </teaser>
 
-    <!--<script src="scripts.js"></script>-->
-
-    <script>
-        document.addEventListener("DOMContentLoaded", function() {
-            const btnMenu = document.getElementById("btnMenu");
-            const navigation2 = document.getElementById("navigation2");
-
-            btnMenu.addEventListener("click", function() {
-                if (navigation2.style.display === "block") {
-                    navigation2.style.display = "none";
-                } else {
-                    navigation2.style.display = "block";
-                }
-            });
-        });
-	</script>
-        
         <main>
 
         <div id="Inhalt1">
@@ -155,11 +138,15 @@
 				<a target="_blank"href="archiv/screenshot20240713.jpg">13.07.2024</a> Ligasaison Abschluss 2024<br>
 				<a target="_blank"href="archiv/screenshot20240727.jpg">27.07.2024</a> Nocturne 2024<br>
 				<a target="_blank"href="archiv/screenshot20240914.jpg">14.09.2024</a> Herbstturnier 2024<br>
-				<a target="_blank"href="archiv/screenshot20240927.jpg">27.09.2024</a> Beleuchtung repariert</p>
+				<a target="_blank"href="archiv/screenshot20240927.jpg">27.09.2024</a> Beleuchtung repariert<br>
+				<a target="_blank"href="archiv/screenshot20241026.jpg">26.10.2024</a> Sommercup Abschluss</p>
 		</div>
 
 	</main>
-                <?php include('inc_fusszeile.php') ?>
+
+	<script src="scripts/AufrufButton.js"></script>
+
+    <?php include('inc_fusszeile.php') ?>
 
 </body>
 </html>

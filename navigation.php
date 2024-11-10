@@ -36,6 +36,7 @@
 
             <li><span>Ergebnisse</span>
             <ul>
+                <li><a href="ergebnis13.php">Jubiläumsturnier 2024</a></li>
                 <li><a href="ergebnis12.php">Herbstturnier 2024</a></li>
 		        <li><a href="ergebnis11.php">Frühlingsturnier 2024</a></li>
                 <li><a href="ergebnis10.php">Jubiläumsturnier 2023</a></li>
@@ -44,16 +45,13 @@
 	            <li><a href="ergebnis07.php">Frühlingsturnier 2023</a></li> 
                 <li><a href="ergebnis06.php">Jubiläumsturnier 2022</a></li>
                 <li><a href="ergebnis05.php">Herbstturnier 2022</a></li>
-                <li><a href="ergebnis04.php">Jubiläumsturnier 2019</a></li>
-                <li><a href="ergebnis03.php">Herbstturnier 2019</a></li>
-	            <li><a href="ergebnis02.php">Badische Meisterschaften 2019</a></li>
-	            <li><a href="ergebnis01.php">Frühlingsturnier 2019</a></li>
             </ul>
             </li>
 
             <li><span>Galerien</span>
             <?php
                 $galerien = [
+                    'Jubiläumsturnier 2024',
                     'Herbstturnier 2024',
                     'Frühlingsturnier 2024',
                     'Jubiläumsturnier 2023',
@@ -61,17 +59,12 @@
                     'Herbstturnier 2023',
                     'Nocturne 2023',
                     'Badische Meisterschaften 2023',
-                    '2. Großspieltag RL Süd 2023',
                     'Frühlingsturnier 2023',
                     'Jubiläumsturnier 2022',
                     'Oktoberfest 2022',
                     'Herbstturnier 2022',
-                    'Jubiläumsturnier 2019',
-                    'Herbstturnier 2019',
-                    'Badische Meisterschaften 2019',
-                    'Frühlingsturnier am 24. März 2019'
                 ];
-                
+
 
                 echo '<ul>';
                 foreach ($galerien as $galerie) {

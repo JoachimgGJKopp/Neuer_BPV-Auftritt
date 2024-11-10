@@ -26,28 +26,13 @@
         <img src="imagefolder/TeasHerbst2022.jpg" title="Herbstturnier 2022" alt="Herbstturnier 2022">
     </teaser>
 
-    <script>
-        document.addEventListener("DOMContentLoaded", function() {
-            const btnMenu = document.getElementById("btnMenu");
-            const navigation2 = document.getElementById("navigation2");
-
-            btnMenu.addEventListener("click", function() {
-                if (navigation2.style.display === "block") {
-                    navigation2.style.display = "none";
-                } else {
-                    navigation2.style.display = "block";
-                }
-            });
-        });
-    </script>
-
     <div>
 
         <div id="ergebnis">
 
             <h2>Ergebnis Herbstturnier 2022<br>Triplette Formée, 5 Runden Schweizer System + Finale, 25 Tripletten</h2>
 
-            <p>Hier das <a target="_blank" href="Bilderwand/images/Herbst2022/ErgebnisHerbst2022.pdf">Ergebnis</a> des Turniers</p>
+            <p>Hier das <a target="_blank" href="imagefolder/Herbstturnier_2022/ErgebnisHerbst2022.pdf">Ergebnis</a> des Turniers</p>
 
             <p>1. Claude Carette, Eric Koffel und Denis Reinhardt;<br>
             2. Guillaume Ratuszniak, Julien Brucker und Jean-Marie Rollin;<br>
@@ -84,7 +69,11 @@
         </div>
 
     </div>
-                    <?php include('inc_fusszeile.php') ?>
+
+    <?php include('inc_fusszeile.php') ?>
+
+    <script src="scripts/AufrufButton.js"></script>
+    
 </body>
 </html>
 

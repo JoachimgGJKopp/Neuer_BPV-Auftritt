@@ -26,28 +26,13 @@
         <img src="imagefolder/TeasJubi2023.jpg" title="Herbst im Seepark" alt="Herbst im Seepark">
     </teaser>
 
-    <script>
-        document.addEventListener("DOMContentLoaded", function() {
-            const btnMenu = document.getElementById("btnMenu");
-            const navigation2 = document.getElementById("navigation2");
-
-            btnMenu.addEventListener("click", function() {
-                if (navigation2.style.display === "block") {
-                    navigation2.style.display = "none";
-                } else {
-                    navigation2.style.display = "block";
-                }
-            });
-        });
-    </script>
-
     <div>
 
         <div id="ergebnis">
 
         <h2>Ergebnis 22. Jubiläumsturnier 2023 (Doublette Formée)</h2>
 
-			<p>Hier die <a target="_blank"href="Bilderwand/images/Jubi2023/ErgJubi2023.pdf">Ergebnisliste</a> als PDF.</p>
+			<p>Hier die <a target="_blank"href="imagefolder/Jubiläumsturnier_2023/ErgJubi2023.pdf">Ergebnisliste</a> als PDF.</p>
 
             <p><strong>Ergebnis A-Turnier</strong></p>
 
@@ -105,7 +90,11 @@
         </div>
 
     </div>
-                    <?php include('inc_fusszeile.php') ?>
+
+    <?php include('inc_fusszeile.php') ?>
+
+    <script src="scripts/AufrufButton.js"></script>
+    
 </body>
 </html>
 

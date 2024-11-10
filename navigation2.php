@@ -40,6 +40,7 @@
         <li>
             <a href="#">Ergebnisse</a>
             <ul class="dropdown">
+                <li><a href="ergebnis13.php">Jubiläumsturnier 2024</a></li>
                 <li><a href="ergebnis12.php">Herbstturnier 2024</a></li>
 		        <li><a href="ergebnis11.php">Frühlingsturnier 2024</a></li>
                 <li><a href="ergebnis10.php">Jubiläumsturnier 2023</a></li>
@@ -48,38 +49,43 @@
 	            <li><a href="ergebnis07.php">Frühlingsturnier 2023</a></li> 
                 <li><a href="ergebnis06.php">Jubiläumsturnier 2022</a></li>
                 <li><a href="ergebnis05.php">Herbstturnier 2022</a></li>
-                <li><a href="ergebnis04.php">Jubiläumsturnier 2019</a></li>
-                <li><a href="ergebnis03.php">Herbstturnier 2019</a></li>
-	            <li><a href="ergebnis02.php">Badische Meisterschaften 2019</a></li>
-	            <li><a href="ergebnis01.php">Frühlingsturnier 2019</a></li>
             </ul>
         </li>
 
         <li>
             <a href="#">Galerien</a>
-            <ul class="dropdown">
-                <li><a href="galerie74.php">Herbstturnier 2024</a></li>                
-                <li><a href="galerie73.php">Frühlingsturnier 2024</a></li>
-	            <li><a href="galerie68.php">Jubiläumsturnier 2023</a></li>
-                <li><a href="galerie65.php">Oktoberfest 2023</a></li>
-                <li><a href="galerie62.php">Herbstturnier 2023</a></li>
-                <li><a href="galerie60.php">Nocturne 2023</a></li>
-                <li><a href="galerie58.php">Badische Meisterschaften 2023</a></li>
-                <li><a href="galerie55.php">2. Großspieltag RL Süd 2023</a></li>
-                <li><a href="galerie52.php">Frühlingsturnier 2023</a></li>
-                <li><a href="galerie48.php">Jubiläumsturnier 2022</a></li>
-                <li><a href="galerie46.php">Oktoberfest 2022</a></li>
-                <li><a href="galerie43.php">Herbstturnier 2022</a></li>
-                <li><a href="galerie41.php">Jubiläumsturnier 2019</a></li>
-                <li><a href="galerie39.php">Herbstturnier 2019</a></li>
-                <li><a href="galerie36.php">Badische Meisterschaften 2019</a></li>
-                <li><a href="galerie34.php">Frühlingsturnier 2019</a></li>
-            </ul>
+
+            <?php
+                $galerien = [
+                    'Jubiläumsturnier 2024',
+                    'Herbstturnier 2024',
+                    'Frühlingsturnier 2024',
+                    'Jubiläumsturnier 2023',
+                    'Oktoberfest 2023',
+                    'Herbstturnier 2023',
+                    'Nocturne 2023',
+                    'Badische Meisterschaften 2023',
+                    'Frühlingsturnier 2023',
+                    'Jubiläumsturnier 2022',
+                    'Oktoberfest 2022',
+                    'Herbstturnier 2022',
+                ];
+
+
+                echo '<ul class="dropdown">';
+                foreach ($galerien as $galerie) {
+                    // Ersetze Leerzeichen durch Unterstriche im Dateinamen
+                    $folderName = str_replace(' ', '_', $galerie);
+                    echo '<li><a href="galerie.php?folder=' . $folderName . '">' . $galerie . '</a></li>';
+                }
+                echo '</ul>';
+            ?>
+
 	    </li>
 
         <li><a href="liga.php">Liga</a></li>
 
-        <!--<li><a href="beginners.php">Einsteiger</a></li>-->
+        <li><a href="beginners.php">Einsteiger</a></li>
 
         <li><a href="links.php">Links&nbsp;</a></li>
 

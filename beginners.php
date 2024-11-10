@@ -25,21 +25,6 @@
         <img src="images/TeasBegin.jpg" title="Vereinsheim des BPV" alt="Vereinsheim des BPV" style="margin-bottom: 10em;">
     </teaser>
 
-    <script>
-        document.addEventListener("DOMContentLoaded", function() {
-            const btnMenu = document.getElementById("btnMenu");
-            const navigation2 = document.getElementById("navigation2");
-
-            btnMenu.addEventListener("click", function() {
-                if (navigation2.style.display === "block") {
-                    navigation2.style.display = "none";
-                } else {
-                    navigation2.style.display = "block";
-                }
-            });
-        });
-    </script>
- 
     <div id="beginner" style=margin-top:-9em>
 
         <h2>Informationen für Neueinsteiger ins Pétanque-Spiel</h2>
@@ -75,7 +60,9 @@
 
     </div>
 
-            <?php include('inc_fusszeile.php') ?>
+    <script src="scripts/AufrufButton.js"></script>
+
+    <?php include('inc_fusszeile.php') ?>
 
 </body>
 </html>

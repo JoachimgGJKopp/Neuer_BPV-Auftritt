@@ -2,8 +2,10 @@
 <html lang="de">
 <head>
     <title>Index</title>
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/ui@5/dist/fancybox.css" />
     <?php include ('header.php'); ?>
 </head>
+
 <body>
     
     <button id="btnMenu">
@@ -32,135 +34,156 @@
         onmouseout="src='images/WebTurnierplan2024klein.gif'" /></a></div>
     </Turnierplan>
 
-    <Sparkasse id="sparkasse">   
-        <div><a target="_blank" href="http://www.sparkasse-freiburg.de/"><img src="images/Logospark.jpg" alt="Logo der Sparkasse Freiburg" title="Logo der Sparkasse Freiburg" /></a></div>
-    </Sparkasse>
+	<TextlogoMobile  id="LogoTextMobile">
+			<div>Mit freundlicher Unterstützung von</div>
+	</TextlogoMobile>		
 
-    <script>
-        document.addEventListener("DOMContentLoaded", function() {
-            const btnMenu = document.getElementById("btnMenu");
-            const navigation2 = document.getElementById("navigation2");
+	<Logos>
 
-            btnMenu.addEventListener("click", function() {
-                if (navigation2.style.display === "block") {
-                    navigation2.style.display = "none";
-                } else {
-                    navigation2.style.display = "block";
-                }
-            });
-        });
-    </script>
+		<Textlogo  id="LogoText">
+			<div>Mit freundlicher Unterstützung von</div>
+		</Textlogo>	
 
-    <main style="padding-top: 1em;">
+		<LogoLexware id="Lexware">
+			<div><a target="_blank" href="https://www.lexware.de/"><img src="images/LogoLexware.png" alt="Logo Lexware" title="Logo Lexware" width="242px" height="35px"/></a></div>
+		</LogoLexware>
+
+		<Sparkasse id="sparkasse">   
+			<div><a target="_blank" href="http://www.sparkasse-freiburg.de/"><img src="images/Logospark.jpg" alt="Logo der Sparkasse Freiburg" title="Logo der Sparkasse Freiburg" /></a></div>
+		</Sparkasse>
+
+	</Logos>
+	
+	<div class="full-width-line"></div>		<!-- Linie unter dem Werbeblock Hompage -->
+
+    <main>
 
         <div id="Inhalt1">
 
-			<h3>Der Sommercup läuft</h3>
+			<h3>Jubiläumsturnier mit Rekordteilnahme</h3>
 
-			<div class="galerie-foto"><a rel="lightbox"
-			href="images/WebSommercup2024big.jpg"><img 
-			src="images/WebSommercup2024big.jpg" alt="Sommercup 2024"
-			title="Sommercup 2024" /></a></div>
+			<div class="galerie-foto">
+    		<a data-fancybox="gallery" href="images/WebJubi2024big4.jpg">
+        	<img src="images/WebJubi2024big4.jpg" alt="Jubiäumsturnier 2024" 
+			title="Jubiäumsturnier 2024" /></a></div>
 
-			<p>Am Samstag, den 12. Oktober 2024 spielen wir im Seepark ab 13.30
-			Uhr Doublette Supermêlée. Das Spiel ist lizenzfrei und jedermann ist herzlich
-			eingeladen mit uns mitzuspielen.</p>
+			<p>Im anfangs nebligen später sonnigen Spätherbst versammelten sich an Allerheiligen 114 
+			Doubletten im Seepark. So viele Spieler waren noch nie bei einem unserer Turniere zu Gast.</p> 
 
-			<p>Der Einsatz pro Spieler beträgt 5 EUR, davon gehen 1,50 EUR in den
-			Preisgeldtopf für das Abschlussturnier und die Endrangliste. Cash pro Turnier und 
-			Spieler sind 3,50 EUR.</p>
+			<p>Was uns einerseits erfreute hatte jedoch auch seine Schattenseite: Innerhalb kurzer Zeit 
+			waren unsere für ca. 160 Spieler beschafften Vorräte aufgebraucht. Wir konnten trotz Feiertag jedoch 
+			alles Notwendige beschaffen - abends war die Tafel wieder leer. Auch unsere Organisationsmittel 
+			kamen an ihre Grenzen.</p>
 
-			<div class="galerie-foto"><a rel="lightbox"
-			href="images/WebSommercup20241005big.jpg"><img 
-			src="images/WebSommercup20241005big.jpg" alt="Sommercup 2024"
-			title="Sommercup 2024" /></a></div>
+			<div class="galerie-foto">
+    		<a data-fancybox="gallery" href="images/WebJubi2024big3.jpg">
+        	<img src="images/WebJubi2024big3.jpg" alt="Jubiäumsturnier 2024" 
+			title="Jubiäumsturnier 2024" /></a></div>
 
-			<p>Am 5. Oktober kamen 26 Spieler und Spielerinnen in den Seepark bei schönstem Herbstwetter. Es war sonnig und warm bei etwas kühlem Wind.</p>
+			<p>Das Turnier lief über 7 Runden zügig ab und gegen 21.30 Uhr war der Tag gelaufen.</p>
 
-			<p><strong>Die Sieger sind:</strong></p>
-			<p>1. Salvadore Fernandez und Harald Mayer,<br>
-			2. Peter Bischler und Philipp Wienker,<br>
-			3. Marion Häuptle und Mick Löffler,<br>
-			4. Wolfgang Behr und Harry Maugeais.</p>
-
-			<p>Hier die <a target="_blank"href="images/Samstagspiele_Tag_18_20241005.pdf">Rangliste</a>
-			vom 5. Oktober 2024.</p>
-
+			<p style="color:red"><strong>Die Sieger des A-Turniers sind:</strong><//p>
+			<p>1. Anthony Weiss und Steve Hoert, beide Hattenoise;<br>
+			2. Niclas Zimmer, Ft Freiburg, und Andreas Herrmann, BPV Freiburg;</p>
+	
+			
 	    </div>
 
-        <div id="Inhalt2">
+        <div id="Inhalt2" style="margin-top: 1em;">
 
-			<h3>Platzbeleuchtung wieder instand gesetzt</h3>
+			<p>3. Cedric Steck und Jonathan Texeire-Oliveira, beide Hattenoise;<br>
+			3. Rere Timauri und Jilali Ennajjari, beide Basel;<br>			
+			5. Yvonne Retter, TC St. Leon 1971, und Sekou Camara, BC Rastatt;<br>
+			5. Peter Frank, PCB Horb, und Andreas Scholz, FT Freiburg;<br>
+			5. Philippe Jankowski und Christian Bossert, beide TG Laudenbach;<br>
+			5. Ihajaniana Tahiana Rakoton Dramana, SKV Unterensingen, und 
+			Vallipuram Rajakumar, LFJ Tübingen.</p>
 
-			<p>Zu Beginn der kürzer werdendenTage fiel unsere Platzbeleuchtung  
-			aus. Der Vorstand beschloss die Verkabelung der Beleuchtungsmasten 
-			zu erneuern mit Hilfe der Stadt und des Badischen 
-			Sportbundes. Die Projektleitung übernahm Hans Koch. Hier sein 
-			Bericht:</p>
-			
-			<div class="galerie-foto"><a rel="lightbox"
-			href="images/WebLicht2024big.jpg"><img 
-			src="images/WebLicht2024big.jpg" alt="Reparatur Beleuchtung 2024"
-			title="Reparatur Beleuchtung 2024" /></a></div>
+			<div class="galerie-foto">
+    		<a data-fancybox="gallery" href="images/WebJubi2024big0.jpg">
+        	<img src="images/WebJubi2024big0.jpg" alt="Jubiäumsturnier 2024" 
+			title="Jubiäumsturnier 2024" /></a></div>
 
-			<p><i>Am Dienstag 17.09.24 begann der Helfertrupp mit Bernd 
-			Birnbreier, Hermann Klausmann und Hans Koch mit den Vorarbeiten, denn 
-			am Mittwoch 18.09.24 kam schon die Fa. Martin Wetzler mit dem Bagger 
-			angerollt um mit dem Aushub von ca. 190 lfd. m zu beginnen.</p>		
-			
-			<div class="galerie-foto"><a rel="lightbox"
-			href="images/WebLicht2024big1.jpg"><img 
-			src="images/WebLicht2024big1.jpg" alt="Reparatur Beleuchtung 2024"
-			title="Reparatur Beleuchtung 2024" /></a></div>	
+			<p style="color:red"><strong>Die Sieger des B-Turniers sind:</strong></p>
+			<p>1. John Lancon, BPV Freiburg, und Gerard Andre, Gerstheim;<br>
+			2. Christophe Bilger und Christophe Dere, beide Gambsheim;<br>
+			3. Peter Loichen, BC Esslingen, und Mathias Steinke, BfA Ötisheim;<br>
+			3. Dario Kraleski, BC Achern, und Frederic Riess, Biesheim.</p>
 
-			<p>Am Freitag wurden die restlichen ca. 150 m Kabel verlegt. Somit 
-			konnte die Fa. Wetzler, die mit Verstärkung antrat, alle Gräben 
-			wieder zuschütten. Das war bei dem widrigen Wetter eine absolute 
-			Meisterleistung, denn nebenher haben sie auch noch zwei Wassergräben 
-			gezogen.</i></p>
-						
+			<div class="galerie-foto">
+    		<a data-fancybox="gallery" href="images/WebJubi2024big2.jpg">
+        	<img src="images/WebJubi2024big2.jpg" alt="Jubiäumsturnier 2024" 
+			title="Jubiäumsturnier 2024" /></a></div>
+
+			<p style="color:red"><strong>Die Sieger des C-Turniers sind:</strong></p>
+			<p>1. Bryan Haag und Christophe Weiss, beide Oberhoffen;<br>
+			2. Alexander Ehret, BPV Freiburg, und Denis Margathe, Rheinhausen;</p>
 
 
         </div>
 
-        <div id="Inhalt3" style="margin-top: 2em;">
+        <div id="Inhalt3" style="margin-top: 1em;">
 
-			<div class="galerie-foto"><a rel="lightbox"
-			href="images/WebLicht2024big2.jpg"><img 
-			src="images/WebLicht2024big2.jpg" alt="Reparatur Beleuchtung 2024"
-			title="Reparatur Beleuchtung 2024" /></a></div>	
+			<p>3. Tim Nitsch und Fabian Spann, BBBC Singen;<br>
+			3. Thomas Haas und Mathias Ungerer, beide BC Rastatt.</p>
 
-			<p><i>Am Dienstag werden sie dann das restliche Abraummaterial 
-			abholen, etwas Humus mitbringen und wieder einsäen. Dem Sommercup 
-			steht demnach nichts im Wege.</p>
-			
-			<div class="galerie-foto"><a rel="lightbox"
-			href="images/WebLicht2024big4.jpg"><img 
-			src="images/WebLicht2024big4.jpg" alt="Reparatur Beleuchtung 2024"
-			title="Reparatur Beleuchtung 2024" /></a></div>	
+			<p style="color:red"><strong>Die Sieger des D-Turniers sind:</strong></p>
+			<p>1. Luc Glaentzlin und Victor Glaentzlin, beide Issenheim;<br>
+			2. Harry Maugeais und Wolfgang Behr, beide BPV Freiburg.</p>
 
+			<div class="galerie-foto">
+    		<a data-fancybox="gallery" href="images/WebJubi2024big1.jpg">
+        	<img src="images/WebJubi2024big1.jpg" alt="Jubiäumsturnier 2024" 
+			title="Jubiäumsturnier 2024" /></a></div>
 
-			
-			<p>Am Montag 30.09.24 und Dienstag 01.10.24 wird dann der Helfertrupp 
-			mit dem Elektriker die Kabel an den Sicherungskasten anschließen. Das 
-			alles im Laufe einer Woche.</i></p>
-			
-			<p>Der Vorstand dankt dem Projektleiter Hans Koch und allen Helfern 
-			für ihre erfolgreiche Arbeit und ihren großen Einsatz.</p>
+			<p>Der gelungene Turniertag endete leider mit einem Missklang, weil die Turniersieger A 
+			zu rustikalen Mitteln griffen um sich durchzusetzen.</p>
 
-			<h3>Jubiläumsturnier<br>am 1. November</h3>
+			<p>Wir danken Cornelia, Christian und unserer Dritten Mannschaft für ihren unerwartet heftigen 
+			Arbeitseinsatz, besonders unseren Elsässern.</p>
 
-			<div class="galerie-foto"><a rel="lightbox"
-			href="images/WebJubi2024big.jpg"><img 
-			src="images/WebJubi2024big.jpg" alt="Jubiläumsturnier 2024"
-			title="Jubiläumsturnier 2024" /></a></div>	
+			<p>Schiedsrichter war Youcef Hamoudi, BPV Freiburg, dem wir danken.</p>
+
+			<p>Turnierleitung Hansjörg Grund und Joachim Kopp.</p>
+
+			<p>Fotos Jutta Schmidt.
+
+			<p>Bilder stehen in der <a target="_blank" href="galerie.php?folder=Jubiläumsturnier_2024">GALERIE</a>.</p>
+
+			<h3>Tauschturnier am 26. 12.</h3>
+
+			<div class="galerie-foto">
+    		<a data-fancybox="gallery" href="images/WebTausch2024big.jpg">
+        	<img src="images/WebTausch2024big.jpg" alt="Tauschturnier 2024" 
+			title="Tauschturnier 2024" /></a></div>
 
 		</div>
 
     </main>
 
     <?php include('inc_fusszeile.php') ?>
-    
+
+	<noscript>
+		JavaScript ist nicht verfügbar oder es ist deaktiviert. <br, />
+		Bitte verwenden Sie einen Browser, der JavaScript unterstützt,
+		oder aktivieren Sie JavaScript in Ihrem Browser.
+	</noscript>
+
+	<script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui@5/dist/fancybox.umd.js"></script>
+
+	<script>
+    	document.addEventListener("DOMContentLoaded", function() {
+        	Fancybox.bind("[data-fancybox='gallery']", {
+            closeButton: "inside", // Zeigt den Schließen-Button innerhalb des Bildes an
+        	});
+    	});
+	</script>
+
+	<script src="scripts/DataFancyBox.js"></script>
+
+	<script src="scripts/AufrufButton.js"></script>
+
+
 </body>
 
 </html>
