@@ -29,31 +29,31 @@
         <img src="images/TeasHome.jpg" title="Frühling auf dem Platz" alt="Frühling auf dem Platz">
     </teaser>
 
-    <Turnierplan id="turnierplan">
+    <div id="turnierplan">
         <div><a href="images/Turnierplan2024.pdf"><img src="images/WebTurnierplan2024klein.gif"
         alt="Turnierplan 2024 des BPV-Freiburg" onmouseover="src='images/WebTurnierplan2024kleinA.gif'" 
         onmouseout="src='images/WebTurnierplan2024klein.gif'" /></a></div>
-    </Turnierplan>
+	</div>
 
-	<TextlogoMobile  id="LogoTextMobile">
+	<div  id="LogoTextMobile">
 			<div>Mit freundlicher Unterstützung von</div>
-	</TextlogoMobile>		
+	</div>		
 
-	<Logos>
+	<div id="Logos">
 
-		<Textlogo  id="LogoText">
+		<div  id="LogoText">
 			<div>Mit freundlicher Unterstützung von</div>
-		</Textlogo>	
+		</div>	
 
-		<LogoLexware id="Lexware">
+		<div id="Lexware">
 			<div><a target="_blank" href="https://www.lexware.de/"><img src="images/LogoLexware.png" alt="Logo Lexware" title="Logo Lexware" width="242px" height="35px"/></a></div>
-		</LogoLexware>
+		</div>
 
-		<Sparkasse id="sparkasse">   
+		<div id="sparkasse">   
 			<div><a target="_blank" href="http://www.sparkasse-freiburg.de/"><img src="images/Logospark.jpg" alt="Logo der Sparkasse Freiburg" title="Logo der Sparkasse Freiburg" /></a></div>
-		</Sparkasse>
+		</div>
 
-	</Logos>
+	</div>
 	
 	<div class="full-width-line"></div>		<!-- Linie unter dem Werbeblock Hompage -->
 
