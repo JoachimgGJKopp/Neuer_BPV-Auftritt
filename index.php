@@ -29,33 +29,13 @@
         <img src="images/TeasHome.jpg" title="Frühling auf dem Platz" alt="Frühling auf dem Platz">
     </teaser>
 
-    <div id="turnierplan">
-        <div><a href="images/Turnierplan2024.pdf"><img src="images/WebTurnierplan2024klein.gif"
+
+        <div id="turnierplan"><a href="images/Turnierplan2024.pdf"><img src="images/WebTurnierplan2024klein.gif"
         alt="Turnierplan 2024 des BPV-Freiburg" onmouseover="src='images/WebTurnierplan2024kleinA.gif'" 
         onmouseout="src='images/WebTurnierplan2024klein.gif'" /></a></div>
-	</div>
 
-	<div  id="LogoTextMobile">
-			<div>Mit freundlicher Unterstützung von</div>
-	</div>		
 
-	<div id="Logos">
-
-		<div  id="LogoText">
-			<div>Mit freundlicher Unterstützung von</div>
-		</div>	
-
-		<div id="Lexware">
-			<div><a target="_blank" href="https://www.lexware.de/"><img src="images/LogoLexware.png" alt="Logo Lexware" title="Logo Lexware" width="242px" height="35px"/></a></div>
-		</div>
-
-		<div id="sparkasse">   
-			<div><a target="_blank" href="http://www.sparkasse-freiburg.de/"><img src="images/Logospark.jpg" alt="Logo der Sparkasse Freiburg" title="Logo der Sparkasse Freiburg" /></a></div>
-		</div>
-
-	</div>
-	
-	<div class="full-width-line"></div>		<!-- Linie unter dem Werbeblock Hompage -->
+	<!--<div class="full-width-line"></div>		Linie unter dem Werbeblock Hompage -->
 
     <main>
 
@@ -70,6 +50,8 @@
 
 			<p>Im anfangs nebligen später sonnigen Spätherbst versammelten sich an Allerheiligen 114 
 			Doubletten im Seepark. So viele Spieler waren noch nie bei einem unserer Turniere zu Gast.</p> 
+
+			<div><a target="_blank" href="https://www.lexware.de/"><img src="images/LogoLexware.png" alt="Logo Lexware" title="Logo Lexware" width="242px" height="35px" style="border: none;"/></a></div>
 
 			<p>Was uns einerseits erfreute hatte jedoch auch seine Schattenseite: Innerhalb kurzer Zeit 
 			waren unsere für ca. 160 Spieler beschafften Vorräte aufgebraucht. Wir konnten trotz Feiertag jedoch 
@@ -139,6 +121,8 @@
 
 			<p>Der gelungene Turniertag endete leider mit einem Missklang, weil die Turniersieger A 
 			zu rustikalen Mitteln griffen um sich durchzusetzen.</p>
+
+			<a target="_blank" href="http://www.sparkasse-freiburg.de/"><img src="images/Logospark.jpg" alt="Logo der Sparkasse Freiburg" title="Logo der Sparkasse Freiburg" style="border: none; margin-right: 1em; float: left;" /></a>
 
 			<p>Wir danken Cornelia, Christian und unserer Dritten Mannschaft für ihren unerwartet heftigen 
 			Arbeitseinsatz, besonders unseren Elsässern.</p>

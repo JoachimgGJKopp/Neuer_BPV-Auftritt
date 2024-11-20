@@ -23,7 +23,7 @@
     </nav2>
 
     <teaser id="teaser">
-        <img src="imagefolder/TeasJubi2024.jpg" title="Terrain Libre" alt="Terrain Libre" style="border: 1px solid lightgray">
+        <img src="imagefolder/Jubiläumsturnier_2024/TeasJubi2024.jpg" title="Terrain Libre" alt="Terrain Libre" style="border: 1px solid lightgray">
     </teaser>
 
     <div>

@@ -2,7 +2,8 @@
 <html lang="de">
 <head>
     <title>Index</title>
-	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/ui@5/dist/fancybox.css" />
+
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/ui@4.0.0/dist/fancybox.css">
     <?php include ('header.php'); ?>
 </head>
 
@@ -28,21 +29,35 @@
         <img src="images/TeasHome.jpg" title="Frühling auf dem Platz" alt="Frühling auf dem Platz">
     </teaser>
 
-    <Turnierplan id="turnierplan">
+    <div id="turnierplan">
         <div><a href="images/Turnierplan2024.pdf"><img src="images/WebTurnierplan2024klein.gif"
         alt="Turnierplan 2024 des BPV-Freiburg" onmouseover="src='images/WebTurnierplan2024kleinA.gif'" 
         onmouseout="src='images/WebTurnierplan2024klein.gif'" /></a></div>
-    </Turnierplan>
+	</div>
 
-    <Sparkasse id="sparkasse">   
-        <div><a target="_blank" href="http://www.sparkasse-freiburg.de/"><img src="images/Logospark.jpg" alt="Logo der Sparkasse Freiburg" title="Logo der Sparkasse Freiburg" /></a></div>
-    </Sparkasse>
+	<!--<div  id="LogoTextMobile">
+			<div>Mit freundlicher Unterstützung von</div>
+	</div>	-->	
 
-	<!--<LogoLexware id="Lexware">
-		<div><a target="_blank" href="https://www.lexware.de/"><img src="images/LogoLexware.gif" alt="Logo Lexware" title="Logo Lexware" width="242px" height="35px"/></a></div>
-	</LogoLexware>-->
+	<div id="Logos">
 
-    <main style="margin-top: -9em;">
+		<!--<div  id="LogoText">
+			<div>Mit freundlicher Unterstützung von</div>
+		</div>	-->
+
+		<div id="Lexware">
+			<div><a target="_blank" href="https://www.lexware.de/"><img src="images/LogoLexware.png" alt="Logo Lexware" title="Logo Lexware" width="242px" height="35px"/></a></div>
+		</div>
+
+		<div id="sparkasse">   
+			<div><a target="_blank" href="http://www.sparkasse-freiburg.de/"><img src="images/Logospark.jpg" alt="Logo der Sparkasse Freiburg" title="Logo der Sparkasse Freiburg" /></a></div>
+		</div>
+
+	</div>
+	
+	<div class="full-width-line"></div>		<!-- Linie unter dem Werbeblock Hompage -->
+
+    <main>
 
         <div id="Inhalt1">
 
@@ -134,7 +149,7 @@
 
 			<p>Fotos Jutta Schmidt.
 
-			<p>Bilder sind in der <a target="_blank" href="galerie.php?folder=Jubiläumsturnier_2024">GALERIE</a> zu sehen.</p>
+			<p>Bilder stehen in der <a target="_blank" href="galerie.php?folder=Jubiläumsturnier_2024">GALERIE</a>.</p>
 
 			<h3>Tauschturnier am 26. 12.</h3>
 
@@ -155,8 +170,8 @@
 		oder aktivieren Sie JavaScript in Ihrem Browser.
 	</noscript>
 
-	<script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui@5/dist/fancybox.umd.js"></script>
-
+	<script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui@4.0.0/dist/fancybox.umd.js"></script>
+	
 	<script>
     	document.addEventListener("DOMContentLoaded", function() {
         	Fancybox.bind("[data-fancybox='gallery']", {

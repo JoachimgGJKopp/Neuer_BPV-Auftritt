@@ -139,7 +139,8 @@
 				<a target="_blank"href="archiv/screenshot20240727.jpg">27.07.2024</a> Nocturne 2024<br>
 				<a target="_blank"href="archiv/screenshot20240914.jpg">14.09.2024</a> Herbstturnier 2024<br>
 				<a target="_blank"href="archiv/screenshot20240927.jpg">27.09.2024</a> Beleuchtung repariert<br>
-				<a target="_blank"href="archiv/screenshot20241026.jpg">26.10.2024</a> Sommercup Abschluss</p>
+				<a target="_blank"href="archiv/screenshot20241026.jpg">26.10.2024</a> Sommercup Abschluss<br>
+				<a target="_blank"href="archiv/screenshot20241101.jpg">01.11.2024</a> Jubiläumsturnier 2024</p>
 		</div>
 
 	</main>

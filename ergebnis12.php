@@ -23,7 +23,7 @@
     </nav2>
 
     <teaser id="teaser">
-        <img src="imagefolder/TeasHerbst2024.jpg" title="Das Boulodrome" alt="Das Boulodrome" style="margin-bottom: 0em;">
+        <img src="imagefolder/Herbstturnier_2024/TeasHerbst2024.jpg" title="Das Boulodrome" alt="Das Boulodrome" style="margin-bottom: 0em;">
     </teaser>
 
     <div>

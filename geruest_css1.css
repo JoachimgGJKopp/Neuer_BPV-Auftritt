@@ -75,19 +75,91 @@
         }
 
         #turnierplan {
-            position: relative;
-            top: -6.5em;
+            position:relative;
+            top:-7.5em;
             left: 0.5em;
             height:6.625em; 
             width:4.6875em;
         }
 
-      
+        /*#LogoText {                      Desktop: Mit freundlicher Unterstützung von 
+            position: absolute;
+            margin-top: -6.1em;
+            margin-left: 21em;
+        }
+
+        #LogoTextMobile {
+            position: absolute;
+            margin-top: 16em;
+            z-index: -15;
+        }*/
+
+        
+        /* Standard für Desktop: Textlogo anzeigen, TextlogoMobile verstecken */
+        #LogoText {
+            display: block;
+        }
+
+        #LogoTextMobile {
+            display: none;
+        }
+
+        /* Mobile Media Query */
+        @media screen and (max-width: calc(48rem - 1px)) {
+            /* Textlogo nur auf Mobile ausblenden */
+            #LogoText {
+                display: none;
+            }
+
+            /* TextlogoMobile nur auf Mobile anzeigen */
+            #LogoTextMobile {
+                display: block;
+            }
+
+            /* Weitere Anpassungen für Mobile */
+            #teaser {
+                margin-bottom: 4em;
+            }
+            #turnierplan {
+                margin-top: -4em;
+            }
+            #Logos {
+                margin-top: 2em;
+            }
+        }
+
         .full-width-line {      /* Linie unter dem Werbeblock Hompage */
             width: 100%;
             border-top: 1px solid lightgray;
             margin: -6.5em 0; /* Abstand oben und unten, anpassbar */
         }
+
+        #Logos {
+            display: grid;
+            grid-template-columns: repeat(auto-fill, minmax(1fr, 1fr, 15em));
+            column-gap: 2.5em;
+            max-width: 100%;
+        }
+
+            #Lexware {
+                grid-column: 1 / -3;                
+                align-items: center;
+                position: relative;
+                top:-6.5em;
+                height: 100%
+            }
+
+            #sparkasse {
+                grid-column: 3 / -1;  
+                box-sizing: border-box;
+                display: flex;
+                justify-content: flex-end;
+                align-items: center;
+                position: relative;
+                top:-6.5em;
+                right: 0em; 
+                height: 100%;
+            }
 
         #adresse {
             margin-top: -9em;

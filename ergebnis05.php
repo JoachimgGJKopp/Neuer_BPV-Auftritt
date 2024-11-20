@@ -23,7 +23,7 @@
     </nav2>
 
     <teaser id="teaser">
-        <img src="imagefolder/TeasHerbst2022.jpg" title="Herbstturnier 2022" alt="Herbstturnier 2022">
+        <img src="imagefolder/Herbstturnier_2022/TeasHerbst2022.jpg" title="Herbstturnier 2022" alt="Herbstturnier 2022">
     </teaser>
 
     <div>

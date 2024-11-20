@@ -23,7 +23,7 @@
     </nav2>
 
     <teaser id="teaser">
-        <img src="imagefolder/TeasJubi2023.jpg" title="Herbst im Seepark" alt="Herbst im Seepark">
+        <img src="imagefolder/Jubiläumsturnier_2023/TeasJubi2023.jpg" title="Herbst im Seepark" alt="Herbst im Seepark">
     </teaser>
 
     <div>

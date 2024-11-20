@@ -23,7 +23,7 @@
     </nav2>
 
     <teaser id="teaser">
-        <img src="imagefolder/TeasBad2023.jpg" title="Badische Meisterschaften 2023" alt="Badische Meisterschaften 2023">
+        <img src="imagefolder/Badische_Meisterschaften_2023/TeasBad2023.jpg" title="Badische Meisterschaften 2023" alt="Badische Meisterschaften 2023">
     </teaser>
 
     <div>
