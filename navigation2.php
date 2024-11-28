@@ -22,7 +22,7 @@
                 <li><a href="info.php">Informationen</a></li>
                 <li><a href="msponsoren.php">Sponsoren</a></li>
                 <li><a target="_blank"href="dokumente/Satzung2023.pdf">Satzung</a></li>
-                <li><a target="_blank"href="dokumente/MAntragEinwillBeitragso2022.pdf">Mitgliedsantrag</a></li>
+                <li><a target="_blank"href="dokumente/MAntragEinwillBeitragso2025.pdf">Mitgliedsantrag</a></li>
                 <li><a target="_blank"href="dokumente/Datenschutzhinweis 2022.pdf">Datenschutzhinweis</a></li>
                 <li><a target="_blank"href="dokumente/Platzordnung.pdf">Platzordnung</a></li>
                 <li><a target="_blank"href="dokumente/Bewirtungsordnung.pdf">Bewirtungsordnung</a></li>
@@ -57,6 +57,7 @@
 
             <?php
                 $galerien = [
+                    'Herbstfest 2024',
                     'Jubiläumsturnier 2024',
                     'Herbstturnier 2024',
                     'Frühlingsturnier 2024',

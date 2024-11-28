@@ -55,8 +55,8 @@
 
         <p>Nach ca. 3 Monaten bei uns sollten Sie sich entscheiden, ob Sie weiter mit uns spielen. 
         Dazu sollten Sie dann in unseren Verein eintreten. Der 
-        <a target="_blank"href="dokumente/Beitragsordnung_2.1.pdf">Jahresbeitrag</a> beträgt 73 
-        Euro (ermäßigt 55 Euro, Kinder beitragsfrei). Eine Spielerlizenz kostet extra 12 Euro.</p>
+        <a target="_blank"href="dokumente/Beitragsordnung_2.2.pdf">Jahresbeitrag</a> beträgt 75 
+        Euro (ermäßigt 57 Euro, Kinder beitragsfrei). Eine Spielerlizenz kostet extra 16 Euro.</p>
 
     </div>
 

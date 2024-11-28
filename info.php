@@ -1,7 +1,7 @@
 ﻿<!DOCTYPE html>
 <html lang="de">
 <head>
-    <title>Dokumente</title>
+    <title>Informationen</title>
     <?php include ('header.php'); ?>
 </head>
 <body>
@@ -23,7 +23,7 @@
     </nav2>
 
     <teaser id="teaser">
-        <img src="images/TeasDach.jpg" title="Jubiläumsturnier 2017" alt="Jubiläumsturnier 2017" style="margin-bottom: 10em;">
+        <img src="images/TeasDach.jpg" title="Jubiläumsturnier 2017" alt="Jubiläumsturnier 2017" style="margin-bottom: 8em;">
     </teaser>
 
     <main>
@@ -34,7 +34,7 @@
 
 	        <div class="galerie-foto"><img id="info-rechts" src="images/schillerspiel.jpg" alt="Zitat Schiller" title="Zitat Schiller" /></a></div>                 
 
-            <BR CLEAR="left"><p>Gegründet 1976 von Studenten und Lehrern. Unser Verein ist einer der
+            <p>Gegründet 1976 von Studenten und Lehrern. Unser Verein ist einer der
             ältesten Boule-Vereine in Deutschland. Er hat derzeit über 150 Mitglieder, wovon ca. 30 Prozent 
             Frauen sind. 2024 spielen eine Wettkampf- mannschaft in der BaWü-Liga von Baden-Württemberg 
             und zwei in der Regionalliga Süd; in der Ligaregion Schwarzwald-Oberrhein spielt eine 

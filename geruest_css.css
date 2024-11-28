@@ -78,20 +78,13 @@
             position: relative;
             top: -6.5em;
             left: 0.5em;
-            height:6.625em; 
-            width:4.6875em;
-        }
-
-      
-        .full-width-line {      /* Linie unter dem Werbeblock Hompage */
-            width: 100%;
-            border-top: 1px solid lightgray;
-            margin: -6.5em 0; /* Abstand oben und unten, anpassbar */
+            height: 6.625em; 
+            width: 4.6875em;
         }
 
         #adresse {
             margin-top: -9em;
-            padding-bottom: 8em;
+            margin-bottom: 7em;
         }
 
         #beginner {
@@ -133,14 +126,15 @@
                 float:right;
                 width: 15.32em;
                 height: auto;
-                margin-top: 2.19em;
+                margin-top: 0.5em;
                 margin-left: 1.25em;
                 margin-bottom: 0.625em;
                 border: none;
             } 
 
         #sommercup {
-            grid-column: 1 / -1;    
+            grid-column: 1 / -1;
+            margin-top: -3em;    
         }
 
             #rechts-sommercup {
@@ -149,7 +143,7 @@
                 margin-left: 1.25em;
                 margin-bottom: 0.625em;
                 border: 1px solid darkgray;
-                border-radius: 2px;    
+                border-radius: 2px;     
             }
 
         #mannschaft1 {              /* betrifft alle 5 Mannschaften */

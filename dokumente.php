@@ -74,10 +74,10 @@
                         <tr><td>Reglement DPV</td><td>&nbsp;&nbsp;</td><td><a href="https://deutscher-petanque-verband.de/wp-content/uploads/2021/03/Reglement_2021_0321.pdf"><img src="images/pdf.gif" alt="pdf download" title="pdf download"/></a></td></tr>
                         <tr><td>Sportordnung Landesverband</td><td>&nbsp;&nbsp;</td><td><a href="https://petanque-bw.de/service/dokumente/"><img src="images/pdf.gif" alt="pdf download" title="pdf download"/></a></td></tr>
                         <tr><td>Ligarichtlinie Landesverband</td><td>&nbsp;&nbsp;</td><td><a href="https://petanque-bw.de/service/dokumente/"><img src="images/pdf.gif" alt="pdf download" title="pdf download"/></a></td></tr>
-                        <tr><td>Mitgliedsantrag im BPV</td><td>&nbsp;&nbsp;</td><td><a href="dokumente/MAntragEinwillBeitragso2022.pdf"><img src="images/pdf.gif" alt="pdf download" title="pdf download"/></a></td></tr>
+                        <tr><td>Mitgliedsantrag im BPV</td><td>&nbsp;&nbsp;</td><td><a href="dokumente/MAntragEinwillBeitragso2025.pdf"><img src="images/pdf.gif" alt="pdf download" title="pdf download"/></a></td></tr>
                         <tr><td>Lizenzantrag Landesverband</td><td>&nbsp;&nbsp;</td><td><a href="https://petanque-bw.de/service/formulare/"><img src="images/pdf.gif" alt="pdf download" title="pdf download"/></a></td></tr>
                         <tr><td>Tagesersatzlizenz DPV</td><td>&nbsp;&nbsp;</td><td><a href="https://petanque-bw.de/service/formulare/"><img src="images/pdf.gif" alt="pdf download" title="pdf download"/></a></td></tr>
-                        <tr><td>Beitragsordnung</td><td>&nbsp;&nbsp;</td><td><a href="dokumente/Beitragsordnung_2.1.pdf"><img src="images/pdf.gif" alt="pdf download" title="pdf download"/></a></td></tr>
+                        <tr><td>Beitragsordnung</td><td>&nbsp;&nbsp;</td><td><a href="dokumente/Beitragsordnung_2.2.pdf"><img src="images/pdf.gif" alt="pdf download" title="pdf download"/></a></td></tr>
                         <tr><td>Bewirtungsordnung</td><td>&nbsp;&nbsp;</td><td><a href="dokumente/Bewirtungsordnung.pdf"><img src="images/pdf.gif" alt="pdf download" title="pdf download"/></a></td></tr>
                         <tr><td>Datenschutzhinweis</td><td>&nbsp;&nbsp;</td><td><a href="dokumente/Datenschutzhinweis 2022.pdf"><img src="images/pdf.gif" alt="pdf download" title="pdf download"/></a></td></tr>
                     </ul>
