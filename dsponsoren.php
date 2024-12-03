@@ -30,7 +30,7 @@
         <div id="dsponsoren1">
 
             <h3>Sparkasse Freiburg</h3>
-            <a target="_blank"href="http://www.sparkasse-freiburg.de/"><img id="sparkasse-img" src="images/Web-sparkasse-freiburg.gif" alt="Logo der Sparkasse Freiburg" title="Logo der Sparkasse Freiburg" /></a>
+            <img id="sparkasse-img" src="images/Web-sparkasse-freiburg.gif" alt="Logo der Sparkasse Freiburg" title="Logo der Sparkasse Freiburg" />
             <p>Unser Verein wird seit 2007 von der Sparkasse Freiburg durch Sponsoring unterstützt.</p>
             <p> Zum einen konnten wir mit Hilfe des Sponsoring unsere fünf großen Turniere - die der Verein jährlich durchführt - attraktiver gestalten, zum anderen konnten wir unsere Jugendveranstaltung wie den Inter-Cup Freiburg finanziell absichern und auch die guten Leistungen der Jugendlichen angemessen honorieren.</p>
             <p></p>
@@ -41,7 +41,7 @@
         <div id="dsponsoren2">
 
             <h3>Bankhaus Mayer</h3>
-            <a target="_blank"href="http://www.bankhaus-mayer.de/"><img id="mayer-img" src="images/logo_bhm.2.png" alt="Logo Bankhaus Mayer" title="Logo Bankhaus Mayer" /></a>
+            <img id="mayer-img" src="images/logo_bhm.2.png" alt="Logo Bankhaus Mayer" title="Logo Bankhaus Mayer" />
             <p>Dem Bankhaus Mayer und im Besonderen Jürgen Imm dem Geschäftsführer, sind wir sehr dankbar für die große finanzielle Unterstützung, die er und das Bankhaus Mayer bei der Realisierung unseres Jugend- turniers, dem "Inter-Cup Freiburg für Junioren und Espoirs", geleistet hat.</p>
             <p>Ohne die großzügige Unterstützung seitens des Bankhaus Mayer wäre dieses Jugendturnier in Freiburg nicht möglich gewesen.</p>
             <p>Jürgen Imm hat aber auch an anderen Stellen wie zum Beispiel bei der Finanzierung unserer neuen Platz- beleuchtung entscheidend beigetragen, wofür der Verein ihm sehr dankbar ist.</p>
