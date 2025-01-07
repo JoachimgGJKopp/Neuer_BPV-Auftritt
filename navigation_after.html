@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="de">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Flexbox - Ein einfaches Beispiel</title>
+
+    <link rel="stylesheet" type="text/css" href="./styles.css" />
+    <style>
+        body {
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+            line-height: 1.5;
+            font-weight: 400;
+            color: #333;
+            max-width: 51.25rem;
+            padding: 0em 1em 1em 1em;
+            margin: 0 auto;
+        }
+
+        .navigation {
+            display: flex;
+            font-size: small;
+            justify-content: space-between;
+            padding-left: 0px;
+        }
+
+        .navigation li {
+            list-style-type: none;
+            a { text-decoration: none; color: #333;}
+            flex: 0 0 auto;
+        }
+
+    </style>
+  </head>
+  <body>
+    <ul class="navigation">
+        <li><a href="index.php">Home</a></li>
+        <li><a href="#">Équipes</a></li>
+        <li><a href="#">Verein</a></li>
+        <li><a href="#">Turniere</a></li>
+        <li><a href="#">Ergebnisse</a></li>
+        <li><a href="#">Galerien</a></li>
+        <li><a href="#">Verein</a></li>
+        <li><a href="#">Liga</a></li>
+        <li><a href="#">Einsteiger</a></li>
+        <li><a href="#">Links</a></li>
+        <li><a href="#">Dokumente</a></li>
+        <li><a href="#">Kontakt</a></li>
+        <li><a href="#">Diverses</a></li>
+    </ul>
+  </body>
+</html>

@@ -141,7 +141,8 @@
 				<a target="_blank"href="archiv/screenshot20240927.jpg">27.09.2024</a> Beleuchtung repariert<br>
 				<a target="_blank"href="archiv/screenshot20241026.jpg">26.10.2024</a> Sommercup Abschluss<br>
 				<a target="_blank"href="archiv/screenshot20241101.jpg">01.11.2024</a> Jubiläumsturnier 2024<br>
-				<a target="_blank"href="archiv/screenshot20241124.jpg">24.11.2024</a> Herbstfest 2024</p>
+				<a target="_blank"href="archiv/screenshot20241124.jpg">24.11.2024</a> Herbstfest 2024<br>
+				<a target="_blank"href="archiv/screenshot20241226.jpg">26.12.2024</a> Tauschturnier</p>
 		</div>
 
 	</main>

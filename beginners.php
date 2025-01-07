@@ -43,7 +43,7 @@
         Ausrüstung im Voraus, wenn Sie noch nicht Bescheid wissen; wir beraten Sie.</p>
 
         <p>Später sollten Sie mit folgender Anfangs-Investition rechnen: 1 Satz Wettkampf-Kugeln 
-        (3 Stück) in guter Qualität ca. 180 Euro, Maßband 3 Euro, Zielkugeln Stück 1 Euro, 
+        (3 Stück) in guter Qualität ca. 180 Euro, Maßband 3 Euro, Zielkugeln Stück 2 Euro, 
         Kugeltasche ca. 10-40 Euro.</p>
 
         <p>Deutsche Lehrbücher für die Basics des Pétanquespiels bis hin zu 
