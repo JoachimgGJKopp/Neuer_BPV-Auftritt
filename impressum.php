@@ -25,7 +25,7 @@
     </nav2>
 
     <teaser id="teaser">
-        <img src="images/turnierszene4.jpg" title="Frühling auf dem Platz" alt="Frühling auf dem Platz" style="margin-bottom: 9em;>
+        <img src="images/turnierszene4.jpg" title="Frühling auf dem Platz" alt="Frühling auf dem Platz" style="margin-bottom: 9em;">
     </teaser>
 
     <script src="scripts.js"></script>

@@ -72,11 +72,18 @@
 
         #btnMenu {                         /* Burger-Button */
             display:none;
+            z-index: 5;
         }
 
         @media (max-width: 768px) {     /* Schriftgröße für Bildschirme mit einer Breite von maximal 768px (z. B. mobile Geräte)*/ 
             p {
             font-size: 1.3rem;  /*Größere Schriftgröße für mobile Geräte*/ 
+            }
+        } 
+
+        @media (max-width: 768px) {         /* spalt am Kopf von Mobil entfernen */
+            body {   
+                margin-top: 0em;
             }
         } 
 

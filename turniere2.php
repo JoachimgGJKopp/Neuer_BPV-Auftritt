@@ -32,7 +32,7 @@
 
         <div id="sommercup">
 
-            <h2>Der w&ouml;chentliche Sommercup am Samstag (Turnierserie mit Rangliste)</h2>
+            <h2>Der wöchentliche Sommercup am Samstag (Turnierserie mit Rangliste)</h2>
 
 	        <div class="galerie-foto"><a rel="lightbox"href="images/WebSommercup2024big.jpg"><img id="rechts-sommercup" src="images/WebSommercup2024medium.jpg" alt="Plakat Sommercup 2024" title="Plakat Sommercup 2024" /></a></div>
 
