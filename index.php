@@ -9,6 +9,8 @@
 
 <body>
 
+	<div class="transparent-layer"></div>
+
     <button id="btnMenu">
         <img src="images/menu.png" alt="Menu">
     </button>
@@ -26,8 +28,16 @@
     </nav2>
 
     <teaser id="teaser">
-        <img src="images/TeasHome1.png" title="Frühling auf dem Platz" alt="Frühling auf dem Platz">
+        <img src="images/TeasHome.png" title="Frühling auf dem Platz" alt="Frühling auf dem Platz">
     </teaser>
+
+	<div id="werbeBanner">
+		<img src="images/Werbebanner1.jpg" title="Werbebanner" alt="Werbebanner">
+	</div>
+
+	<div>
+		<hr style="border: 0.5px solid lightgray; margin: 0em;">
+	</div>
 
 	<div id="turnierplan"><a href="images/Turnierplan2024.pdf"><img src="images/WebTurnierplan2024klein.gif"
 	alt="Turnierplan 2024 des BPV-Freiburg" onmouseover="src='images/WebTurnierplan2024kleinA.gif'" 
@@ -37,71 +47,74 @@
 
 		<div id="Inhalt1">
 
-		<div class="galerie-foto">
-
-			<h3>The same procedure as every year</h3>
-
-			<a data-fancybox="gallery" href="images/WebTausch2024big6.jpg">
-			<img src="images/WebTausch2024big6.jpg" alt="Tauschturnier 2024" 
-			title="Tauschturnier 2024" /></a></div>
-
-			<p>Am zweiten Weihnachtsfeiertag kamen trotz ordentlicher Kälte 28 Spieler 
-			und Spielerinnen zum jährlichen Tauschturnier. Auch Spieler von anderen Vereinen waren anwesend. 
-			Das Wetter war neblig und klamm mit kurzen Nebellichtungen.</p>
+			<h3>Max Blechschmidt verstorben</h3>
 
 			<div class="galerie-foto">
-			<a data-fancybox="gallery" href="images/WebTausch2024big0.jpg">
-			<img src="images/WebTausch2024big0.jpg" alt="Tauschturnier 2024" 
-			title="Tauschturnier 2024" /></a></div>
-			
-			<p>Der Gabentisch war reich und gut bestückt, er konnte bei den Spielern und Spielerinnen 
-			Wünsche wecken. Auch Kuchen wurde gespendet.</p>
+			<a data-fancybox="gallery" href="images/MaxBlechschmidt.jpg">
+			<img src="images/MaxBlechschmidt.jpg" alt="Max Blechschmidt" 
+			title="Max Blechschmidt" /></a></div>
+
+			<p style="font-size: x-small; margin-top: -0.2em">Max 2014 bei den Bad. Meisterschaften</p>
+
+			<p>Leider ist Max Blechschmidt mit 77 Jahren verstorben.
+			Er war seit 1989 Mitglied in unserem Verein und hat über
+			lange Jahre die „frühere Dritte Mannschaft“ sowohl beim Spiel 
+			als auch bei den Veranstaltungen mit seinem schwäbischen
+			Frohsinn tatkräftig unterstützt.</p>
+			<p>Max, wir werden dich vermissen !</p>
+
+
+			<h3>Der Eschenahornbaum muss weichen</h3>
+
+			<p>Der von Weißfäule befallene Baum stand direkt am Zaun beim Rundweg</p>
 
 		</div>
 
 		<div id="Inhalt2">
 
-			<p>Um 14.30 Uhr begann das Turnier über 3 Runden Schweizer System auf Zeit Doublette. Die 
-			Spieler und Spielerinnen nahmen den Wettbewerb locker; die Stimmung war ausgelassen.</p>
+			<p> um den See. Aufgrund seiner Krankheit kennzeichnete die Stadt den Baum zur Fällung.</p>
 
 			<div class="galerie-foto">
-			<a data-fancybox="gallery" href="images/WebTausch2024big1.jpg">
-			<img src="images/WebTausch2024big1.jpg" alt="Tauschturnier 2024" 
-			title="Tauschturnier 2024" /></a></div>
+			<a data-fancybox="gallery" href="images/WebEsche1big.jpg">
+			<img src="images/WebEsche1big.jpg" alt="Baumfällung" 
+			title="Baumfällung" /></a></div>
 
-			<p>Zwischen den Runden war Zeit zu plaudern und den Glühwein oder den Kaffee zu genießen.</p> 
+			<p>Nachdem wir von der Stadt die Bewilligung zur Fällung 
+			des kranken Eschenahornbaums auf der Seeseite unseres Geländes erhalten haben, 
+			haben wir am Dienstag, den 4. Februar mit der professionellen Hilfe von Ewald den Baum gefällt.</p>
 
 			<div class="galerie-foto">
-			<a data-fancybox="gallery" href="images/WebTausch2024big2.jpg">
-			<img src="images/WebTausch2024big2.jpg" alt="Tauschturnier 2024" 
-			title="Tauschturnier 2024" /></a></div>
+			<a data-fancybox="gallery" href="images/WebEsche2big.jpg">
+			<img src="images/WebEsche2big.jpg" alt="Baumfällung" 
+			title="Baumfällung" /></a></div>
 
-			<p>Ungefähr um 17.30 Uhr endete das Turnier und ging über in die Preisverteilung. 
-			Die Spieler wurden nach Platzierung an den Gabentisch gerufen um ihr Geschenk zu empfangen.</p> 
+			<p>Bernd Birnbreier, Hans-Peter Böcherer, Christian Fakler und Nik Heyder haben dabei geholfen.</p> 
 
 		</div>
 
 		<div id="Inhalt3">
 
-			<p>Die Siegerin nahm zuerst ein Präsent, dann ging es nach Rangliste abwärts.</p>
-
-			<p>Nach der Gabenverteilung gab es Gulaschsuppe und Würstchen mit Glühwein und den 
-			üblichen Getränken.</p>
-
-			<div class="galerie-foto">
-			<a data-fancybox="gallery" href="images/WebTausch2024big3.jpg">
-			<img src="images/WebTausch2024big3.jpg" alt="Tauschturnier 2024" 
-			title="Tauschturnier 2024" /></a></div>
-
-			<p>Das Turnier leitete Christian Fakler souverän. Ihm sei gedankt.</p>
-
-			<p>Den Service leisteten zu unserer aller Zufriedenheit wie immer beim Tauschturnier 
-			Rita Kurz und Hansjörg Grund. Auch ihnen gilt unser aller Dank.</p>
+			<p>Ein glücklicher Zufall war, dass genau zum richtigen Zeitpunkt ein Baggerfahrer 
+			vor Ort war und mit der Baggerschaufel vom Fussweg aus, den Sturz des Baumes 
+			in die richtige Richtung unterstützt hat.</p> 
 
 			<div class="galerie-foto">
-			<a data-fancybox="gallery" href="images/WebTausch2024big4.jpg">
-			<img src="images/WebTausch2024big4.jpg" alt="Tauschturnier 2024" 
-			title="Tauschturnier 2024" /></a></div>
+			<a data-fancybox="gallery" href="images/WebEsche3big.jpg">
+			<img src="images/WebEsche3big.jpg" alt="Baumfällung" 
+			title="Baumfällung" /></a></div>
+			
+			<p>Anschliessend hat Ewald den Baum in brennholzgerechte Stücke gesägt.</p> 
+
+			<p>Paul und Fabrice haben uns bei den 
+			Aufräumarbeiten geholfen, so dass die Arbeit innerhalb von drei Stunden erledigt war.</p>
+
+			<p>Herzlichen Dank an Ewald, dank ihm konnte der Verein mindestens 1500 € einsparen. <i>nh</i></p>
+
+			<div class="galerie-foto">
+			<a data-fancybox="gallery" href="images/WebEsche4big.jpg">
+			<img src="images/WebEsche4big.jpg" alt="Baumfällung" 
+			title="Baumfällung" /></a></div>
+
 
 		</div>
 

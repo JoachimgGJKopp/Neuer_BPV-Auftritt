@@ -5,6 +5,8 @@
     <?php include ('header.php'); ?>
 </head>
 <body>
+
+	<div class="transparent-layer"></div>
     
     <button id="btnMenu">
         <img src="images/menu.png" alt="Menu">
@@ -142,7 +144,7 @@
 				<a target="_blank"href="archiv/screenshot20241026.jpg">26.10.2024</a> Sommercup Abschluss<br>
 				<a target="_blank"href="archiv/screenshot20241101.jpg">01.11.2024</a> Jubiläumsturnier 2024<br>
 				<a target="_blank"href="archiv/screenshot20241124.jpg">24.11.2024</a> Herbstfest 2024<br>
-				<a target="_blank"href="archiv/screenshot20241226.jpg">26.12.2024</a> Tauschturnier</p>
+				<a target="_blank"href="archiv/screenshot20241226.jpg">26.12.2024</a> Tauschturnier<br>
 		</div>
 
 	</main>

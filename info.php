@@ -5,6 +5,8 @@
     <?php include ('header.php'); ?>
 </head>
 <body>
+
+    <div class="transparent-layer"></div>
     
     <button id="btnMenu">
         <img src="images/menu.png" alt="Menu">
@@ -36,7 +38,7 @@
 
             <p>Gegründet 1976 von Studenten und Lehrern. Unser Verein ist einer der
             ältesten Boule-Vereine in Deutschland. Er hat derzeit über 150 Mitglieder, wovon ca. 30 Prozent 
-            Frauen sind. 2024 spielen eine Wettkampf- mannschaft in der BaWü-Liga von Baden-Württemberg 
+            Frauen sind. 2024 spielen eine Wettkampfmannschaft in der BaWü-Liga von Baden-Württemberg 
             und zwei in der Regionalliga Süd; in der Ligaregion Schwarzwald-Oberrhein spielt eine 
             Mannschaft in der Landesliga und unsere Fünfte startet 2024 in der Bezirksliga. Im Jahreslauf 
             veranstalten wir 3 große eigene Turniere mit bis zu 200 Spielern pro Turnier, die zum Teil eine 

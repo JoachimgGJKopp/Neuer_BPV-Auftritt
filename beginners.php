@@ -5,6 +5,9 @@
     <?php include ('header.php'); ?>
 </head>
 <body>
+
+    <div class="transparent-layer"></div>
+
     <button id="btnMenu">
         <img src="images/menu.png" alt="Menu">
     </button>
