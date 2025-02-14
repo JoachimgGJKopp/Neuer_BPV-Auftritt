@@ -8,9 +8,7 @@
 	<title>Archiv</title>
 	<?php include('header.php'); ?>
 
-	<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
-
-</head>
+ </head>
 
 <body>
 
@@ -33,10 +31,10 @@
 	</nav2>
 
 	<teaser id="teaser">
-		<img src="archiv/TeasArchiv.jpg" title="Frühling auf dem Platz" alt="Frühling auf dem Platz" style="margin-bottom: 11em;">
+		<img src="archiv/TeasArchiv.jpg" title="Frühling auf dem Platz" alt="Frühling auf dem Platz">
 	</teaser>
 
-	<main>
+	<main style="margin-top: 3em;">
 
 		<div id="Inhalt1">
 
@@ -114,7 +112,6 @@
 				<a target="_blank" href="archiv/screenshot20220828.jpg">28.08.2022</a> DM TaT+Tir, Chr.Riff<br>
 				<a target="_blank" href="archiv/screenshot20220924.jpg">24.09.2022</a> Herbstturnier<br>
 				<a target="_blank" href="archiv/screenshot20221015.jpg">15.10.2022</a> Oktoberfest<br>
-				<a target="_blank" href="archiv/screenshot20221027.jpg">27.10.2022</a> Aufstieg, Mülbert<br>
 				<a target="_blank" href="archiv/screenshot20221101.jpg">01.11.2022</a> Aufstieg, Jubiläumsturnier
 			</p>
 
@@ -141,14 +138,14 @@
 				<a target="_blank" href="archiv/screenshot20231022.jpg">22.10.2023</a> SC Abschluss, Oktoberfest<br>
 				<a target="_blank" href="archiv/screenshot20231101.jpg">01.11.2023</a> Jubiläumsturnier 2023<br>
 				<a target="_blank" href="archiv/screenshot20231119.jpg">19.11.2023</a> Pokal Viertelfinale<br>
-				<a target="_blank" href="archiv/screenshot20231210.jpg">10.12.2023</a> Pokal Finale, Pfeiffer 80 J<br>
+				<a target="_blank" href="archiv/screenshot20231210.jpg">10.12.2023</a> Pokal Finale, Pfeiffer 80 Jahre<br>
 				<a target="_blank" href="archiv/screenshot20231226.jpg">26.12.2023</a> Tauschturnier
 			</p>
 
 
 			<h2>2024</h2>
 
-			<p><a target="_blank" href="archiv/screenshot20240323.jpg">23.03.2024</a> Frühjahrsputzete<br>
+				<p><a target="_blank" href="archiv/screenshot20240323.jpg">23.03.2024</a> Frühjahrsputzete<br>
 				<a target="_blank" href="archiv/screenshot20240322.jpg">22.03.2024</a> MV 2024 Kurzbericht<br>
 				<a target="_blank" href="archiv/screenshot20240407.jpg">07.04.2024</a> Frühjahrsturnier 2024<br>
 				<a target="_blank" href="archiv/screenshot20240515.jpg">15.05.2024</a> neuer Pavillon<br>
@@ -165,7 +162,7 @@
 
 	</main>
 
-	<nav aria-label="Archivseiten">
+	<nav aria-label="Archivseiten" class="pagination-container">
 		<ul class="pagination pagination-md">
 			<li class="page-item active" aria-current="page">
 				<span class="page-link">1</span>

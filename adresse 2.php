@@ -35,7 +35,7 @@
 
     <main>
 
-        <div id="Inhalt1">
+		<div id="Inhalt1">
 
             <h3>Anfahrt von der Autobahn A5</h3>
 

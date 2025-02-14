@@ -46,6 +46,7 @@ foreach($bilder_gross as $bild_gross) {
       width: 100%;
       height: auto;
       max-width: 100px;
+      margin-bottom: 4px;
     }
 
     body {

@@ -4,7 +4,9 @@
     <title>Index</title>
 
 	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/ui@4.0.0/dist/fancybox.css">
-    <?php include ('header.php'); ?>
+
+	<?php include ('header.php'); ?>
+
 </head>
 
 <body>
@@ -36,7 +38,7 @@
 	</div>
 
 	<div>
-		<hr style="border: 0.5px solid lightgray; margin: 0em;">
+		<hr style="border: 0.5px solid darkgray; margin: 0em; margin-bottom: 1em;">
 	</div>
 
 	<div id="turnierplan"><a href="images/Turnierplan2024.pdf"><img src="images/WebTurnierplan2024klein.gif"
@@ -54,7 +56,7 @@
 			<img src="images/MaxBlechschmidt.jpg" alt="Max Blechschmidt" 
 			title="Max Blechschmidt" /></a></div>
 
-			<p style="font-size: x-small; margin-top: -0.2em">Max 2014 bei den Bad. Meisterschaften</p>
+			<p style="font-size: x-small; margin-top: 0.5em">Max 2014 bei den Bad. Meisterschaften</p>
 
 			<p>Leider ist Max Blechschmidt mit 77 Jahren verstorben.
 			Er war seit 1989 Mitglied in unserem Verein und hat über
@@ -63,21 +65,20 @@
 			Frohsinn tatkräftig unterstützt.</p>
 			<p>Max, wir werden dich vermissen !</p>
 
-
 			<h3>Der Eschenahornbaum muss weichen</h3>
 
-			<p>Der von Weißfäule befallene Baum stand direkt am Zaun beim Rundweg</p>
+			<p>Der von Weißfäule befallene Baum stand direkt am Zaun beim Weg</p>
 
 		</div>
 
-		<div id="Inhalt2">
+        <div id="Inhalt2">
 
-			<p> um den See. Aufgrund seiner Krankheit kennzeichnete die Stadt den Baum zur Fällung.</p>
+			<p>um den See. Aufgrund seiner Krankheit kennzeichnete die Stadt den Baum zur Fällung.</p>
 
 			<div class="galerie-foto">
 			<a data-fancybox="gallery" href="images/WebEsche1big.jpg">
 			<img src="images/WebEsche1big.jpg" alt="Baumfällung" 
-			title="Baumfällung" /></a></div>
+			title="Baumfällung" style="margin-bottom: 1em;" /></a></div>
 
 			<p>Nachdem wir von der Stadt die Bewilligung zur Fällung 
 			des kranken Eschenahornbaums auf der Seeseite unseres Geländes erhalten haben, 
@@ -86,13 +87,13 @@
 			<div class="galerie-foto">
 			<a data-fancybox="gallery" href="images/WebEsche2big.jpg">
 			<img src="images/WebEsche2big.jpg" alt="Baumfällung" 
-			title="Baumfällung" /></a></div>
+			title="Baumfällung" style="margin-bottom: 1em;" /></a></div>
 
 			<p>Bernd Birnbreier, Hans-Peter Böcherer, Christian Fakler und Nik Heyder haben dabei geholfen.</p> 
 
 		</div>
 
-		<div id="Inhalt3">
+        <div id="Inhalt3">
 
 			<p>Ein glücklicher Zufall war, dass genau zum richtigen Zeitpunkt ein Baggerfahrer 
 			vor Ort war und mit der Baggerschaufel vom Fussweg aus, den Sturz des Baumes 
@@ -101,9 +102,9 @@
 			<div class="galerie-foto">
 			<a data-fancybox="gallery" href="images/WebEsche3big.jpg">
 			<img src="images/WebEsche3big.jpg" alt="Baumfällung" 
-			title="Baumfällung" /></a></div>
+			title="Baumfällung"  style="margin-bottom: 1em;" /></a></div>
 			
-			<p>Anschliessend hat Ewald den Baum in brennholzgerechte Stücke gesägt.</p> 
+			<p>Anschließend sägte Ewald den Baum in brennholzgerechte Stücke.</p> 
 
 			<p>Paul und Fabrice haben uns bei den 
 			Aufräumarbeiten geholfen, so dass die Arbeit innerhalb von drei Stunden erledigt war.</p>
@@ -114,7 +115,6 @@
 			<a data-fancybox="gallery" href="images/WebEsche4big.jpg">
 			<img src="images/WebEsche4big.jpg" alt="Baumfällung" 
 			title="Baumfällung" /></a></div>
-
 
 		</div>
 

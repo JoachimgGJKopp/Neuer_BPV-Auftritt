@@ -28,7 +28,7 @@
 
     <teaser>
         <img src="images/5Mann2024.jpg" title="5. Mannschaft des BPV Freiburg" alt="5. Mannschaft des BPV Freiburg">
-        <h2>5. Mannschaft des BPV Freiburg</h2>
+        <h2 style="margin-top: 1em;">5. Mannschaft des BPV Freiburg</h2>
     </teaser>
 
 

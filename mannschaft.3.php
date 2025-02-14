@@ -28,7 +28,7 @@
 
     <teaser>
         <img src="images/3Mann2024.jpg" title="3. Mannschaft des BPV Freiburg" alt="3. Mannschaft des BPV Freiburg">
-        <h2>3. Mannschaft des BPV Freiburg</h2>
+        <h2 style="margin-top: 1em;">3. Mannschaft des BPV Freiburg</h2>
     </teaser>
 
 
