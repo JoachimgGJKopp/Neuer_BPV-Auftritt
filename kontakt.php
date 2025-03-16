@@ -25,7 +25,7 @@
         <?php include ('navigation2.php'); ?>
     </nav2>
 
-    <img src="images/TeasKontakt.jpg" alt="Kontakt zum Seepark" title="Reiche mir deine Hand" style="margin-bottom: 1em;"/>
+    <img src="images/TeasKontakt.jpg" alt="Kontakt zum Seepark" title="Reiche mir deine Hand" style="margin-bottom: 2em;"/>
 
     <div id="kontakt">
 

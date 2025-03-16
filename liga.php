@@ -29,7 +29,7 @@
 
     <teaser id="teaser">
         <img src="images/TeasLiga.jpg" alt="Turnier im Seepark" title="Turnier im Seepark" style="margin-bottom: 1em;"/>
-        <h2>Information zum Ligasport des BPV Freiburg</h2>
+        <h2 style="margin: 1em 0;">Information zum Ligasport des BPV Freiburg</h2>
     </teaser>
 
     <div id="liga">
@@ -39,7 +39,7 @@
             <p>Der Verein ist sportlich ausgerichtet. Dies belegt sein Liga-Engagement und
             die Ausrichtung von lizenzfreien und Ranglisten-Turnieren.</p> 
 
-            <p>In der Saison 2024 spielen 5 Liga-Mannschaften für den BPV Freiburg:</p>
+            <p>In der Saison 2025 spielen 5 Liga-Mannschaften für den BPV Freiburg:</p>
 
 		    <p>Die 1. Mannschaft spielt in der Baden-Württemberg-Liga des Baden-Württembergischen
             Landesverbandes.</p> 
@@ -47,12 +47,11 @@
             <p>Die 2. und 3. Mannschaft spielen in der Regionalliga Süd des Baden-
             Württembergischen Landesverbandes.</p>
 
-		    <p>Die 4. Mannschaft spielt in der Landesliga der Ligaregion Schwarzwald-Oberrhein.</p>
+		    <p>Die 4. und 5. Mannschaft spielen in der Landesliga der Ligaregion Schwarzwald-Oberrhein.</p>
 
-		    <p>Die 5. Mannschaft startet 2024 in der Bezirksliga der Ligaregion Schwarzwald-
-            Oberrhein.</p>
+            <p>&nbsp;</p>
 
-		    <img src="images/ArendtSpiel.jpg" alt="Hannah Arendt" title="Hannah Arendt" /></a>
+		    <img src="images/ArendtSpiel.jpg" alt="Hannah Arendt" title="Hannah Arendt" style="margin-bottom: 3rem;"/></a>
 
         </div>
         

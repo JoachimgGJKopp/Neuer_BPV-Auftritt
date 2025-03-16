@@ -1,7 +1,7 @@
 
 
         html {       /* Hintergrundbild fixed */
-            background: url(images/Hintergruende/Februar2025.jpg) no-repeat center center fixed;
+            background: url(images/Hintergruende/Maerz2025.jpg) no-repeat center center fixed;
             -webkit-background-size: cover;
             -moz-background-size: cover;
             -o-background-size: cover;
@@ -54,6 +54,13 @@
             max-width: 100%;
         }
 
+        @media (max-width: 768px) {         /* Abstand unter Logo BPV für Mobile */
+            #logo { 
+                margin-top: 2em;  
+                margin-bottom: 0.5em;
+            }
+        } 
+
         img {
             max-width: 100%;
         }
@@ -91,6 +98,7 @@
             body {   
                 margin-top: 0em;
                 margin-bottom: 0em;
+                padding-bottom: 0em;
             }
         } 
 
@@ -112,7 +120,7 @@
             left: 0.5em;
             height: 6.625em; 
             width: 4.6875em;
-            top: -10.5em;
+            top: -11em;
             z-index: 20;
         }
 
@@ -251,7 +259,7 @@
             color: #333333;
 	        display: grid;
             grid-template-columns: repeat(auto-fill, minmax(20em, 1fr));
-            column-gap: 7em;
+            column-gap: 2em;
         }
 
             #liga-text {
@@ -374,10 +382,11 @@
 	        max-width: 100%;
             color: #333333;
             display: grid;
-            grid-template-columns: repeat(auto-fill, minmax(28em, 1fr));
-            column-gap: 7em;
+            grid-template-columns: repeat(auto-fill, minmax(19em, 1fr));
+            column-gap: 9em;
             font-size: small;
             text-align: left;
+            margin-left: 8em;
         }
 
             #fakler, #heyder {

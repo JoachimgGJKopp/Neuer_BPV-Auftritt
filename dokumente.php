@@ -43,15 +43,13 @@
 
                     <ul>
                         <tr><td>&nbsp;</td></tr>
-                        <tr><td>Plakat Frühlingsturnier 2024</td><td>&nbsp;&nbsp;</td><td><a href="dokumente/Fruehling2024.jpg"><img src="images/jpgLogo.jpg" alt="jpg download" title="jpg download" /></a></td></tr>
-                        <tr><td>Plakat Nocturne 2024</td><td>&nbsp;&nbsp;</td><td><a href="dokumente/Nocturne2024.jpg"><img src="images/jpgLogo.jpg" alt="jpg download" title="jpg download"/></a></td></tr>
-                        <tr><td>Plakat Herbstturnier 2024</td><td>&nbsp;&nbsp;</td><td><a href="dokumente/Herbst2024.jpg"><img src="images/jpgLogo.jpg" alt="jpg download" title="jpg download"/></a></td></tr>
-                        <tr><td>Plakat Jubiläumsturnier 2024</td><td>&nbsp;&nbsp;</td><td><a href="dokumente/Jubi2024.jpg"><img src="images/jpgLogo.jpg" alt="jpg download" title="jpg download"/></a></td></tr>
-                        <tr><td>Plakat Tauschturnier 2024</td><td>&nbsp;&nbsp;</td><td><a href="dokumente/Tausch2024.jpg"><img src="images/jpgLogo.jpg" alt="jpg download" title="jpg download"/></a></td></tr>
+                        <tr><td>Plakat 1. Lexware Open 2025</td><td>&nbsp;&nbsp;</td><td><a href="dokumente/LexwareOpen2025.png"><img src="images/jpgLogo.jpg" alt="jpg download" title="jpg download"/></a></td></tr>
+                        <tr><td>Plakat Jubiläumsturnier 2025</td><td>&nbsp;&nbsp;</td><td><a href="dokumente/Jubi2025.jpg"><img src="images/jpgLogo.jpg" alt="jpg download" title="jpg download"/></a></td></tr>
+                        <tr><td>Plakat Tauschturnier 2025</td><td>&nbsp;&nbsp;</td><td><a href="dokumente/Tausch2025.jpg"><img src="images/jpgLogo.jpg" alt="jpg download" title="jpg download"/></a></td></tr>
                         <tr><td>&nbsp;</td></tr>
-                        <tr><td>Plakat Sommercup 2024</td><td>&nbsp;&nbsp;</td><td><a href="dokumente/Sommercup2024.jpg"><img src="images/jpgLogo.jpg" alt="jpg download" title="jpg download"/></a></td></tr>
+                        <tr><td>Plakat Sommercup 2025</td><td>&nbsp;&nbsp;</td><td><a href="dokumente/Sommercup2025.jpg"><img src="images/jpgLogo.jpg" alt="jpg download" title="jpg download"/></a></td></tr>
                         <tr><td>&nbsp;</td></tr>
-                        <tr><td>Turnierplan 2024</td><td>&nbsp;&nbsp;</td><td><a href="dokumente/Turnierplan2024.pdf"><img src="images/pdf.gif" alt="pdf download" title="pdf download"/></a></td></tr>
+                        <tr><td>Turnierplan 2025</td><td>&nbsp;&nbsp;</td><td><a href="dokumente/Turnierplan2025.pdf"><img src="images/pdf.gif" alt="pdf download" title="pdf download"/></a></td></tr>
                         <tr><td>&nbsp;</td></tr>
                     </ul>
 

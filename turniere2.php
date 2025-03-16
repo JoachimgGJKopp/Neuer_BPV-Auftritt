@@ -2,6 +2,9 @@
 <html lang="de">
 <head>
     <title>Sommercup</title>
+
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/ui@4.0.0/dist/fancybox.css">
+
     <?php include ('header.php'); ?>
 </head>
 <body>
@@ -34,9 +37,12 @@
 
             <h2>Der wöchentliche Sommercup am Samstag (Turnierserie mit Rangliste)</h2>
 
-	        <div class="galerie-foto"><a rel="lightbox"href="images/WebSommercup2024big.jpg"><img id="rechts-sommercup" src="images/WebSommercup2024medium.jpg" alt="Plakat Sommercup 2024" title="Plakat Sommercup 2024" /></a></div>
+			<div class="galerie-foto">
+			<a data-fancybox="gallery" href="images/WebSommercup2025big.jpg">
+			<img id="rechts-sommercup" src="images/WebSommercup2025medium.jpg" alt="Sommercup 2025" 
+			title="Sommercup 2025" /></a></div>
 
-            <p>Der Sommercup des Badischen Pétanque-Vereins läuft vom 4. Mai bis 26. Oktober 2024 als 
+            <p>Der Sommercup des Badischen Pétanque-Vereins läuft vom 12. April bis 25. Oktober 2025 als 
             wöchentliches Samstag Nachmittag Turnier mit Einschreibeschluss um 13.30 Uhr. Die 
             Mindest-Teilnehmerzahl sind 16 Spieler. Bei weniger als 16 Spielern erhält jeder Anwesende 
             einen Ranglistenpunkt. Am letzten Spieltag des Sommercup wird ein Abschlussturnier gespielt, 
@@ -66,6 +72,19 @@
         </div>
 
     </main>
+
+
+	<script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui@4.0.0/dist/fancybox.umd.js"></script>
+	
+	<script>
+    	document.addEventListener("DOMContentLoaded", function() {
+        	Fancybox.bind("[data-fancybox='gallery']", {
+            closeButton: "inside", // Zeigt den Schließen-Button innerhalb des Bildes an
+        	});
+    	});
+	</script>
+
+	<script src="scripts/DataFancyBox.js"></script>
 
     <script src="scripts/AufrufButton.js"></script>
 

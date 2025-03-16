@@ -32,7 +32,7 @@
         <li>
             <a href="#">Turniere</a>
             <ul class="dropdown">
-                <li><a href="images/Turnierplan2024.pdf">Turnierplan 2024</a></li>
+                <li><a href="dokumente/Turnierplan2025.pdf">Turnierplan 2025</a></li>
                 <li><a href="turniere2.php">Sommercup</a></li>
             </ul>
         </li>

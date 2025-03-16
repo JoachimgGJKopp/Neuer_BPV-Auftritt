@@ -38,7 +38,7 @@
             <p><a target="_blank" href="http://www.petanque-bw.de">BBPV Baden-Württemberg</a></p>
             <p><a target="_blank" href="http://www.petanque-dpv.de">Deutscher Petanque Verband</a></p>
             <p><a target="_blank" href="https://www.ffpjp.org/">Französischer Petanque Verband</a></p>
-            <p><a target="_blank" href="http://www.fipjp.org/">F.I.P.J.P. - Fédération Internationale de Pétanque et Jeu Provençal</a></p>
+            <p><a target="_blank" href="http://www.fipjp.org/">F.I.P.J.P. - Fédération<br>Internationale de Pétanque<br>et Jeu Provençal</a></p>
 
             <h2>Verband Regional</h2>
         

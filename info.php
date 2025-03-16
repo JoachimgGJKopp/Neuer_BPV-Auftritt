@@ -38,12 +38,12 @@
 
             <p>Gegründet 1976 von Studenten und Lehrern. Unser Verein ist einer der
             ältesten Boule-Vereine in Deutschland. Er hat derzeit über 150 Mitglieder, wovon ca. 30 Prozent 
-            Frauen sind. 2024 spielen eine Wettkampfmannschaft in der BaWü-Liga von Baden-Württemberg 
-            und zwei in der Regionalliga Süd; in der Ligaregion Schwarzwald-Oberrhein spielt eine 
-            Mannschaft in der Landesliga und unsere Fünfte startet 2024 in der Bezirksliga. Im Jahreslauf 
-            veranstalten wir 3 große eigene Turniere mit bis zu 200 Spielern pro Turnier, die zum Teil eine 
+            Frauen sind. 2025 spielen eine Wettkampfmannschaft in der BaWü-Liga von Baden-Württemberg 
+            und zwei in der Regionalliga Süd; in der Ligaregion Schwarzwald-Oberrhein spielen zwei 
+            Mannschaften in der Landesliga. Im Jahreslauf 
+            veranstalten wir 2 große eigene Turniere mit bis zu 200 Spielern pro Turnier, die zum Teil eine 
             lange Tradition haben. Ein Turnier ist ein Ranglistenturnier mit Lizenzpflicht und dient 
-            dem Leistungssport. Zudem spielen wir an Samstagen von Mai bis Oktober den "Sommercup", ein 
+            dem Leistungssport. Zudem spielen wir an Samstagen von April bis Oktober den "Sommercup", ein 
             lizenzfreies Turnier für Jedermann. Weiter wird unser sehr schön gelegener Platz auch für 
             Veranstaltungen des Deutschen und des Landesverbandes genutzt. Dies alles neben unserem 
             normalen wöchentlichen Spielbetrieb.</p>

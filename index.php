@@ -41,80 +41,87 @@
 		<hr style="border: 0.5px solid darkgray; margin: 0em; margin-bottom: 1em;">
 	</div>
 
-	<div id="turnierplan"><a href="images/Turnierplan2024.pdf"><img src="images/WebTurnierplan2024klein.gif"
-	alt="Turnierplan 2024 des BPV-Freiburg" onmouseover="src='images/WebTurnierplan2024kleinA.gif'" 
-	onmouseout="src='images/WebTurnierplan2024klein.gif'" /></a></div>
+	<div id="turnierplan"><a href="dokumente/Turnierplan2025.pdf"><img src="images/WebTurnierplan2025klein.png"
+	alt="Turnierplan 2024 des BPV-Freiburg" onmouseover="src='images/WebTurnierplan2025kleinA.png'" 
+	onmouseout="src='images/WebTurnierplan2025klein.png'" /></a></div>
 
 	<main>
 
 		<div id="Inhalt1">
 
-			<h3>Max Blechschmidt verstorben</h3>
-
 			<div class="galerie-foto">
-			<a data-fancybox="gallery" href="images/MaxBlechschmidt.jpg">
-			<img src="images/MaxBlechschmidt.jpg" alt="Max Blechschmidt" 
-			title="Max Blechschmidt" /></a></div>
+			<a data-fancybox="gallery" href="images/WebLexwareOpen2025big.png">
+			<img src="images/WebLexwareOpen2025big.png" alt="1. Lexware Open 2025" 
+			title="1. Lexware Open 2025" style="margin-bottom: 1em;" /></a></div>
 
-			<p style="font-size: x-small; margin-top: 0.5em">Max 2014 bei den Bad. Meisterschaften</p>
+			<h3>Mitgliederversammlung am 27. März 2025</h3>
 
-			<p>Leider ist Max Blechschmidt mit 77 Jahren verstorben.
-			Er war seit 1989 Mitglied in unserem Verein und hat über
-			lange Jahre die „frühere Dritte Mannschaft“ sowohl beim Spiel 
-			als auch bei den Veranstaltungen mit seinem schwäbischen
-			Frohsinn tatkräftig unterstützt.</p>
-			<p>Max, wir werden dich vermissen !</p>
+			<p>Der Vorstand des Badischen Pétanque-Vereins e.V. Freiburg lädt ein zur Mitgliederversammlung am 
+			Donnerstag, den 27. März 2025 um 19 Uhr im Gasthaus Mooswaldbierstube, Elsässer Straße 58, 79110 Freiburg.</p>
 
-			<h3>Der Eschenahornbaum muss weichen</h3>
+			<p>Der Vorstand würde sich freuen, wenn viele Mitglieder unserer Einladung folgen und an der
+			Versammlung teilnehmen.</p>
 
-			<p>Der von Weißfäule befallene Baum stand direkt am Zaun beim Weg</p>
+			<p style="text-align:right"><i>Der Vorstand</i></p>
+
+			<h3>Das alte Laub entsorgt und den Platz gerichtet</h3>
+
+			<p>Im Spätherbst wurden das ins Boulodrome gefallene Laub und Äste von der Baumfällaktion auf Platz 24 zusammengetragen.</p>
+
+			<p>Das Laub sollte bis zum Frühjahr liegen bleiben für Igel & Co. als Winterquartier.</p>
 
 		</div>
 
         <div id="Inhalt2">
+		
+			<div class="galerie-foto">
+			<a data-fancybox="gallery" href="images/WebLaubbig1.jpg">
+			<img src="images/WebLaubbig1.jpg" alt="Laubaktion 2025" 
+			title="Laubaktion 2025" style="margin-bottom: 1em;" /></a></div>
 
-			<p>um den See. Aufgrund seiner Krankheit kennzeichnete die Stadt den Baum zur Fällung.</p>
+			<p>Mit den 2-stelligen Temperaturen war die Zeit gekommen für die jährliche Laubaktion auf dem Platz. 
+			Nik ludt zum 8. März ein zu einem Aktionstag und 12 Leute folgten dem Aufruf.</p>
+
+			<p>Das Wetter spielte auch mit und lieferte herrlichen Sonnenschein mit Frühlingstemperaturen.</p>
 
 			<div class="galerie-foto">
-			<a data-fancybox="gallery" href="images/WebEsche1big.jpg">
-			<img src="images/WebEsche1big.jpg" alt="Baumfällung" 
-			title="Baumfällung" style="margin-bottom: 1em;" /></a></div>
+			<a data-fancybox="gallery" href="images/WebLaubbig5.jpg">
+			<img src="images/WebLaubbig5.jpg" alt="Laubaktion 2025" 
+			title="Laubaktion 2025" style="margin-bottom: 1em;" /></a></div>
 
-			<p>Nachdem wir von der Stadt die Bewilligung zur Fällung 
-			des kranken Eschenahornbaums auf der Seeseite unseres Geländes erhalten haben, 
-			haben wir am Dienstag, den 4. Februar mit der professionellen Hilfe von Ewald den Baum gefällt.</p>
+			<p> In einem gelieferten Container wurden Laub und Äste entsorgt. Nebenbei wurden auch die Plätze 
+			hergerichtet, Kies verteilt,</p> 
 
 			<div class="galerie-foto">
-			<a data-fancybox="gallery" href="images/WebEsche2big.jpg">
-			<img src="images/WebEsche2big.jpg" alt="Baumfällung" 
-			title="Baumfällung" style="margin-bottom: 1em;" /></a></div>
-
-			<p>Bernd Birnbreier, Hans-Peter Böcherer, Christian Fakler und Nik Heyder haben dabei geholfen.</p> 
+			<a data-fancybox="gallery" href="images/WebLaubbig2.jpg">
+			<img src="images/WebLaubbig2.jpg" alt="Laubaktion 2025" 
+			title="Laubaktion 2025" style="margin-bottom: 1em;" /></a></div>
 
 		</div>
 
         <div id="Inhalt3">
 
-			<p>Ein glücklicher Zufall war, dass genau zum richtigen Zeitpunkt ein Baggerfahrer 
-			vor Ort war und mit der Baggerschaufel vom Fussweg aus, den Sturz des Baumes 
-			in die richtige Richtung unterstützt hat.</p> 
+			<p>gerissene Schnüre ersetzt, Wasserablaufkanäle gereinigt und defekte Stühle geflickt.</p>
 
 			<div class="galerie-foto">
-			<a data-fancybox="gallery" href="images/WebEsche3big.jpg">
-			<img src="images/WebEsche3big.jpg" alt="Baumfällung" 
-			title="Baumfällung"  style="margin-bottom: 1em;" /></a></div>
+			<a data-fancybox="gallery" href="images/WebLaubbig3.jpg">
+			<img src="images/WebLaubbig3.jpg" alt="Laubaktion 2025" 
+			title="Laubaktion 2025" style="margin-bottom: 1em;" /></a></div>
+		
+			<p>Anschliessend konnten sich die Helferinnen und Helfer wie versprochen mit einem Imbiss stärken.</p>
+
+			<div class="galerie-foto">
+			<a data-fancybox="gallery" href="images/WebLaubbig4.jpg">
+			<img src="images/WebLaubbig4.jpg" alt="Laubaktion 2025" 
+			title="Laubaktion 2025" style="margin-bottom: 1em;" /></a></div>
 			
-			<p>Anschließend sägte Ewald den Baum in brennholzgerechte Stücke.</p> 
-
-			<p>Paul und Fabrice haben uns bei den 
-			Aufräumarbeiten geholfen, so dass die Arbeit innerhalb von drei Stunden erledigt war.</p>
-
-			<p>Herzlichen Dank an Ewald, dank ihm konnte der Verein mindestens 1500 € einsparen. <i>nh</i></p>
+			<p>Herzlichen Dank im Namen des gesamten Vorstands an alle die an diesem schönen Frühlingstag 
+			mitgeholfen haben. <i>nh</i></p>
 
 			<div class="galerie-foto">
-			<a data-fancybox="gallery" href="images/WebEsche4big.jpg">
-			<img src="images/WebEsche4big.jpg" alt="Baumfällung" 
-			title="Baumfällung" /></a></div>
+			<a data-fancybox="gallery" href="images/WebSommercup2025big.jpg">
+			<img src="images/WebSommercup2025big.jpg" alt="Sommercup 2025" 
+			title="Sommercup 2025" /></a></div>
 
 		</div>
 

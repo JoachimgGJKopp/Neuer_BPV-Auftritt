@@ -40,7 +40,10 @@
 
             <h2>2025</h2>
             <p><a target="_blank" href="archiv/screenshot20250203.jpg">03.02.2025</a> Nachruf Max Blechschmidt<br>
-            <a target="_blank" href="archiv/screenshot20250204.jpg">04.02.2025</a> Baumfällaktion</p>
+            <a target="_blank" href="archiv/screenshot20250204.jpg">04.02.2025</a> Baumfällaktion<br>
+            <a target="_blank" href="archiv/screenshot20250225.jpg">25.02.2025</a> Einladung MV<br>
+            <a target="_blank" href="archiv/screenshot20250308.jpg">08.03.2025</a> Laubaktion</p>
+
 
         </div>
 
