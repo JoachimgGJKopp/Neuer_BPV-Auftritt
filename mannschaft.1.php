@@ -31,21 +31,30 @@
         <h2 style="margin-top: 1em;">1. Mannschaft des BPV Freiburg</h2>
     </teaser>
 
-       <div id="mannschaft1">
+    <div class="container-fluid">
 
-        <h3>Mannschaftsmitglieder</h3>
+        <div class="row">
 
-        <p>Oliver Anders<br>
-        Harry Burger<br>
-        Njakanosy Iandrianantenaina<br>
-        Didier Kauffmann<br>
-        Franz Kirschner<br>
-        John Lancon<br>
-        Harry Maugeais<br>
-        Clement Melnikoff<br>
-        Cathy Noll (Mannschaftsführerin)&nbsp;&nbsp;<small>Mail: c.noll@noll-avocats.com</small><br>
-        Anjaratiana Rabeariosa<br>
-        Christophe Riff</p>
+            <h3 class="ps-0 mt-1">Mannschaftsmitglieder</h3>
+
+            <div class="col-12 col-sm-12 ps-0">
+
+                <p>Oliver Anders<br>
+                Harry Burger<br>
+                Njakanosy Iandrianantenaina<br>
+                Didier Kauffmann (Mannschaftsführer)&nbsp;&nbsp;<small>Mail: didier.kauffmann1702@gmail.com</small><br>
+                Franz Kirschner<br>
+                John Lancon<br>
+                Harry Maugeais<br>
+                Anjaratiana Rabeariosa<br>
+                Christophe Riff<br>
+                Timo Sommer<br>
+                Sébastien Tromeur<br>
+                Nadja Weckemann</p>
+
+            </div>
+
+        </div>
 
     </div>
 

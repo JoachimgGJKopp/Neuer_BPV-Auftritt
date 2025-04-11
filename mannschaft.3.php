@@ -27,27 +27,33 @@
     </nav2>
 
     <teaser>
-        <img src="images/3Mann2024.jpg" title="3. Mannschaft des BPV Freiburg" alt="3. Mannschaft des BPV Freiburg">
+        <img src="images/3Mann2025.jpg" title="3. Mannschaft des BPV Freiburg" alt="3. Mannschaft des BPV Freiburg">
         <h2 style="margin-top: 1em;">3. Mannschaft des BPV Freiburg</h2>
     </teaser>
 
+    <div class="container-fluid">
 
-    <div id="mannschaft1">
+        <div class="row">
 
-        <h3>Mannschaftsmitglieder</h3>
+            <h3 class="ps-0 mt-1">Mannschaftsmitglieder</h3>
 
-        <p>Serge Aloird<br>
-        Claude Carette<br>
-        Muazzez Eckert<br>
-        Youcef Hamoudi<br>
-        Helmut Köttner<br>
-        Harry Kröner<br>
-        Erika Passon (Mannschaftsführerin)&nbsp;&nbsp;<small>Mail: RikaMitsch@gmx.de</small></br>
-        Denis Reinhardt<br>
-        Anjarasoa Ratohinomenjonahary<br>
-        Barbara Staudinger<br>
-        Julia Tengattini<br>
-        Tim Villard</p>
+            <div class="col-12 col-sm-12 ps-0">
+
+                <p>Serge Aloird<br>
+                Edith Aschard<br>
+                Raphael Bour<br>
+                Sahoby Olivier Herinantenaina<br>
+                Andreas Herrmann (Mannschaftsführer)&nbsp;&nbsp;<small>Mail: hoerm68@web.de</small></br>
+                Helmut Köttner<br>
+                Rita Kurz<br>
+                Martin Pfitzner<br>
+                Anjarasoa Jeon Celestin Ratohinomenjonahary<br>
+                Barbara Staudinger<br>
+                Tim Villard</p>
+
+            </div>
+
+        </div>
 
     </div>
 

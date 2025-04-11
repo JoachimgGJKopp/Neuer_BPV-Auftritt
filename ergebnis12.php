@@ -28,19 +28,21 @@
         <img src="imagefolder/Herbstturnier_2024/TeasHerbst2024.jpg" title="Das Boulodrome" alt="Das Boulodrome" style="margin-bottom: 0em;">
     </teaser>
 
-    <div>
+    <div class="container-fluid">
 
-        <div id="ergebnis">
+        <div class="row">
 
-            <h2>Ergebnis Herbstturnier 2024<br>Doublette Schweizer System 4 Runden mit Finals A und B</h2>
+            <h2 class="ps-0 mt-4">Ergebnis Herbstturnier 2024<br>Doublette Schweizer System 4 Runden mit Finals A und B</h2>
 
-	        <p><strong>A-Turnier:</strong></p>
+            <div class="col-12 col-sm-12 ps-0 pe-0">
+
+	        <p style="color: var(--sub-color);"><strong>A-Turnier:</strong></p>
 
 			<p>1. Platz: Heiner Brecht mit Joachim Storl,<br>
 			2. Platz: Bruno Lesoeur mit Bernard Schwartz,<br>
 			3. Platz: Oliver Anders mit Rita Kurz sowie Clement Melnikoff mit Jessica Schultz.</p>
 
-			<p><strong>B-Turnier:</strong></p>
+			<p style="color: var(--sub-color);"><strong>B-Turnier:</strong></p>
 
 			<p>1. Platz: Christophe Riff und Sebastien Tromeur,<br>
 			2. Platz: Fa Somsringam mit Gerd Helmerich aus Münster NRW,<br>

@@ -34,29 +34,39 @@
         <img src="archiv/TeasArchiv.jpg" title="Frühling auf dem Platz" alt="Frühling auf dem Platz">
     </teaser>
 
-    <main style="margin-top: 3em;">
+	<div class="container-fluid">
 
-		<div id="Inhalt1">
+        <main style="margin-top: 3em;">
 
-            <h2>2025</h2>
-            <p><a target="_blank" href="archiv/screenshot20250203.jpg">03.02.2025</a> Nachruf Max Blechschmidt<br>
-            <a target="_blank" href="archiv/screenshot20250204.jpg">04.02.2025</a> Baumfällaktion<br>
-            <a target="_blank" href="archiv/screenshot20250225.jpg">25.02.2025</a> Einladung MV<br>
-            <a target="_blank" href="archiv/screenshot20250308.jpg">08.03.2025</a> Laubaktion</p>
+            <div class="row">
+			
+                <div class="col-12 col-sm-4">
+
+                    <h2>2025</h2>
+                    <p><a target="_blank" href="archiv/screenshot20250203.jpg">03.02.2025</a> Nachruf Max Blechschmidt<br>
+                    <a target="_blank" href="archiv/screenshot20250204.jpg">04.02.2025</a> Baumfällaktion<br>
+                    <a target="_blank" href="archiv/screenshot20250225.jpg">25.02.2025</a> Einladung MV<br>
+                    <a target="_blank" href="archiv/screenshot20250308.jpg">08.03.2025</a> Laubaktion<br>
+                    <a target="_blank" href="archiv/screenshot20250322.jpg">22.03.2025</a> Galanacht Anja Christoph<br>
+                    <a target="_blank" href="archiv/screenshot20250327.jpg">27.03.2025</a> Mitgliederversammlung<br>
+                    <a target="_blank" href="archiv/screenshot20250405.jpg">05.04.2025</a> RL Süd Seepark</p>
+
+                </div>
+
+                <div class="col-12 col-sm-4">
 
 
-        </div>
+                </div>
 
-        <div id="Inhalt2">
+                <div class="col-12 col-sm-4">
 
+                </div>
 
-        </div>
+            </div>
 
-        <div id="Inhalt3">
+        </main>
 
-        </div>
-
-    </main>
+    </div>
 
 	<nav aria-label="Archivseiten" class="pagination-container">
 		<ul class="pagination pagination-md">

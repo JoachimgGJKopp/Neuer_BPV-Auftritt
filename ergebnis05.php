@@ -28,45 +28,47 @@
         <img src="imagefolder/Herbstturnier_2022/TeasHerbst2022.jpg" title="Herbstturnier 2022" alt="Herbstturnier 2022">
     </teaser>
 
-    <div>
+    <div class="container-fluid">
 
-        <div id="ergebnis">
+        <div class="row">   
 
-            <h2>Ergebnis Herbstturnier 2022<br>Triplette Formée, 5 Runden Schweizer System + Finale, 25 Tripletten</h2>
+            <h2 class="ps-0 mt-4">Ergebnis Herbstturnier 2022<br>Triplette Formée, 5 Runden Schweizer System + Finale, 25 Tripletten</h2>
 
-            <p>Hier das <a target="_blank" href="imagefolder/Herbstturnier_2022/ErgebnisHerbst2022.pdf">Ergebnis</a> des Turniers</p>
+            <div class="col-12 col-sm-12 ps-0 pe-0">
 
-            <p>1. Claude Carette, Eric Koffel und Denis Reinhardt;<br>
-            2. Guillaume Ratuszniak, Julien Brucker und Jean-Marie Rollin;<br>
-            3. Didier Kauffmann, Clement Melnikow und Christophe Riff;<br> 
-            3. David Österle, Rene Kutsch und Sascha Blum.</p> 
+                <p>Hier das <a target="_blank" href="imagefolder/Herbstturnier_2022/ErgebnisHerbst2022.pdf">Ergebnis</a> des Turniers</p>
 
-            <p><strong>Ergebnis Finale</strong></p>
+                <p>1. Claude Carette, Eric Koffel und Denis Reinhardt;<br>
+                2. Guillaume Ratuszniak, Julien Brucker und Jean-Marie Rollin;<br>
+                3. Didier Kauffmann, Clement Melnikow und Christophe Riff;<br> 
+                3. David Österle, Rene Kutsch und Sascha Blum.</p> 
 
-            <p>1. Guillaume Ratuszniak, Julien Brucker und Jean-Marie Rollin;<br>
-            2. Claude Carette, Eric Koffel und Denis Reinhardt.</p>
-            
-            <h2>Bericht</h2>
+                <p style="color: var(--sub-color);"><strong>Ergebnis Finale</strong></p>
 
-			<p>Am Sonntag, den 25. September kamen 75 Spielerinnen und Spieler in den Seepark. 
-            Rund ein Viertel der Équipes waren Franzosen, die letztendlich den Sieg unter sich 
-            ausmachten. Es wurden 5 Runden Schweizer System auf Zeit gespielt mit einem 
-            anschließenden Finale. Das Wetter war bewölkt bis gut; nur um 17 Uhr öffnete der 
-            Himmel kurzzeitig seine Schleusen. Die 3. Mannschaft versorgte die Anwesenden mit 
-            Organisation, Speis und Trank.</p>
+                <p>1. Guillaume Ratuszniak, Julien Brucker und Jean-Marie Rollin;<br>
+                2. Claude Carette, Eric Koffel und Denis Reinhardt.</p>
+                
+                <h2>Bericht</h2>
 
-            <p>Die Stimmung auf dem Platz war gut, die Spiele heiß umkämpft und spannend. Der 
-            Équipe Peter Böcherer, Andreas Scholz und Peter Martin gelang es nach hartem Kampf 
-            die favorisierten Didier Kauffmann, Clement Melnikow und Christophe Riff 
-            auszuschalten, scheiterten aber dann an der Équipe Claude Carette, Eric Koffel 
-            und Denis Reinhardt. Diese wiederum konnten zwar den Ersten Platz der Tabelle 
-            erringen, mussten sich aber im Finale 12:13 der Équipe Guillaume Ratuszniak, 
-            Julien Brucker und Jean-Marie Rollin geschlagen geben. Es gelang mit 3 Kugeln 
-            nicht die press platzierte Siegerkugel aus dem Spiel zu nehmen.</p>
+                <p>Am Sonntag, den 25. September kamen 75 Spielerinnen und Spieler in den Seepark. 
+                Rund ein Viertel der Équipes waren Franzosen, die letztendlich den Sieg unter sich 
+                ausmachten. Es wurden 5 Runden Schweizer System auf Zeit gespielt mit einem 
+                anschließenden Finale. Das Wetter war bewölkt bis gut; nur um 17 Uhr öffnete der 
+                Himmel kurzzeitig seine Schleusen. Die 3. Mannschaft versorgte die Anwesenden mit 
+                Organisation, Speis und Trank.</p>
 
-	    	<p>Die Turnierleitung leistete Andreas Herrmann souverän. Der Dank des BPV gilt 
-            ihm sowie der gesamten Dritten Mannschaft, die den Service erbrachte. Wir danken 
-            auch der Helferin Muazzez, die Unmengen belegte Brötchen schmierte.</p>
+                <p>Die Stimmung auf dem Platz war gut, die Spiele heiß umkämpft und spannend. Der 
+                Équipe Peter Böcherer, Andreas Scholz und Peter Martin gelang es nach hartem Kampf 
+                die favorisierten Didier Kauffmann, Clement Melnikow und Christophe Riff 
+                auszuschalten, scheiterten aber dann an der Équipe Claude Carette, Eric Koffel 
+                und Denis Reinhardt. Diese wiederum konnten zwar den Ersten Platz der Tabelle 
+                erringen, mussten sich aber im Finale 12:13 der Équipe Guillaume Ratuszniak, 
+                Julien Brucker und Jean-Marie Rollin geschlagen geben. Es gelang mit 3 Kugeln 
+                nicht die press platzierte Siegerkugel aus dem Spiel zu nehmen.</p>
+
+                <p>Die Turnierleitung leistete Andreas Herrmann souverän. Der Dank des BPV gilt 
+                ihm sowie der gesamten Dritten Mannschaft, die den Service erbrachte. Wir danken 
+                auch der Helferin Muazzez, die Unmengen belegte Brötchen schmierte.</p>
         
         </div>
 

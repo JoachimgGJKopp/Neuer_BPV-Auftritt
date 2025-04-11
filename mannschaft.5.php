@@ -32,19 +32,27 @@
     </teaser>
 
 
-    <div id="mannschaft1">
+    <div class="container-fluid">
 
-        <h3>Mannschaftsmitglieder</h3>
+        <div class="row">
 
-        <p>Zavatsilavina Philibert Andriananantenasoa<br>
-        Florian Bischler<br>
-        Martin Böhler<br>
-        Johanna Bischler<br>
-        Peter Bischler<br>
-        Hansjörg Grund<br>
-        Christian Fakler (Mannschaftsführer)&nbsp;&nbsp;<small>Mail: CFakler61@gmail.com></small><br>
-        Pieter Krebs<br>
-        Hannes Schuler</p>
+            <h3 class="ps-0 mt-1">Mannschaftsmitglieder</h3>
+
+            <div class="col-12 col-sm-12 ps-0">
+
+                <p>Zavatsilavina Philibert Andriananantenasoa<br>
+                Florian Bischler<br>
+                Martin Böhler<br>
+                Johanna Bischler<br>
+                Peter Bischler<br>
+                Hansjörg Grund<br>
+                Christian Fakler (Mannschaftsführer)&nbsp;&nbsp;<small>Mail: CFakler61@gmail.com></small><br>
+                Pieter Krebs<br>
+                Hannes Schuler</p>
+
+            </div>
+
+        </div>
 
     </div>
 

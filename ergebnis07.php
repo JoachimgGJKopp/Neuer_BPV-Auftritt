@@ -28,35 +28,37 @@
         <img src="imagefolder/Frühlingsturnier_2023/TeasFrueh2023.jpg" title="Frühlingsturnier 2023" alt="Frühlingsturnier 2023">
     </teaser>
 
-    <div>
+    <div class="container-fluid">
 
-        <div id="ergebnis">
+        <div class="row">
 
-            <h2>Ergebnis Frühlingsturnier 2023 (Doublette Schweizer System, 5 Runden)</h2>
+            <h2 class="ps-0 mt-4">Ergebnis Frühlingsturnier 2023 (Doublette Schweizer System, 5 Runden)</h2>
 
-            <a href="imagefolder/Frühlingsturnier_2023/ErgebnisFrueh2023.pdf">Ergebnisse Frühlingsturnier 2023</a>
+            <div class="col-12 col-sm-12 ps-0 pe-0">
 
-            <h2>Bericht</h2>
+                <p><a href="imagefolder/Frühlingsturnier_2023/ErgebnisFrueh2023.pdf">Ergebnisse Frühlingsturnier 2023</a></p>
 
-            <p>Frühlingsturnier im Seepark in Freiburg am 2. April 2023</p>
+                <h2>Bericht</h2>
 
-            <p>Am Sonntag, 2. April war schlechtes Wetter angekündigt. Deshalb trauten sich nur 
-            38 Doubletten in den Seepark. Jedoch der April macht was er will: So regnete es erst 
-            am späten Nachmittag in der 5. und letzten Runde des Schweizer Systems. Das ganze 
-            Turnier auf Zeit lief zügig ab und endete um 18 Uhr.</p>
+                <p>Frühlingsturnier im Seepark in Freiburg am 2. April 2023</p>
 
-            <p><strong>Die Turniersieger sind:</strong></p>
-            <p>1. Christophe Riff und Clément Melnikoff,<br>
-            2. Denis Margathe und Cedric Silvestre,<br>
-            3. Dieter Zimmer und Peter Frank,<br>
-            4. David Freudenberg und Niclas Zimmer,<br>
-            5. Fabrice und David Roy,<br>
-            6. Nico und Felix Oeschger,<br>
-            7. Harald Oeschger und Richard Aubert,<br>	
-            8. Karlheinz Makowsky und Pedro Martens.</p>
+                <p>Am Sonntag, 2. April war schlechtes Wetter angekündigt. Deshalb trauten sich nur 
+                38 Doubletten in den Seepark. Jedoch der April macht was er will: So regnete es erst 
+                am späten Nachmittag in der 5. und letzten Runde des Schweizer Systems. Das ganze 
+                Turnier auf Zeit lief zügig ab und endete um 18 Uhr.</p>
 
-            <p>Die 3. Mannschaft des BPV leistete den Service zur Zufriedenheit unserer Gäste 
-            und stellte die Turnierleiter Helmut Köttner und Joachim Kopp.</p>
+                <p style="color: var(--sub-color);"><strong>Die Turniersieger sind:</strong></p>
+                <p>1. Christophe Riff und Clément Melnikoff,<br>
+                2. Denis Margathe und Cedric Silvestre,<br>
+                3. Dieter Zimmer und Peter Frank,<br>
+                4. David Freudenberg und Niclas Zimmer,<br>
+                5. Fabrice und David Roy,<br>
+                6. Nico und Felix Oeschger,<br>
+                7. Harald Oeschger und Richard Aubert,<br>	
+                8. Karlheinz Makowsky und Pedro Martens.</p>
+
+                <p>Die 3. Mannschaft des BPV leistete den Service zur Zufriedenheit unserer Gäste 
+                und stellte die Turnierleiter Helmut Köttner und Joachim Kopp.</p>
                 
         </div>
 

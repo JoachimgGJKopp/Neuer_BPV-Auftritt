@@ -15,10 +15,10 @@
 
             <li><span>Verein</span>
         	<ul>
-                <li><a href="dvorstand.php">Vorstand</a></li>
+                <li><a href="vorstand.php">Vorstand</a></li>
                 <li><a href="adresse 2.php">Adresse / Anfahrt</a></li>
                 <li><a href="info.php">Informationen</a></li>
-                <li><a href="dsponsoren.php">Sponsoren</a></li>
+                <li><a href="sponsoren.php">Sponsoren</a></li>
                 <li><a target="_blank"href="dokumente/Satzung2023.pdf">Satzung</a></li>
                 <li><a target="_blank"href="dokumente/MAntragEinwillBeitragso2025.pdf">Mitgliedsantrag</a></li>
                 <li><a target="_blank"href="dokumente/Datenschutzhinweis 2022.pdf">Datenschutzhinweis</a></li>

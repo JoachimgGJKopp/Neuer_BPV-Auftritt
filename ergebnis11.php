@@ -28,45 +28,47 @@
         <img src="imagefolder/Frühlingsturnier_2024/TeasFrueh2024.jpg" title="Frühling im Seepark" alt="Frühling im Seepark">
     </teaser>
 
-    <div>
+    <div class="container-fluid">
 
-        <div id="ergebnis">
+        <div class="row">
 
-        <h2>Ergebnis Frühlingsturnier 2024 (Doublette Schweizer System, 5 Runden)</h2>
+            <h2 class="ps-0 mt-4">Ergebnis Frühlingsturnier 2024 (Doublette Schweizer System, 5 Runden)</h2>
 
-        <p><strong>Die Sieger des Frühlingsturniers sind:</strong></p>
+            <div class="col-12 col-sm-12 ps-0 pe-0">
 
-        <p>1. Didier Kauffmann und Christophe Riff, beide BPV Freiburg,<br>
-        2. David Freudenberg und Dieter Zimmer, beide FT von 1844 Freiburg,<br>					
-        3. Karin Sumser und Harald Mayer, beide LFS Tübingen.</p>
+                <p style="color: var(--sub-color);"><strong>Die Sieger des Frühlingsturniers sind:</strong></p>
 
-        <h2>Bericht</h2>
+                <p>1. Didier Kauffmann und Christophe Riff, beide BPV Freiburg,<br>
+                2. David Freudenberg und Dieter Zimmer, beide FT von 1844 Freiburg,<br>					
+                3. Karin Sumser und Harald Mayer, beide LFS Tübingen.</p>
 
-        <p>Das Frühlingsturnier am Sonntag, 7. April startete etwas verspätet, weil wegen 
-        der Absperrungen des Stadtmarathons in Freiburg unsere Gäste Probleme hatten 
-        rechtzeitig zum Einschreibeschluss im Seepark zu sein.</p>
+                <h2>Bericht</h2>
 
-        <p>Das sehr schöne Wetter lockte 60 Doubletten ins Boulodrome, darunter auch viele 
-        Spieler aus dem benachbarten Elsass. Trotz des schönen Wetters war es leicht 
-        diesig. Der Saharastaub in der Luft sorgte für die Eintrübung.<p>
+                <p>Das Frühlingsturnier am Sonntag, 7. April startete etwas verspätet, weil wegen 
+                der Absperrungen des Stadtmarathons in Freiburg unsere Gäste Probleme hatten 
+                rechtzeitig zum Einschreibeschluss im Seepark zu sein.</p>
 
-        <p>Gespielt wurden 5 Runden Schweizer System auf Zeit, plus je 2 Aufnahmen. So 
-        konnten die Spieler zu einer passablen Zeit die Heimreise antreten. Nach 2 Runden 
-        gab es eine Pause für den Mittagstisch.<p> 
+                <p>Das sehr schöne Wetter lockte 60 Doubletten ins Boulodrome, darunter auch viele 
+                Spieler aus dem benachbarten Elsass. Trotz des schönen Wetters war es leicht 
+                diesig. Der Saharastaub in der Luft sorgte für die Eintrübung.<p>
 
-        <p>Die Spieler wurden verpflegt mit Gegrilltem und verschiedenen Salaten. Dazu 
-        wurden die üblichen Getränke angeboten. Das Ganze rundeten Kaffee mit Kuchen, 
-        Muffins und Torten ab.</p>
+                <p>Gespielt wurden 5 Runden Schweizer System auf Zeit, plus je 2 Aufnahmen. So 
+                konnten die Spieler zu einer passablen Zeit die Heimreise antreten. Nach 2 Runden 
+                gab es eine Pause für den Mittagstisch.<p> 
 
-        <p>Unser Dank gilt der Service leistenden 4. Mannschaft des BPV für ihre gute 
-        Arbeit im Hintergrund des Turniers. Muazzez Eckert war ebenfalls im Service. 				
-        Auch Christian Fakler engagierte sich in der Organisation und Ewald Furlan 
-        kümmerte sich um den Grill. <p>
+                <p>Die Spieler wurden verpflegt mit Gegrilltem und verschiedenen Salaten. Dazu 
+                wurden die üblichen Getränke angeboten. Das Ganze rundeten Kaffee mit Kuchen, 
+                Muffins und Torten ab.</p>
 
-        <p>Die Turnierleitung bewältigte erfolgreich unser 1. Vorsitzender Nik Heyder.<p>
+                <p>Unser Dank gilt der Service leistenden 4. Mannschaft des BPV für ihre gute 
+                Arbeit im Hintergrund des Turniers. Muazzez Eckert war ebenfalls im Service. 				
+                Auch Christian Fakler engagierte sich in der Organisation und Ewald Furlan 
+                kümmerte sich um den Grill. <p>
 
-        <p>Das Frühlingsturnier 2024 ist gut gelungen. Die Stimmung auf dem Platz war 
-        fröhlich. Dies war ein lohnender Tag für unseren Sport.</p>
+                <p>Die Turnierleitung bewältigte erfolgreich unser 1. Vorsitzender Nik Heyder.<p>
+
+                <p>Das Frühlingsturnier 2024 ist gut gelungen. Die Stimmung auf dem Platz war 
+                fröhlich. Dies war ein lohnender Tag für unseren Sport.</p>
 						
         </div>
 

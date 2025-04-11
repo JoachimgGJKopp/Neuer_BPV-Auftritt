@@ -1,0 +1,118 @@
+﻿
+<!DOCTYPE html>
+<html lang="de">
+    
+<head>
+    <title>Vorstand</title>
+    <?php include ('header.php'); ?>
+</head>
+
+<body>
+
+	<div class="transparent-layer"></div>
+    
+    <button id="btnMenu">
+        <img src="images/menu.png" alt="Menu">
+    </button>
+
+    <header id="header">
+        <img id=logo src="images/logo.png" title="Logo BPV" alt="Logo BPV">
+    </header>
+
+    <nav id="navigation">
+        <?php include ('navigation.php'); ?>
+    </nav>
+
+    <nav2 id="navigation2">
+        <?php include ('navigation2.php'); ?>
+    </nav2>
+
+    <teaser id="teaser">
+        <img src="images/Vorstand/TeasVorstand2024.jpg" alt="Vorstand" title="Vorstand" style="margin-bottom: 1em;"/>
+        <h2 style="margin-top: 1em; margin-bottom: 2em">Vorstand des BPV Freiburg</h2>
+    </teaser>
+
+    <div class="container-fluid">
+
+        <div id="vorstand">
+
+            <div class="row">			<!-- Desktop -->
+
+                <div class="col-12 col-sm-5 p-0" style="margin-bottom: 3em;">
+                
+                    <img src="images/Vorstand/WebNik.jpg" alt="Nik Heyder" title="Nik Heyder" class="imgV"/>
+                    <p>Präsident</p>
+                    <p>Nik Heyder</p>
+                    <p><a href="mailto:nikheyder@hotmail.com">nikheyder@hotmail.com</a></p>
+
+                    <p>&nbsp;</p>
+
+                    <img src="images/Vorstand/WebDavid.jpg" alt="David da Silva" title="David Da Silva" class="imgV"/>
+                    <p>Vizepräsident</p>
+                    <p>David Da Silva</p>
+                    <p><a href="mailto:fariasdasilva1987@gmail.com">fariasdasilva1987@gmail.com</a></p>
+
+                    <p>&nbsp;</p>
+
+                    <img src="images/Vorstand/WebChristian.jpg" alt="Christian Fakler" title="Christian Fakler" class="imgV"/>
+                    <p>Kassenwart</p>
+                    <p>Christian Fakler</p>
+                    <p><a href="mailto:CFakler61@gmail.com">CFakler61@gmail.com</a></p>
+
+                    <p>&nbsp;</p>
+
+                    <img src="images/Vorstand/WebHeike.jpg" alt="Heike Nägele" title="Heike Nägele" class="imgV"/>
+                    <p>Schriftführerin</p>
+                    <p>Heike Nägele</p>
+                    <p><a href="mailto:hnaegele@web.de">hnaegele@web.de</a>
+
+                </div>
+
+                <div class="col-0 col-sm-2"></div>
+
+                <div class="col-12 col-sm-5 p-0">
+
+                    <img src="images/Vorstand/WebAndreas.jpg" alt="Andreas Herrmann" title="Andreas Herrmann" class="imgV"/>
+                    <p>Sportwart</p>
+                    <p>Andreas Herrmann</p>
+                    <p><a href="mailto: hoerm68@web.de">hoerm68@web.de</a></p>
+
+                    <p>&nbsp;</p>
+
+                    <img src="images/Vorstand/WebHansjoerg.jpg" alt="Hansjörg Grund" title="Hansjörg Grund" class="imgV"/>
+                    <p>Beisitzer</p>
+                    <p>Hansjörg Grund</p>
+                    <p><a href="mailto:hgrund@aol.com">hgrund@aol.com</a></p>
+
+                    <p>&nbsp;</p>
+
+                    <img src="images/Vorstand/WebBlind.jpg" alt="n. n." title="n. n." class="imgV"/>
+                    <p>Vereinsheim</p>
+                    <p>n. n.</p>
+                    <p><a href=" ">Mail n. n.</a></p>
+
+                    <p>&nbsp;</p> 
+
+                    <img src="images/Vorstand/WebBlind.jpg" alt="n. n." title="n. n." class="imgV"/>	
+                    <p>Platzwart</p>
+                    <p>n. n.<p>
+                    <p><a href=" ">Mail n. n.</a></p>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+    </div>
+
+	<script src="scripts/AufrufButton.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
+
+    <?php include('inc_fusszeile.php') ?>
+          
+</body>
+</html>
+

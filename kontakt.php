@@ -27,39 +27,47 @@
 
     <img src="images/TeasKontakt.jpg" alt="Kontakt zum Seepark" title="Reiche mir deine Hand" style="margin-bottom: 2em;"/>
 
+    <div class="container">
+
+    <h2 style="padding-bottom: 1em; margin-left: -0.5em">Kontaktieren Sie uns per eMail</h2>
+
     <div id="kontakt">
 
-        <div id="Kontakt1">
+        <div class="row">
 
-            <h2>Kontaktieren Sie uns per eMail</h2>
+            <div class="col-12 col-sm-5 p-0">
 
-            <p>&nbsp;</p>
+                <img src="images/Vorstand/WebNik.jpg" alt="Nik Heyder" title="Nik Heyder" id="heyder"/>
+                <h3 style="padding-top: 0.7em";>Präsident</h3>
+                <p>Nik Heyder</p>
+                <p style="font-size: normal;"><a href="mailto:nikheyder@hotmail.com">nikheyder@hotmail.com</a></p>
+    
+                <p>&nbsp;</p>
 
-            <img src="images/Vorstand/WebNik.jpg" alt="Nik Heyder" title="Nik Heyder" id="heyder"/>
-            <h3 style="padding-top: 0.7em";>Präsident</h3>
-            <p>Nik Heyder</p>
-            <p style="font-size: normal;"><a href="mailto:nikheyder@hotmail.com">nikheyder@hotmail.com</a></p>
- 
-            <p>&nbsp;</p>
-
-            <img src="images/Vorstand/WebChristian.jpg" alt="Christian Fakler" title="Christian Fakler" id="fakler"/>
-            <h3 style="padding-top: 0.7em";>Kassenwart</h3>
-            <p>Christian Fakler</p>
-            <p style="font-size: normal; padding-bottom: 1em;"><a href="mailto:CFakler61@gmail.com">CFakler61@gmail.com</a></p>
-       
-        </div>
-        
-        <div id="Kontakt2">
-
-                <h2>Adresse Präsident</h2>
-                <p style="padding-top: 1.5em;"><i>Nik Heyder<br/>
+                <h3>Adresse Präsident</h3>
+                <p style="margin-bottom: 3em;"><i>Nik Heyder<br/>
                 Im Glaser 34<br/>
                 79111 Freiburg<br/>
                 Deutschland<br/>
                 Telefon 0176 442 06 443<br>
                 nikheyder@hotmail.com</i></p>
+ 
+            </div>
+
+            <div class="col-0 col-sm-2"></div>
+        
+            <div class="col-12 col-sm-5 p-0" style="padding-top: 2em;">
+
+                <img src="images/Vorstand/WebChristian.jpg" alt="Christian Fakler" title="Christian Fakler" id="fakler"/>
+                <h3 style="padding-top: 0.7em";>Kassenwart</h3>
+                <p>Christian Fakler</p>
+                <p style="font-size: normal; padding-bottom: 1em;"><a href="mailto:CFakler61@gmail.com">CFakler61@gmail.com</a></p>
+
+            </div>
 
         </div>
+
+    </div>
 
     </div>
 

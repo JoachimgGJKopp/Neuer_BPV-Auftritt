@@ -28,51 +28,53 @@
         <img src="imagefolder/Badische_Meisterschaften_2023/TeasBad2023.jpg" title="Badische Meisterschaften 2023" alt="Badische Meisterschaften 2023">
     </teaser>
 
-    <div>
+    <div class="container-fluid">
 
-        <div id="ergebnis">
+        <div class="row">
 
-            <h3>Ergebnis Internationale Badische Meisterschaften 2023 Ranglistenturnier<br>(Doublette Formée, A-C-B k.o.)</h3>
+            <h3 class="ps-0 mt-4">Ergebnis Internationale Badische Meisterschaften 2023 Ranglistenturnier<br>(Doublette Formée, A-C-B k.o.)</h3>
 
-		    <a href="imagefolder/Badische_Meisterschaften_2023/ErgebnisBadische2023.pdf">Ergebnisse Internationale Badische Meisterschaften 2023</a> 
+            <div class="col-12 col-sm-12 ps-0 pe-0">
 
-            <p><strong>Ergebnis A-Turnier</p></strong>
+                <p><a href="imagefolder/Badische_Meisterschaften_2023/ErgebnisBadische2023.pdf">Ergebnisse Internationale Badische Meisterschaften 2023</a></p>
 
-            <p>1. Christian Bossert, Boule Club Achern e.V., und Philippe Jankowski, TG Laudenbach 1889 e.V.<br>
-            2. Matthias Laukart, PC Horb e.V., und Dominik Hanser, SG Wiehre Freiburg e.V.<br>
-            3. Leblond Gaetan, F-CB Strasourgeois, und Joeffrey Clement, F-CB Strasourgeois<br> 
-            3. Georg Maier, PC Kirchzarten e.V., und Stephan Raufer, PC Kirchzarten e.V.</p>
+                <p style="color: var(--sub-color);"><strong>Ergebnis A-Turnier</p></strong>
 
-                        <p><strong>Ergebnis B-Turnier</p></strong>
+                <p>1. Christian Bossert, Boule Club Achern e.V., und Philippe Jankowski, TG Laudenbach 1889 e.V.<br>
+                2. Matthias Laukart, PC Horb e.V., und Dominik Hanser, SG Wiehre Freiburg e.V.<br>
+                3. Leblond Gaetan, F-CB Strasourgeois, und Joeffrey Clement, F-CB Strasourgeois<br> 
+                3. Georg Maier, PC Kirchzarten e.V., und Stephan Raufer, PC Kirchzarten e.V.</p>
 
-            <p>1. Hubert Blattmann, Boule 95 Denzlingen e.V., und Achim Weißmann, Boule 95 Denzlingen e.V.<br>
-            2. Karin Sumser, LFJ Tübingen e.V., und Harald Mayer, LFJ Tübingen e.V.<br>
-            3. Najara Cabrera, BC Sauberg Mühlacker e.V., und Peter Frank, PC Horb e.V.<br>
-            3. Jürgen Röttele, BPV Freiburg e.V., und Peter Jäckel, Boulefreunde Waiblingen e.V.</p>
+                <p style="color: var(--sub-color);"><strong>Ergebnis B-Turnier</p></strong>
 
-            <p><strong>Ergebnis C-Turnier</strong></p>
- 
-            <p>1. Oliver Anders, BPV Freiburg e.V., und Andreas Herrmann, BPV Freiburg e.V.<br>
-            2. David Österle, Boule13Waldkirch e.V., und Georg Eble, Boule13Waldkirch e.V.</p>
+                <p>1. Hubert Blattmann, Boule 95 Denzlingen e.V., und Achim Weißmann, Boule 95 Denzlingen e.V.<br>
+                2. Karin Sumser, LFJ Tübingen e.V., und Harald Mayer, LFJ Tübingen e.V.<br>
+                3. Najara Cabrera, BC Sauberg Mühlacker e.V., und Peter Frank, PC Horb e.V.<br>
+                3. Jürgen Röttele, BPV Freiburg e.V., und Peter Jäckel, Boulefreunde Waiblingen e.V.</p>
 
-            <h2>Bericht</h2>
+                <p style="color: var(--sub-color);"><strong>Ergebnis C-Turnier</strong></p>
+    
+                <p>1. Oliver Anders, BPV Freiburg e.V., und Andreas Herrmann, BPV Freiburg e.V.<br>
+                2. David Österle, Boule13Waldkirch e.V., und Georg Eble, Boule13Waldkirch e.V.</p>
 
-            <p>Waren es 2019 beim gleichen Turnier noch 68 Doubletten und wurde beim Ranglistenturnier 
-            im November 2022 noch der Vereinsrekord von 104 Teams erzielt, so war die Teilnehmerzahl 
-            dieses Jahr übersichtlich. Das hatte immerhin den Vorteil, dass alle Partien im Boulodrome, 
-            mit seinen 26 Plätzen, ausgetragen werden konnten. Niemand musste auf die unbefestigten Wege 
-            im Seepark, mit seinen vielen Sonntagsspaziergängern, ausweichen.</p>
+                <h2>Bericht</h2>
 
-            <p>Das Turnier wurde im ACB-Modus durchgeführt. Ausserhalb der Wertung wurden Miniturniere 
-            angeboten. Das Turnier verlief in angenehmer Atmosphäre ohne Zwischenfälle und bot viele 
-            hochwertige Spiele. Vor zahlreichen Zuschauern setzten sich im spannenden Finalspiel 
-            Phillip Jankowski und Christian Bossert gegen Matthias Laukart und Domi Hanser durch.</p>
+                <p>Waren es 2019 beim gleichen Turnier noch 68 Doubletten und wurde beim Ranglistenturnier 
+                im November 2022 noch der Vereinsrekord von 104 Teams erzielt, so war die Teilnehmerzahl 
+                dieses Jahr übersichtlich. Das hatte immerhin den Vorteil, dass alle Partien im Boulodrome, 
+                mit seinen 26 Plätzen, ausgetragen werden konnten. Niemand musste auf die unbefestigten Wege 
+                im Seepark, mit seinen vielen Sonntagsspaziergängern, ausweichen.</p>
 
-            <p>Der Verein bedankt sich bei allen Beteiligten, die zum Gelingen des Turniers beigetragen 
-            haben. Insbesondere beim Schiedsrichter Youcef Hamoudi für seinen souveränen Einsatz, 
-            bei der 4. Mannschaft, die für das leibliche Wohl sorgte, bei Christian Fakler für die 
-            Turnierleitung, bei Raymond Maier (Boule 95 Denzlingen) für die spontane Unterstützung der 
-            Turnierleitung. Besonderen Dank auch den Spendern von Kuchen und Salaten.</p>
+                <p>Das Turnier wurde im ACB-Modus durchgeführt. Ausserhalb der Wertung wurden Miniturniere 
+                angeboten. Das Turnier verlief in angenehmer Atmosphäre ohne Zwischenfälle und bot viele 
+                hochwertige Spiele. Vor zahlreichen Zuschauern setzten sich im spannenden Finalspiel 
+                Phillip Jankowski und Christian Bossert gegen Matthias Laukart und Domi Hanser durch.</p>
+
+                <p>Der Verein bedankt sich bei allen Beteiligten, die zum Gelingen des Turniers beigetragen 
+                haben. Insbesondere beim Schiedsrichter Youcef Hamoudi für seinen souveränen Einsatz, 
+                bei der 4. Mannschaft, die für das leibliche Wohl sorgte, bei Christian Fakler für die 
+                Turnierleitung, bei Raymond Maier (Boule 95 Denzlingen) für die spontane Unterstützung der 
+                Turnierleitung. Besonderen Dank auch den Spendern von Kuchen und Salaten.</p>
 
         </div>
 

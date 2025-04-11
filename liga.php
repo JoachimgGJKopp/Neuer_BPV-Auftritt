@@ -29,46 +29,53 @@
 
     <teaser id="teaser">
         <img src="images/TeasLiga.jpg" alt="Turnier im Seepark" title="Turnier im Seepark" style="margin-bottom: 1em;"/>
-        <h2 style="margin: 1em 0;">Information zum Ligasport des BPV Freiburg</h2>
+        <h2 style="margin-top: 1em; margin-bottom: 2em;">Information zum Ligasport des BPV Freiburg</h2>
     </teaser>
 
-    <div id="liga">
+    <div class="container-fluid">
 
-        <div id="Liga-text">
+        <div id="liga">
 
-            <p>Der Verein ist sportlich ausgerichtet. Dies belegt sein Liga-Engagement und
-            die Ausrichtung von lizenzfreien und Ranglisten-Turnieren.</p> 
+            <div class="row">
 
-            <p>In der Saison 2025 spielen 5 Liga-Mannschaften für den BPV Freiburg:</p>
+                <div class="col-12 col-sm-6 p-0">
 
-		    <p>Die 1. Mannschaft spielt in der Baden-Württemberg-Liga des Baden-Württembergischen
-            Landesverbandes.</p> 
+                    <h3>Links zu Ligen</h3>
 
-            <p>Die 2. und 3. Mannschaft spielen in der Regionalliga Süd des Baden-
-            Württembergischen Landesverbandes.</p>
+                    <p><a target="_blank"href="https://deutscher-petanque-verband.de/dpb-bundesliga-aktuelles/bundesliga-2023-die-ergebnisse/">Bundesliga des DPV</a></p>
+                    <p><a target="_blank"href="https://petanque-bw.de/liga-pokal/liga/">Baden-Württemberg-Liga</a></p>
+                    <p><a target="_blank"href="https://petanque-bw.de/liga-pokal/rl-nord-2-2/">Regionalliga-Süd des LV Baden-Württemberg</a></p>
+                    <p><a target="_blank"href="https://petanque-bw.de/liga-pokal/rl-nord-2-2-2-3-2/">Spielpläne, Ergebnisse und Tabellen der Ligen SO</a></p>
+                    <p>&nbsp;</p>
 
-		    <p>Die 4. und 5. Mannschaft spielen in der Landesliga der Ligaregion Schwarzwald-Oberrhein.</p>
+                </div>
 
-            <p>&nbsp;</p>
+                <div class="col-12 col-sm-6 p-0">
 
-		    <img src="images/ArendtSpiel.jpg" alt="Hannah Arendt" title="Hannah Arendt" style="margin-bottom: 3rem;"/></a>
+                    <p>Der Verein ist sportlich ausgerichtet. Dies belegt sein Liga-Engagement und
+                    die Ausrichtung von lizenzfreien und Ranglisten-Turnieren.</p> 
+
+                    <p>In der Saison 2025 spielen 5 Liga-Mannschaften für den BPV Freiburg:</p>
+
+                    <p>Die 1. Mannschaft spielt in der Baden-Württemberg-Liga des Baden-Württembergischen
+                    Landesverbandes.</p> 
+
+                    <p>Die 2. und 3. Mannschaft spielen in der Regionalliga Süd des Baden-
+                    Württembergischen Landesverbandes.</p>
+
+                    <p>Die 4. und 5. Mannschaft spielen in der Landesliga der Ligaregion Schwarzwald-Oberrhein.</p>
+
+                    <p>&nbsp;</p>
+
+                    <img src="images/ArendtSpiel.jpg" alt="Hannah Arendt" title="Hannah Arendt" style="margin-bottom: 2rem;"/></a>
+
+                </div>
+                
+                </div>
+
+            </div>
 
         </div>
-        
-        <div id="Liga-links">
-
-            <h3>Links zu Ligen</h3>
-
-            <p><a target="_blank"href="https://deutscher-petanque-verband.de/dpb-bundesliga-aktuelles/bundesliga-2023-die-ergebnisse/">Bundesliga des DPV</a></p>
-            <p><a target="_blank"href="https://petanque-bw.de/liga-pokal/liga/">Baden-Württemberg-Liga</a></p>
-            <p><a target="_blank"href="https://petanque-bw.de/liga-pokal/rl-nord-2-2/">Regionalliga-Süd des LV Baden-Württemberg</a></p>
-            <p>&nbsp;</p>
-
-            <h3>Spielpläne und Tabellen<br>der Ligaregion Schwarzwald-Oberrhein</h3>
-
-            <p><a target="_blank"href="https://petanque-bw.de/liga-pokal/rl-nord-2-2-2-3-2/">Spielplan, Ergebnisse und Tabelle der Ligen SO</a></p>
-
-	    </div>
 
     </div>
 

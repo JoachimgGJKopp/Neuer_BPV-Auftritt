@@ -31,22 +31,29 @@
         <h2 style="margin-top: 1em;">2. Mannschaft des BPV Freiburg</h2>
     </teaser>
 
+    <div class="container-fluid">
 
-    <div id="mannschaft1">
+        <div class="row">
 
-        <h3>Mannschaftsmitglieder</h3>
+            <h3 class="ps-0 mt-1">Mannschaftsmitglieder</h3>
 
-        <p>David Ivan Farias Da Silva<br>
-        Paulo Da Silva<br>
-        Muazzez Eckert<br>
-        Andreas Herrmann (Mannschaftsführer)&nbsp;&nbsp;<small>Mail: hoerm68@web.de</small><br>
-        Dominik Hanser<br>
-        Nik Heyder<br>
-        Lyes-Sofian Lounes<br>
-        Heike Nägele<br>
-        Xavier Peyre<br>
-        Martin Pfitzner<br>
-        Andriniaina Ramahemintsoa Fenohasina</p>
+            <div class="col-12 col-sm-12 ps-0">
+
+                <p>David Ivan Farias Da Silva<br>
+                Paulo Da Silva<br>
+                Muazzez Eckert<br>
+                Dominik Hanser<br>
+                Andreas Herrmann<br>
+                Nik Heyder<br>
+                Lyes-Sofian Lounes<br>
+                Heike Nägele (Mannschaftsführerin)&nbsp;&nbsp;<small>Mail: hnaegele@web.de</small><br>
+                Xavier Peyre<br>
+                Andriniaina Fenohasina Ramahemintsoa<br>
+                Fabrice Roy</p>
+
+            </div>
+
+        </div>
 
     </div>
 

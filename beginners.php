@@ -25,41 +25,54 @@
     </nav2>
 
     <teaser id="teaser">
-        <img src="images/TeasBegin.jpg" title="Vereinsheim des BPV" alt="Vereinsheim des BPV" style="margin-bottom: 10em;">
+        <img src="images/TeasBegin.jpg" title="Vereinsheim des BPV" alt="Vereinsheim des BPV" style="margin-bottom: 0em;">
     </teaser>
 
-    <div id="beginner" style=margin-top:-9em>
+    <div class="container-fluid ps-0 pe-0">
 
-        <h2>Informationen für Neueinsteiger ins Pétanque-Spiel</h2>
+        <div class="row">
 
-        <p>Wenn Sie das Spiel kennen lernen wollen unter Anleitung im Verein, 
-        dann kommen Sie abends ungefähr zwischen 17 und 19 Uhr vorbei auf unserem 
-        <a target="_blank"href="adresse 2.php">Bouleplatz</a> im Seepark. Bei trockenem Wetter 
-        ist immer jemand da. Samstags spielen wir ab 13.30 Uhr in den Abend. Sie können auch 
-        <a target="_blank"href="kontakt.php">Kontakt</a> aufnehmen mit Nik Heyder. Kommen Sie 
-        auf unseren Bouleplatz und sprechen Sie Spieler an und sagen Sie diesen, dass Sie Anfänger 
-        sind und Boule spielen wollen. Wir nehmen Sie unter unsere Fittiche, leiten Sie an und 
-        spielen mit Ihnen.</p>
+        
+            <h2 style="margin: 1em 0px;">Informationen für Neueinsteiger ins Pétanque-Spiel</h2>
 
-        <p>Es genügt, wenn Sie in normaler Freizeitkleidung zu uns kommen. Fürs Erste können wir 
-        Ihnen die Kugeln auf dem Platz kostenfrei stellen. Bitte kaufen Sie keine Kugeln oder 
-        Ausrüstung im Voraus, wenn Sie noch nicht Bescheid wissen; wir beraten Sie.</p>
+            <div class="col-12 col-sm-6">
 
-        <p>Später sollten Sie mit folgender Anfangs-Investition rechnen: 1 Satz Wettkampf-Kugeln 
-        (3 Stück) in guter Qualität ca. 180 Euro, Maßband 3 Euro, Zielkugeln Stück 2 Euro, 
-        Kugeltasche ca. 10-40 Euro.</p>
+                <p>Wenn Sie das Spiel kennen lernen wollen unter Anleitung im Verein, 
+                dann kommen Sie abends ungefähr zwischen 17 und 19 Uhr vorbei auf unserem 
+                <a target="_blank"href="adresse 2.php">Bouleplatz</a> im Seepark in Freiburg. Bei trockenem Wetter 
+                sind immer Spieler anwesend. Samstags spielen wir ab 13.30 Uhr in den Abend. Sie können auch 
+                <a target="_blank"href="kontakt.php">Kontakt</a> aufnehmen mit Nik Heyder.</p> 
+                
+                <p>Kommen Sie auf unseren Bouleplatz und sprechen Sie Spieler an und sagen Sie diesen, dass Sie Anfänger 
+                sind und Boule spielen wollen. Wir nehmen Sie unter unsere Fittiche, leiten Sie an und 
+                spielen mit Ihnen.</p>
 
-        <p>Deutsche Lehrbücher für die Basics des Pétanquespiels bis hin zu 
-        Literatur für Turnierspieler finden Sie kommentiert in der 
-        <a target="_blank"href="http://www.buchhandlunghenzler.de/bhneu/literaturliste_boule/literaturliste.htm">
-        Literaturliste Boule der Buchhandlung Henzler</a> (ist allerdings schon länger nicht aktualisiert worden).</p>
+                <p>Es genügt, wenn Sie in normaler Freizeitkleidung zu uns kommen. Fürs Erste können wir 
+                Ihnen die Kugeln auf dem Platz kostenfrei stellen. Bitte kaufen Sie keine Kugeln oder 
+                Ausrüstung im Voraus, wenn Sie noch nicht Bescheid wissen; wir beraten Sie.</p>
 
-        <p>Aktuelle Literatur finden Sie im Web, wenn Sie "Bücher Petanque" eingeben.</p>
+        	</div>
 
-        <p>Nach ca. 3 Monaten bei uns sollten Sie sich entscheiden, ob Sie weiter mit uns spielen. 
-        Dazu sollten Sie dann in unseren Verein eintreten. Der 
-        <a target="_blank"href="dokumente/Beitragsordnung_2.2.pdf">Jahresbeitrag</a> beträgt 75 
-        Euro (ermäßigt 57 Euro, Kinder beitragsfrei). Eine Spielerlizenz kostet extra 16 Euro.</p>
+            <div class="col-12 col-sm-6">
+
+                <p>Später sollten Sie mit folgender Anfangs-Investition rechnen: 1 Satz Wettkampf-Kugeln< (3 Stück) 
+                in guter Qualität ca. 180 Euro, Maßband 3 Euro, Zielkugeln Stück 2 Euro, Kugeltasche ca. 10-40 Euro.</p>
+
+                <p>Deutsche Lehrbücher für die Basics des Pétanquespiels bis hin zu 
+                Literatur für Turnierspieler finden Sie kommentiert in der 
+                <a target="_blank"href="http://www.buchhandlunghenzler.de/bhneu/literaturliste_boule/literaturliste.htm">
+                Literaturliste Boule der Buchhandlung Henzler</a> (ist allerdings schon länger nicht aktualisiert).</p>
+
+                <p>Aktuelle Literatur finden Sie im Web, wenn Sie "Bücher Petanque" eingeben.</p>
+
+                <p>Nach ca. 3 Monaten bei uns sollten Sie sich entscheiden, ob Sie weiter mit uns spielen. 
+                Dazu sollten Sie dann in unseren Verein eintreten. Der 
+                <a target="_blank"href="dokumente/Beitragsordnung_2.2.pdf">Jahresbeitrag</a> beträgt 75 
+                Euro (ermäßigt 57 Euro, Kinder beitragsfrei). Eine Spielerlizenz kostet extra 16 Euro.</p>
+
+            </div>
+
+        </div>
 
     </div>
 

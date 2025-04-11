@@ -28,59 +28,63 @@
         <img src="imagefolder/Jubiläumsturnier_2022/TeasJubi2022.jpg" title="Jubiläumsturnier 2022" alt="Jubiläumsturnier 2022">
     </teaser>
 
-    <div>
+    <div class="container-fluid">
 
-        <div id="ergebnis">
+        <div class="row">
 
-            <h2>Ergebnis 22. Jubil&auml;umsturnier 2022 (Doublette Formée)</h2>
+            <h2 class="ps-0 mt-4">Ergebnis 22. Jubil&auml;umsturnier 2022 (Doublette Formée)</h2>
 
-			<p>Hier die <a target="_blank"href="imagefolder/Jubiläumsturnier_2022/ErgJubi2022.pdf">Ergebnisliste</a> als PDF.</p>
+            <div class="col-12 col-sm-12 ps-0 pe-0">
 
-            <p><strong>Ergebnis A-Turnier</strong></parse_str>
+			    <p>Hier die <a target="_blank"href="imagefolder/Jubiläumsturnier_2022/ErgJubi2022.pdf">Ergebnisliste</a> als PDF.</p>
 
-            <p>1. Nicolas Dosser und Ludovic Loth;<br>
-            2. Jacques Pepin und Karl-Heinz Klefenz;<br>
-            3. Muriel Hess und Sascha Wagner;<br>
-            3. David Maerklen und Roland Zimmermann.<br>
-            5. Elke Wunderer und Arthur Kirsch;</br>
-            5. Thomas Grünewald und Bernhard Meyer;<br>
-            5. Stefan Ams und Fabian Ehret;<br>
-            >5. Laurent Krebs und Regis Huber.</p>
+                <p style="color: var(--sub-color);"><strong>Ergebnis A-Turnier</strong></parse_str>
 
-            <p><strong>Ergebnis B-Turnier</strong></p>
+                <p>1. Nicolas Dosser und Ludovic Loth;<br>
+                2. Jacques Pepin und Karl-Heinz Klefenz;<br>
+                3. Muriel Hess und Sascha Wagner;<br>
+                3. David Maerklen und Roland Zimmermann.<br>
+                5. Elke Wunderer und Arthur Kirsch;</br>
+                5. Thomas Grünewald und Bernhard Meyer;<br>
+                5. Stefan Ams und Fabian Ehret;<br>
+                5. Laurent Krebs und Regis Huber.</p>
 
-            <p>1. Isabelle Cecere und Paul Abraham;<br>
-            2. Albrecht Heim und Peter Frank;<br>
-            3. Pascal Delacote und Veroljub Dinucovic;<br>
-            3. Antoni Weiss undSteve Hoerr.<br>
+                <p style="color: var(--sub-color);"><strong>Ergebnis B-Turnier</strong></p>
 
-            <p><strong>Ergebnis C-Turnier</strong></p>
+                <p>1. Isabelle Cecere und Paul Abraham;<br>
+                2. Albrecht Heim und Peter Frank;<br>
+                3. Pascal Delacote und Veroljub Dinucovic;<br>
+                3. Antoni Weiss undSteve Hoerr.<br>
 
-            <p>1. Fabrice Roy und Dieter Zimmer;<br>
-            2. Sascha Blum und Rene Kutsch;<br>
-            3. Nico und Harald Öschger;<br>
-            3. Rita Kurz und Wolfgang Behr.</p>
+                <p style="color: var(--sub-color);"><strong>Ergebnis C-Turnier</strong></p>
 
-            <h2>Bericht</h2>
+                <p>1. Fabrice Roy und Dieter Zimmer;<br>
+                2. Sascha Blum und Rene Kutsch;<br>
+                3. Nico und Harald Öschger;<br>
+                3. Rita Kurz und Wolfgang Behr.</p>
 
-            <p>Am Dienstag, 1. November fand das 22. Jubiläumsturnier bei bewölktem trockenen 
-            Wetter statt. Es kamen 104 Équipes in den Seepark; somit wurde erstmals die 
-            magische Marke von 100 Mannschaften geknackt. Darunter waren traditionell viele 
-            Franzosen, die wie immer um die vorderen Plätze mitspielten. Für das leibliche 
-            Wohl gab es über Steaks, Würste und Kartoffelsuppe bis hin zu diversen Salaten 
-            für jeden etwas. Kuchen gab es auch reichlich.</p>
+                <h2>Bericht</h2>
 
-            <p>Die Partien waren heiß umkämpft und spannend. Im Halbinale A z.B. war eine 
-            Partie beim Stand 11:12 fast gewonnen als eine Punktkugel in fragiler Lage einen 
-            schwachen Impuls bekam und weglief. Der Gegner war leer. Die Équipe versuchte mit 
-            4 Kugeln auf der Hand mindestens einen Punkt zu holen um im Spiel zu bleiben, was 
-            nicht gelang.</p>
+                <p>Am Dienstag, 1. November fand das 22. Jubiläumsturnier bei bewölktem trockenen 
+                Wetter statt. Es kamen 104 Équipes in den Seepark; somit wurde erstmals die 
+                magische Marke von 100 Mannschaften geknackt. Darunter waren traditionell viele 
+                Franzosen, die wie immer um die vorderen Plätze mitspielten. Für das leibliche 
+                Wohl gab es über Steaks, Würste und Kartoffelsuppe bis hin zu diversen Salaten 
+                für jeden etwas. Kuchen gab es auch reichlich.</p>
 
-            <p>Die letzten Spieler gingen nach 22 Uhr.</p>
+                <p>Die Partien waren heiß umkämpft und spannend. Im Halbinale A z.B. war eine 
+                Partie beim Stand 11:12 fast gewonnen als eine Punktkugel in fragiler Lage einen 
+                schwachen Impuls bekam und weglief. Der Gegner war leer. Die Équipe versuchte mit 
+                4 Kugeln auf der Hand mindestens einen Punkt zu holen um im Spiel zu bleiben, was 
+                nicht gelang.</p>
 
-    		<p>Das Turnier leiteten souverän Andreas Herrman, Harry Maugeais und Christian Fakler. 
-            Wir danken dem Schiedsrichter Peter Mittler für seinen Einsatz. Weiter danken wir 
-            unserer Ersten für den geleisteten Service.</p>
+                <p>Die letzten Spieler gingen nach 22 Uhr.</p>
+
+                <p>Das Turnier leiteten souverän Andreas Herrman, Harry Maugeais und Christian Fakler. 
+                Wir danken dem Schiedsrichter Peter Mittler für seinen Einsatz. Weiter danken wir 
+                unserer Ersten für den geleisteten Service.</p>
+
+            </div>
                 
         </div>
 
