@@ -56,17 +56,48 @@
 
 					<div class="pe-1">
 
+						<h3>Der Sommercup startet</h3>
+
 						<div class="galerie-foto">
-							<a data-fancybox="gallery" href="images/WebLexwareOpen2025big.png">
-							<img src="images/WebLexwareOpen2025big.png" alt="1. Lexware Open 2025"
-							title="1. Lexware Open 2025" style="margin-bottom: 1em;" /></a>
+							<a data-fancybox="gallery" href="images/WebSommercup2025big.jpg">
+							<img src="images/WebSommercup2025big.jpg" alt="Sommercup 2025"
+							title="Sommercup 2025" style="margin-bottom: 1em;" /></a>
 						</div>
 
-						<h3>Start der Ligasaison 2025</h3>
+						<p>Am Samstag, dem 19. April 2025 spielen wir im Seepark ab 13.30 Uhr Doublette Supermêlée. Das Spiel 
+						ist lizenzfrei und jedermann ist herzlich eingeladen mit uns mitzuspielen.</p>
+
+						<p>Der Einsatz pro Spieler beträgt 5 EUR, davon gehen 1.50 EUR in den Preisgeldtopf für Abschlussturnier 
+						und Endrangliste. Cash pro Turnier und Spieler sind 3,50 EUR.</p>
+
+						<div class="galerie-foto">
+							<a data-fancybox="gallery" href="images/WebSommercup20250412big.jpg">
+							<img src="images/WebSommercup20250412big.jpg" alt="Sommercup 2025"
+							title="Sommercup 2025" style="margin-bottom: 1em;" /></a>
+						</div>
+
+						<p>Am 12. April 2025 spielten 32 Spieler und Spielerinnen Doublette Formée bei sommerlichen 25 Grad.</p>
+
+						<p><strong>Die Sieger sind:</strong><br>
+						1. Karin Sumser und Harald Maier,<br>
+						2. Hansjörg Grund und Andreas Herrmann,<br>
+						3. Jutta Schmidt und Wolfgang Behr<br>
+						4. Philibert Tsila und Joucef Hamoudi.</p>
+					
+						<h3>Beginn der Ligasaison</h3>
 
 						<p style="color: var(--main-color);"><b>Baden-Württemberg-Liga</b></p>
 
 						<p>Unsere <i>Erste Mannschaft</i> trat in Ötisheim an zur ersten Runde der BaWü-Liga.</p>
+
+					</div>
+
+				</div>
+
+				<div class="col-12 col-sm-4">
+
+					<div class="px-1">
+
 
 						<p>Gleich in der ersten Begegnung musste sie eine knappe Niederlage gegen den BC Konstanz 1
 							hinnehmen mit 2:3.</p>
@@ -80,30 +111,16 @@
 						<p>Somit war ein guter Start in die Saison gelungen mit einem 4. Platz von 12.
 							Gratulation!</p>
 
-						<div class="galerie-foto">
-							<a data-fancybox="gallery" href="images/WebRLSuedbig1.jpg">
-							<img src="images/WebRLSuedbig1.jpg" alt="Regionalliga Süd im Seepark"
-							title="Regionalliga Süd im Seepark" style="margin-bottom: 1em;" /></a>
-						</div>
-
-					</div>
-
-				</div>
-
-				<div class="col-12 col-sm-4">
-
-					<div class="px-1">
-
 						<p style="color: var(--main-color);"><b>Regionalliga Süd</b></p>
 
-						<p>Am 5. April 2025 begrüßte der BPV die Regionalliga Süd im Seepark. Bei strahlendem Sonnenschein
-							und frühsommerlichen Temperaturen fand der Leistungsvergleich statt.</p>
-
 						<div class="galerie-foto">
-							<a data-fancybox="gallery" href="images/WebRLSuedbig4.jpg">
-							<img src="images/WebRLSuedbig4.jpg" alt="Regionalliga Süd im Seepark"
+							<a data-fancybox="gallery" href="images/WebRLSuedbig2.jpg">
+							<img src="images/WebRLSuedbig2.jpg" alt="Regionalliga Süd im Seepark"
 							title="Regionalliga Süd im Seepark" style="margin-bottom: 1em;" /></a>
 						</div>
+
+						<p>Am 5. April 2025 begrüßte der BPV die Regionalliga Süd im Seepark. Bei strahlendem Sonnenschein
+						und frühsommerlichen Temperaturen fand der Leistungsvergleich statt.</p>
 
 						<p Style="color: var(--sub-color);"><b>Zweite Mannschaft</b></p>
 
@@ -115,11 +132,6 @@
 
 						<p>Von drei Begegnungen gewann BPV 2 zwei und steht nach dem ersten Spieltag auf einem guten 4. Platz.</p>
 
-						<div class="galerie-foto">
-							<a data-fancybox="gallery" href="images/WebRLSuedbig3.jpg">
-							<img src="images/WebRLSuedbig3.jpg" alt="Regionalliga Süd im Seepark"
-							title="Regionalliga Süd im Seepark" style="margin-bottom: 1em;" /></a>
-						</div>
 
 					</div>
 
@@ -128,6 +140,12 @@
 				<div class="col-12 col-sm-4">
 
 					<div class="ps-1">
+
+						<div class="galerie-foto">
+							<a data-fancybox="gallery" href="images/WebRLSuedbig1.jpg">
+							<img src="images/WebRLSuedbig1.jpg" alt="Regionalliga Süd im Seepark"
+							title="Regionalliga Süd im Seepark" style="margin-bottom: 1em;" /></a>
+						</div>
 
 						<p Style="color: var(--sub-color);"><b>Dritte Mannschaft</b></p>
 
@@ -139,22 +157,19 @@
 
 						<p>BPV 3 bewegt sich mit dem 8. PLatz im Mittelfeld der Liga.</p>
 
-						<p>Interessant ist, dass BPV 2 gegen Karlsruhe verlor, während BPV 3 gegen Karlsruhe deutlich gewann.</p>
-
 						<div class="galerie-foto">
-							<a data-fancybox="gallery" href="images/WebRLSuedbig2.jpg">
-							<img src="images/WebRLSuedbig2.jpg" alt="Regionalliga Süd im Seepark"
+							<a data-fancybox="gallery" href="images/WebRLSuedbig4.jpg">
+							<img src="images/WebRLSuedbig4.jpg" alt="Regionalliga Süd im Seepark"
 							title="Regionalliga Süd im Seepark" style="margin-bottom: 1em;" /></a>
 						</div>
 
 						<p>Unser Dank gilt der Vierten und Fünften Mannschaft die im Service die Spieler versorgte und so zu einem
 							gelungenen Ligatag beitrug.</p>
 
-
 						<div class="galerie-foto">
-							<a data-fancybox="gallery" href="images/WebSommercup2025big.jpg">
-							<img src="images/WebSommercup2025big.jpg" alt="Sommercup 2025"
-							title="Sommercup 2025" /></a>
+							<a data-fancybox="gallery" href="images/WebLexwareOpen2025big.png">
+							<img src="images/WebLexwareOpen2025big.png" alt="1. Lexware Open 2025"
+							title="1. Lexware Open 2025" style="margin-bottom: 1em;" /></a>
 						</div>
 
 					</div>

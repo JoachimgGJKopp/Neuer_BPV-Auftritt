@@ -27,7 +27,7 @@
     </nav2>
 
     <teaser>
-        <img src="images/4Mann2024.jpg" title="4. Mannschaft des BPV Freiburg" alt="4. Mannschaft des BPV Freiburg">
+        <img src="images/4Mann2025.jpg" title="4. Mannschaft des BPV Freiburg" alt="4. Mannschaft des BPV Freiburg">
         <h2 style="margin-top: 1em;">4. Mannschaft des BPV Freiburg</h2>
     </teaser>
 

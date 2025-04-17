@@ -190,7 +190,7 @@
         }
 
         main { 
-            margin-top: -6em;   /* dreispaltig: index, adresse */
+            margin-top: -6em;   /* dreispaltig: index, adresse, hexen, archive */
             max-width: 100%;
             color: #333333;
             display: grid;
@@ -227,31 +227,31 @@
             display: grid;
         }
 
-                #lexware-img {
-                    float: left;
-                    margin: 0.5em 0.5em 0em 0em;
-                    max-width: 100%;
-                }
+            #lexware-img {
+                float: left;
+                margin: 0.5em 0.5em 0em 0em;
+                max-width: 100%;
+            }
 
-                #oeschger-img {
-                    float: left;
-                    margin: 0.5em 0.5em 0em 0em;
-                    max-width: 100%;
-                }
+            #oeschger-img {
+                float: left;
+                margin: 0.5em 0.5em 0em 0em;
+                max-width: 100%;
+            }
 
 
-                #sparkasse-img {
-                    float: left;
-                    margin: 0.5em 0.5em 0.2em 0em;
-                    max-width: 100%;
-                } 
+            #sparkasse-img {
+                float: left;
+                margin: 0.5em 0.5em 0.2em 0em;
+                max-width: 100%;
+            } 
 
-                #mayer-img {
-                    float: left;
-                    border: 1px solid darkgray;
-                    margin: 0.5em 0.5em 0em 0em;
-                    max-width: 100%;
-                }
+            #mayer-img {
+                float: left;
+                border: 1px solid darkgray;
+                margin: 0.5em 0.5em 0em 0em;
+                max-width: 100%;
+            }
 
         #kontakt {
 	        max-width: 100%;

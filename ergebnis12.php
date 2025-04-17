@@ -57,7 +57,6 @@
 
 			<p>Die Turnierleitung und Bewirtung wurde durch die zweite Mannschaft sichergestellt. Die Mannschaft wurde durch zahlreiche Kuchenspenden unterstützt.</p>
 			<p>Wir bedanken uns bei der zweiten Mannschaft für die souveräne Durchführung des Turniers. Auch möchten wir allen Kuchenspenderinnen ein herzliches Dankeschön sagen.</p>
-
 						
         </div>
 
