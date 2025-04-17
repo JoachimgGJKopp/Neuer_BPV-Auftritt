@@ -69,6 +69,8 @@
                 <p>Die Turnierleitung leistete Andreas Herrmann souverän. Der Dank des BPV gilt 
                 ihm sowie der gesamten Dritten Mannschaft, die den Service erbrachte. Wir danken 
                 auch der Helferin Muazzez, die Unmengen belegte Brötchen schmierte.</p>
+
+            </div>
         
         </div>
 

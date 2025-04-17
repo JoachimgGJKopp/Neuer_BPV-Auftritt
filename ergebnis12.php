@@ -36,28 +36,30 @@
 
             <div class="col-12 col-sm-12 ps-0 pe-0">
 
-	        <p style="color: var(--sub-color);"><strong>A-Turnier:</strong></p>
+                <p style="color: var(--sub-color);"><strong>A-Turnier:</strong></p>
 
-			<p>1. Platz: Heiner Brecht mit Joachim Storl,<br>
-			2. Platz: Bruno Lesoeur mit Bernard Schwartz,<br>
-			3. Platz: Oliver Anders mit Rita Kurz sowie Clement Melnikoff mit Jessica Schultz.</p>
+                <p>1. Platz: Heiner Brecht mit Joachim Storl,<br>
+                2. Platz: Bruno Lesoeur mit Bernard Schwartz,<br>
+                3. Platz: Oliver Anders mit Rita Kurz sowie Clement Melnikoff mit Jessica Schultz.</p>
 
-			<p style="color: var(--sub-color);"><strong>B-Turnier:</strong></p>
+                <p style="color: var(--sub-color);"><strong>B-Turnier:</strong></p>
 
-			<p>1. Platz: Christophe Riff und Sebastien Tromeur,<br>
-			2. Platz: Fa Somsringam mit Gerd Helmerich aus Münster NRW,<br>
-			3. Platz: Christian Fakler mit Andrej Stark sowie Kai und Abdel aus Villingen-Schwenningen.</p>
+                <p>1. Platz: Christophe Riff und Sebastien Tromeur,<br>
+                2. Platz: Fa Somsringam mit Gerd Helmerich aus Münster NRW,<br>
+                3. Platz: Christian Fakler mit Andrej Stark sowie Kai und Abdel aus Villingen-Schwenningen.</p>
 
-            <h2>Bericht</h2>
+                <h2>Bericht</h2>
 
-            <p>Bei kühlem aber trockenem Wetter kamen am 14. September 28 Doubletten zu unserem Herbstturnier in den Seepark.</p>
+                <p>Bei kühlem aber trockenem Wetter kamen am 14. September 28 Doubletten zu unserem Herbstturnier in den Seepark.</p>
 
-			<p>Es wurden 4 Spiele im Schweizer System gespielt. Anschliessend spielten die ersten vier Doubletten Halbfinale und Finale im A-Turnier. 
-            Parallel dazu spielten die zweiten vier Doubletten Halbfinale und Finale im B-Turnier.</p>
+                <p>Es wurden 4 Spiele im Schweizer System gespielt. Anschliessend spielten die ersten vier Doubletten Halbfinale und Finale im A-Turnier. 
+                Parallel dazu spielten die zweiten vier Doubletten Halbfinale und Finale im B-Turnier.</p>
 
-			<p>Die Turnierleitung und Bewirtung wurde durch die zweite Mannschaft sichergestellt. Die Mannschaft wurde durch zahlreiche Kuchenspenden unterstützt.</p>
-			<p>Wir bedanken uns bei der zweiten Mannschaft für die souveräne Durchführung des Turniers. Auch möchten wir allen Kuchenspenderinnen ein herzliches Dankeschön sagen.</p>
-						
+                <p>Die Turnierleitung und Bewirtung wurde durch die zweite Mannschaft sichergestellt. Die Mannschaft wurde durch zahlreiche Kuchenspenden unterstützt.</p>
+                <p>Wir bedanken uns bei der zweiten Mannschaft für die souveräne Durchführung des Turniers. Auch möchten wir allen Kuchenspenderinnen ein herzliches Dankeschön sagen.</p>
+                
+            </div>
+                            
         </div>
 
     </div>

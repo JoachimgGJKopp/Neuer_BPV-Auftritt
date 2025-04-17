@@ -69,6 +69,8 @@
 
                 <p>Das Frühlingsturnier 2024 ist gut gelungen. Die Stimmung auf dem Platz war 
                 fröhlich. Dies war ein lohnender Tag für unseren Sport.</p>
+
+            </div>
 						
         </div>
 

@@ -77,7 +77,9 @@
 
         </div>
 
-    </main>
+        </main>
+
+    </div>
 
 
 	<script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui@4.0.0/dist/fancybox.umd.js"></script>

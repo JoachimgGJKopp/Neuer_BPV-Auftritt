@@ -76,6 +76,8 @@
                 Turnierleitung, bei Raymond Maier (Boule 95 Denzlingen) für die spontane Unterstützung der 
                 Turnierleitung. Besonderen Dank auch den Spendern von Kuchen und Salaten.</p>
 
+            </div>
+
         </div>
 
     </div>

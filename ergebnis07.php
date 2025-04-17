@@ -59,6 +59,8 @@
 
                 <p>Die 3. Mannschaft des BPV leistete den Service zur Zufriedenheit unserer Gäste 
                 und stellte die Turnierleiter Helmut Köttner und Joachim Kopp.</p>
+
+            </div>
                 
         </div>
 
