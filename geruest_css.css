@@ -10,6 +10,25 @@
             background-attachment: fixed;
         }
 
+        body.galerie-page {
+            background: snow !important; /* Hintergrundfarbe für die Galerie */
+        }
+        
+        body.galerie-page::before {
+            content: "";
+            position: fixed;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: snow;
+            z-index: -1; /* Hinter den Inhalt setzen */
+        }
+        
+        body.galerie-page html {
+            background: none !important; /* Entfernt den Hintergrund des html-Elements */
+        }
+
         body {   
             font-family: Verdana, Geneva, Tahoma, sans-serif;
             line-height: 1.5;

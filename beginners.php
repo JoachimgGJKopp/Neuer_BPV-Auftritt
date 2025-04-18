@@ -58,12 +58,7 @@
                 <p>Später sollten Sie mit folgender Anfangs-Investition rechnen: 1 Satz Wettkampf-Kugeln< (3 Stück) 
                 in guter Qualität ca. 180 Euro, Maßband 3 Euro, Zielkugeln Stück 2 Euro, Kugeltasche ca. 10-40 Euro.</p>
 
-                <p>Deutsche Lehrbücher für die Basics des Pétanquespiels bis hin zu 
-                Literatur für Turnierspieler finden Sie kommentiert in der 
-                <a target="_blank"href="http://www.buchhandlunghenzler.de/bhneu/literaturliste_boule/literaturliste.htm">
-                Literaturliste Boule der Buchhandlung Henzler</a> (ist allerdings schon länger nicht aktualisiert).</p>
-
-                <p>Aktuelle Literatur finden Sie im Web, wenn Sie "Bücher Petanque" eingeben.</p>
+                <p>Aktuelle deutsche Literatur finden Sie im Web, wenn Sie "Bücher Petanque" oder "Bücher Boule" eingeben.</p>
 
                 <p>Nach ca. 3 Monaten bei uns sollten Sie sich entscheiden, ob Sie weiter mit uns spielen. 
                 Dazu sollten Sie dann in unseren Verein eintreten. Der 

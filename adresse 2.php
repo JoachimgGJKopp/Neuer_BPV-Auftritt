@@ -52,7 +52,7 @@
                         Schlettstadter Straße abbiegen. Vorne an der Wendeplatte fällt links 
                         ein Weg ab zum Seepark. Nach 50 m rechts ist der Bouleplatz.</p> 
                         
-                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d10677
+                        <iframe class="mb-3" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d10677
                         .208312039083!2d7.81702374424257!3d48.007873521723916!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13
                         .1!3m3!1m2!1s0x47911b0b3b95335b%3A0x81c6733eff465d7e!2sSchlettstadter%20Str
                         .%2045%2C%2079110%20Freiburg%20im%20Breisgau!5e0!3m2!1sde!2sde!4v1724054247230!5m2!1sde!2sde" 
@@ -86,8 +86,8 @@
                         <h3>Mit der Straßenbahn</h3>
 
                         <p>Mit der Linie 4 (Messe) vom Bertoldsbrunnen über den Hauptbahnhof nach der Haltestelle 
-                        Berliner Allee. Zum linken Eck Ensisheimer Straße / Berliner Allee gehen. 20 m links vom Eck 
-                        führt hinter dem Eisstadion ein Fußweg nach rechts Richtung Schlettstadter Straße durch. 
+                        Berliner Allee. Über die Ampeln zum linken Eck Ensisheimer Straße / Berliner Allee gehen. 20 m links vom Eck 
+                        führt zwischen dem Fußballplatz und dem Eisstadion ein Fußweg nach rechts Richtung Schlettstadter Straße durch. 
                         Von der Wendeplatte am Ende der Schlettstadter Straße fällt links ein Weg ab zum Seepark. 
                         Nach 50 m rechts ist der Bouleplatz.</p>
 

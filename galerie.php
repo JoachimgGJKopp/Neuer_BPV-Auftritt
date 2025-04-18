@@ -55,6 +55,8 @@ foreach($bilder_gross as $bild_gross) {
   </style>
 </head>
 <body>
+
+    <body class="galerie-page">
     
     <button id="btnMenu">
         <img src="images/menu.png" alt="Menu">

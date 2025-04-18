@@ -43,7 +43,7 @@
                 Wir kamen an, wo wir hin wollten, ohne Umwege, und wer auf dieser Bouleanlage noch nicht 
                 gewesen ist, der hat in seinem Leben etwas versäumt.</p>
 
-                <p>Ich bin überwältigt von der Lage und den riesigen dickstämmigen Bäumen, in voller 
+                <p class="mb-0">Ich bin überwältigt von der Lage und den riesigen dickstämmigen Bäumen, in voller 
                 Blätterpracht, die überall herumstehen, ohne im Weg zu sein, und den 26 kreativ ins Gelände 
                 eingebetteten Plätzen. 18 davon, wie parademäßig in Reih und Glied, und die restlichen in</p> 
 

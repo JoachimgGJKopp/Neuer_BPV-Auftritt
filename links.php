@@ -35,16 +35,16 @@
 
             <div class="row">
 
-                <div class="col-12 col-sm-4 col-md-3">
+                <div class="col-12 col-sm-4 col-md-3 ps-0">
 
                     <h2>Verbände</h2>
 
                     <p><a target="_blank" href="http://www.petanque-bw.de">BBPV Baden-Württemberg</a></p>
-                    <p><a target="_blank" href="http://www.petanque-dpv.de">Deutscher Petanque Verband</a></p>
-                    <p><a target="_blank" href="https://www.ffpjp.org/">Französischer Petanque Verband</a></p>
-                    <p><a target="_blank" href="http://www.fipjp.org/">F.I.P.J.P. - Fédération Internationale de Pétanque et Jeu Provençal</a></p>
+                    <p style="line-height: 1.3em;"><a target="_blank" href="http://www.petanque-dpv.de">Deutscher Pétanque Verband</a></p>
+                    <p style="line-height: 1.3em;"><a target="_blank" href="https://www.ffpjp.org/">Französischer Pétanque Verband</a></p>
+                    <p style="line-height: 1.3em;"><a target="_blank" href="http://www.fipjp.org/">F.I.P.J.P. - Fédération Internationale de Pétanque et Jeu Provençal</a></p>
 
-                    <h2>Verband Regional</h2>
+                    <h2>Verbände Regional</h2>
                 
                     <p><a target="_blank"href="http://www.Rhein-Neckar-Liga.de/">Ligaregion Rhein-Neckar</a><br>
                     <a target="_blank"href="https://www.mittelbaden-boule.de/">Ligaregion Mittelbaden</a><br>
@@ -53,7 +53,7 @@
 
                 </div>
 
-                <div class="col-12 col-sm-4 col-md-3">
+                <div class="col-12 col-sm-4 col-md-3 ps-0">
 
                     <h2>Vereine</h2>
 
@@ -70,24 +70,20 @@
                     <a target="_blank"href="http://www.boulefreunde-rheinhausen-2010.de">Boulefreunde-Rheinhausen</a><br>
                     <a target="_blank"href="http://www.boule13waldkirch.de/">Boule 13 Waldkirch e.V.</a></p>
 
-                    <h2>Boulekurse</h2>
-
-                    <p><a target="_blank"href="http://www.boulekurse.de">Training Sönke Backens</a></p>
-
                 </div>
                 
-                <div class="col-12 col-sm-4 col-md-3">
+                <div class="col-12 col-sm-4 col-md-3 ps-0">
 
                     <h2>Boule-Spieler</h2>
 
-                    <p><a target="_blank"href="https://www.famille-rocher.com/index.php">Spieler Dylan Rocher</a><br>
-                    <a target="_blank"href="http://www.quintaisport.fr/">Spieler Phillippe Quintais</a><br>
-                    <a target="_blank"href="http://bruno.leboursicaud.free.fr/">Spieler Bruno Leboursicaud</a></p>
+                    <p><a target="_blank"href="https://www.famille-rocher.com/index.php">Dylan Rocher</a><br>
+                    <a target="_blank"href="http://www.quintaisport.fr/">Phillippe Quintais</a><br>
+                    <a target="_blank"href="http://bruno.leboursicaud.free.fr/">Bruno Leboursicaud</a></p>
 
 
                     <h2>Kugelverkäufer</h2>
 
-                    <p><a target="_blank"href="https://www.bouleundwein.de/">Boule und Wein Frank Höfer</a><br>
+                    <p><a target="_blank"href="https://www.bouleundwein.de/">Boule & Wein Frank Höfer</a><br>
                     <a target="_blank"href="http://www.boule-petanque.de">Boule-Maus</a><br>
                     <a target="_blank"href="http://www.boulesmatz.de/">Boules Matz</a><br>
                     <a target="_blank"href="http://www.boule.ch/">Boule.ch </a><br>
@@ -100,14 +96,17 @@
 
                 </div>
                 
-                <div class="col-12 col-sm-4 col-md-3">
+                <div class="col-12 col-sm-4 col-md-3 ps-0 pe-0">
 
-                    <h2>Literatur / Video</h2>
+                    <h2>Boulekurse</h2>
 
-                    <p><a target="_blank"href="http://www.buchhandlunghenzler.de/bhneu/literaturliste_boule/literaturliste.htm">Literaturliste Boule der<BR>Buchhandlung Henzler</a><br>
-                    <a target="_blank"href="http://www.aufershop.de/Essay.php">Essays Boule au fer</a><br>
-                    <a target="_blank"href="http://www.videos-petanque.fr/top_videos.html">Video P&eacute;tanque</a><br>
-                    <a target="_blank"href="http://citesport.com/fr/petanque/programme-tv.html">Citesport Pétanque TV</a></p>
+                    <p><a target="_blank"href="http://www.boulekurse.de">Training Sönke Backens</a></p>
+
+                    <h2>Video</h2>
+
+                    <p><a target="_blank"href="https://www.youtube.com/@DPVvideo/playlists">Videokanal DPV</a><br>
+                    <a target="_blank"href="https://www.youtube.com/channel/UCZeAfPeaRc_es11c0YSOhGg">Boulistenaute (F)</a><br>
+                    <a target="_blank"href="https://www.boulistenaute.com/">Boulistenaute TV (F)</a></p>
 
                     <h2>Kugelhersteller</h2>
 

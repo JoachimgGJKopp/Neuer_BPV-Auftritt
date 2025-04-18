@@ -40,7 +40,7 @@
 
             <div class="row">
 			
-                <div class="col-12 col-sm-4">
+                <div class="col-12 col-sm-4 ps-0">
 
                     <h2>2025</h2>
                     <p><a target="_blank" href="archiv/screenshot20250203.jpg">03.02.2025</a> Nachruf Max Blechschmidt<br>
@@ -54,12 +54,12 @@
 
                 </div>
 
-                <div class="col-12 col-sm-4">
+                <div class="col-12 col-sm-4 ps-0">
 
 
                 </div>
 
-                <div class="col-12 col-sm-4">
+                <div class="col-12 col-sm-4 ps-0 pe-0">
 
                 </div>
 
