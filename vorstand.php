@@ -29,7 +29,7 @@
 
     <teaser id="teaser">
         <img src="images/Vorstand/TeasVorstand2024.jpg" alt="Vorstand" title="Vorstand" style="margin-bottom: 1em;"/>
-        <h2 style="margin-top: 1em; margin-bottom: 2em">Vorstand des BPV Freiburg</h2>
+        <h2 style="margin-top: 1em; margin-bottom: 2em">Vorstand</h2>
     </teaser>
 
     <div class="container-fluid">

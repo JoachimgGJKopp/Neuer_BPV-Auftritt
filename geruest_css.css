@@ -2,7 +2,7 @@
 
         
         html {       /* Hintergrundbild fixed */
-            background: url(images/Hintergruende/April2025.jpg) no-repeat center center fixed;
+            background: url(images/Hintergruende/Mai2025.jpg) no-repeat center center fixed;
             -webkit-background-size: cover;
             -moz-background-size: cover;
             -o-background-size: cover;
@@ -65,9 +65,8 @@
         h1{ font-size: 180%; }
         h2{ font-size: 140%; }
         h3{ font-size: 120%; }
-        h4{ font-size: 120%; }
 
-        h1,h2,h3,h4 {
+        h1,h2,h3 {
             color: var(--main-color);
             font: bold 10px Times;
             margin-bottom: 10px;
@@ -121,6 +120,18 @@
         @media (max-width: 768px) {     /* Schriftgröße für Bildschirme mit einer Breite von maximal 768px (z. B. mobile Geräte)*/ 
             p {
             font-size: 1.3rem;  /*Größere Schriftgröße für mobile Geräte*/ 
+            }
+
+            body h1 {
+            font-size: 2.4rem !important; 
+            }
+
+            body h2 {
+            font-size: 2.2rem !important; 
+            }
+
+            body h3 {
+            font-size: 2rem !important; 
             }
         } 
 
@@ -248,7 +259,7 @@
 
             #lexware-img {
                 float: left;
-                margin: 0.5em 0.5em 0em 0em;
+                margin: 0.2em 0.5em 0em 0em;
                 max-width: 100%;
             }
 

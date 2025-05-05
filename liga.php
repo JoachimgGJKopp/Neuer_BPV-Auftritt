@@ -29,7 +29,7 @@
 
     <teaser id="teaser">
         <img src="images/TeasLiga.jpg" alt="Turnier im Seepark" title="Turnier im Seepark" style="margin-bottom: 1em;"/>
-        <h2 style="margin-top: 1em; margin-bottom: 2em;">Information zum Ligasport des BPV Freiburg</h2>
+        <h2 style="margin-top: 1em; margin-bottom: 2em;">Information zum Ligasport</h2>
     </teaser>
 
     <div class="container-fluid">

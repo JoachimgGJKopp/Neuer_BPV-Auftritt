@@ -28,7 +28,7 @@
 
     <teaser>
         <img src="images/1Mann2023.jpg" title="1. Mannschaft des BPV Freiburg" alt="1. Mannschaft des BPV Freiburg">
-        <h2 style="margin-top: 1em;">1. Mannschaft des BPV Freiburg</h2>
+        <h2 style="margin-top: 1em;">1. Mannschaft</h2>
     </teaser>
 
     <div class="container-fluid">

@@ -10,18 +10,17 @@
     <title>Badischer Pétanque-Verein e.V. Freiburg</title>
     <meta name="Author" content="Joachim kopp" />
 
-    <meta name="description" content="Dies ist die offizielle Webseite des 
-    Badischen Pétanque-Vereins e.V. Freiburg. Sie finden hier aktuelle Informationen 
-    über den Badischen Pétanque-Verein e.V., Ergebnisse von Ligabegegnungen 
-    und Turnieren mit Tabellen sowie Informationen zu den Turnieren des 
-    Badischen Pétanque-Vereins." />
-    <meta name="keywords" content="Mit dieser offiziellen Webseite des Badischen 
-    Pétanque-Vereins e.V. Freiburg möchten wir eine weitere 
-    Möglichkeit bieten, alle relevanten Informationen über den Badischen 
-    Pétanque-Verein e.V. Freiburg zu liefern. Die Webseite dient dazu 
-    Dokumente abzurufen, auch zu Ligaterminen und 
-    Ergebnissen und zu regionalen Turnieren. Zahlreiche Links informieren 
-    über regionale Vereine und Verbände, Kugelhersteller, 
+    <meta name="title" content="Boule spielen im Freiburger Seepark beim Badischen Pétanque-Verein e.V. Freiburg" />
+
+    <meta name="description" content="Wir bieten ein Boulodrome mit 26 Boulebahnen und ein Vereinsheim direkt am See. 
+    Freizeit-, Liga- und Turnierspieler finden bei uns ein professionelles Spielumfeld in schönster Lage." />
+    
+    <meta name="keywords" content="Spaß haben und sich entspannen beim Boule beziehungsweise Pétanque spielen im 
+    Freiburger Seepark. Auch sportliche und ehrgeizige Spielerinnen und Spieler jeden Alters finden beim Badischen 
+    Pétanque-Verein e.V. Freiburg ein professionelles Umfeld. Unsere Webseite dient vorrangig unseren ca. 150 Mitgliedern 
+    aber auch einer interessierten Öffentlichkeit dazu Informationen und Dokumente abzurufen. Zum Beispiel zu Ligaterminen 
+    und Ergebnissen oder zu Turnieren. Zahlreiche Links informieren über regionale Vereine und Verbände, Kugelhersteller, 
     Kugelhändler sowie bekannte Pétanquespieler." />
+    
 
     

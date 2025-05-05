@@ -50,7 +50,8 @@
                     <a target="_blank" href="archiv/screenshot20250322.jpg">22.03.2025</a> Galanacht Anja Christoph<br>
                     <a target="_blank" href="archiv/screenshot20250327.jpg">27.03.2025</a> Mitgliederversammlung<br>
                     <a target="_blank" href="archiv/screenshot20250405.jpg">05.04.2025</a> RL Süd Seepark<br>
-                    <a target="_blank" href="archiv/screenshot20250412.jpg">12.04.2025</a> Start Sommercup</p>
+                    <a target="_blank" href="archiv/screenshot20250412.jpg">12.04.2025</a> Start Sommercup<br>
+                    <a target="_blank" href="archiv/screenshot20250426.jpg">26.04.2025</a> Start Landesliga</p>
 
                 </div>
 

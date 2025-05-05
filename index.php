@@ -2,7 +2,7 @@
 <html lang="de">
 
 <head>
-	<title>Index</title>
+	<title>Boule und Pétanque spielen im Freiburger Seepark beim Badischen Pétanque-Verein e.V. Freiburg</title>
 
 	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/ui@4.0.0/dist/fancybox.css">
 
@@ -19,8 +19,11 @@
 	</button>
 
 	<header id="header">
-		<img id=logo src="images/logo.png" title="Logo BPV" alt="Logo BPV">
+		<img id=logo src="images/logo.png" title="Boule spielen im Freiburger Seepark beim Badischen Pétanque-Verein e.V. Freiburg" 
+		alt="Pétanque spielen im Freiburger Seepark beim Badischen Pétanque-Verein e.V. Freiburg">
 	</header>
+
+	<h1 hidden>Boule und Pétanque spielen im Freiburger Seepark beim Badischen Pétanque-Verein e.V. Freiburg</h1>
 
 	<nav id="navigation">
 		<?php include('navigation.php'); ?>
@@ -56,7 +59,7 @@
 
 					<div class="pe-1">
 
-						<h3>Der Sommercup startet</h3>
+						<h3>Der Sommercup läuft</h3>
 
 						<div class="galerie-foto">
 							<a data-fancybox="gallery" href="images/WebSommercup2025big.jpg">
@@ -64,32 +67,31 @@
 							title="Sommercup 2025" style="margin-bottom: 1em;" /></a>
 						</div>
 
-						<p>Am Samstag, dem 19. April 2025 spielen wir im Seepark ab 13.30 Uhr Doublette Supermêlée. Das Spiel 
+						<p style="color: red">Am Samstag, den 10. Mai spielen die Erste, Zweite und Dritte Mannschaft Liga. 
+						Deshalb fällt der Sommercup aus.</p>
+
+						<p>Am Samstag, den 17. Mai 2025 spielen wir im Seepark ab 13.30 Uhr Doublette Supermêlée. Das Spiel 
 						ist lizenzfrei und jedermann ist herzlich eingeladen mit uns mitzuspielen.</p>
 
 						<p>Der Einsatz pro Spieler beträgt 5 EUR, davon gehen 1.50 EUR in den Preisgeldtopf für Abschlussturnier 
 						und Endrangliste. Cash pro Turnier und Spieler sind 3,50 EUR.</p>
 
 						<div class="galerie-foto">
-							<a data-fancybox="gallery" href="images/WebSommercup20250412big.jpg">
-							<img src="images/WebSommercup20250412big.jpg" alt="Sommercup 2025"
+							<a data-fancybox="gallery" href="images/WebSommercup20250503big.jpg">
+							<img src="images/WebSommercup20250503big.jpg" alt="Sommercup 2025"
 							title="Sommercup 2025" style="margin-bottom: 1em;" /></a>
 						</div>
 
-						<p>Am 12. April 2025 spielten 32 Spieler und Spielerinnen Doublette Formée bei sommerlichen 25 Grad.</p>
+						<p>Am 3. Mai 2025 spielten 34 Spieler und Spielerinnen Doublette Formée bei schwülem bewölkten Wetter.</p>
 
-						<p><strong>Die Sieger sind:</strong><br>
-						1. Karin Sumser und Harald Maier,<br>
-						2. Hansjörg Grund und Andreas Herrmann,<br>
-						3. Jutta Schmidt und Wolfgang Behr<br>
-						4. Philibert Tsila und Joucef Hamoudi.</p>
+						<p><strong>Die Sieger sind:</strong></p>
+						<p>1. Mensur Barakovic und Thomas Marschner,<br>
+						2. Atef Gharsellaoui und Harry Kröner,<br>
+						3. Harald Oeschger und Thomas Sekinger,<br>
+						4. Peter Bischler und Nik Heyder.</p>
+
+						<p>Hier die <a href="images/Samstagspiele_Tag_03_20250503.pdf">Rangliste</a> vom 3. Mai.</p>
 					
-						<h3>Beginn der Ligasaison</h3>
-
-						<p style="color: var(--main-color);"><b>Baden-Württemberg-Liga</b></p>
-
-						<p>Unsere <i>Erste Mannschaft</i> trat in Ötisheim an zur ersten Runde der BaWü-Liga.</p>
-
 					</div>
 
 				</div>
@@ -98,39 +100,34 @@
 
 					<div class="px-1">
 
-
-						<p>Gleich in der ersten Begegnung musste sie eine knappe Niederlage gegen den BC Konstanz 1
-							hinnehmen mit 2:3.</p>
-
-						<p>In der zweiten Begegnung gab es dann einen Kantersieg gegen den BC
-							Rastatt 1 mit 5:0.</p>
-
-						<p>Auch in der dritten Begegnung war BPV 1 siegreich gegen die Allstars Rhein-Neckar 1
-							mit 3:2.</p>
-
-						<p>Somit war ein guter Start in die Saison gelungen mit einem 4. Platz von 12.
-							Gratulation!</p>
-
-						<p style="color: var(--main-color);"><b>Regionalliga Süd</b></p>
+						<h3>1. Mai Turnier Wiehre</h3>
 
 						<div class="galerie-foto">
-							<a data-fancybox="gallery" href="images/WebRLSuedbig2.jpg">
-							<img src="images/WebRLSuedbig2.jpg" alt="Regionalliga Süd im Seepark"
-							title="Regionalliga Süd im Seepark" style="margin-bottom: 1em;" /></a>
+							<a data-fancybox="gallery" href="images/WebWiehre2025big.jpg">
+							<img src="images/WebWiehre2025big.jpg" alt="1. Mai Turnier in der Wiehre"
+							title="1. Mai Turnier in der Wiehre" style="margin-bottom: 1em;" /></a>
 						</div>
 
-						<p>Am 5. April 2025 begrüßte der BPV die Regionalliga Süd im Seepark. Bei strahlendem Sonnenschein
-						und frühsommerlichen Temperaturen fand der Leistungsvergleich statt.</p>
+						<p>Erfolgreiche BPV Spieler am traditionellen 1. Mai Turnier in der Wiehre. Vor rund 100 Zuschauern 
+						konnten sich Andry Ram mit Nico Öschger (Gutach) in einem spannenden Finalspiel mit 13:4 gegen 
+						Sofiane Lounes und Andrej Stark durchsetzen. Nante und Faly siegten im C-Turnier.&nbsp;&nbsp;<i>nh</i></p>
 
-						<p Style="color: var(--sub-color);"><b>Zweite Mannschaft</b></p>
+						<h3> Start der Landesliga</h3>
 
-						<p>Die erste Begegnung BPV 2 gegen BPV 3 endete mit einem deutlichen Sieg für den BPV 2 mit 5:0.</p>
+						<div class="galerie-foto">
+							<a data-fancybox="gallery" href="images/WebLandesligabig3.jpg">
+							<img src="images/WebLandesligabig3.jpg" alt="Landesliga im Seepark"
+							title="Landesliga im Seepark" style="margin-bottom: 1em;" /></a>
+						</div>
 
-						<p>BPV 2 trat in der zweiten Begegnung gegen Naturbad Sulz 1 an und gewann mit 3:2</p>
+						<p>Bei bestem trockenen Boulewetter startete gestern im Boulodrome Seepark die Landesliga-Saison.</p>
 
-						<p>In der dritten Begegnung verlor BPV 2 knapp gegen 1. BC Karlsruhe 1 mit 2:3.</p>
+						<p>In der ersten Begegnung kam es gleich zum Lokalderby der beiden gastgebenden Mannschaften BPV 4 und 
+						BPV 5. Hier war die 4. Mannschaft zunächst schneller auf dem Platz präsent und führte nach den Tripletten 
+						2:0. In einer tollen Aufholjagd konnte der BPV 5 danach alle Doubletten für sich entscheiden und so den 
+						ersten Sieg in der neuen Liga einfahren.</p>
 
-						<p>Von drei Begegnungen gewann BPV 2 zwei und steht nach dem ersten Spieltag auf einem guten 4. Platz.</p>
+						<p style="margin-bottom: 0;">Die zweite Begegnung vom BPV 4 konnte vom Ergebnis klar mit 4:1</p>
 
 
 					</div>
@@ -141,30 +138,27 @@
 
 					<div class="ps-1">
 
-						<div class="galerie-foto">
-							<a data-fancybox="gallery" href="images/WebRLSuedbig1.jpg">
-							<img src="images/WebRLSuedbig1.jpg" alt="Regionalliga Süd im Seepark"
-							title="Regionalliga Süd im Seepark" style="margin-bottom: 1em;" /></a>
-						</div>
+						<p>gegen Denzlingen 2 gewonnen werden.</p> 
 
-						<p Style="color: var(--sub-color);"><b>Dritte Mannschaft</b></p>
-
-						<p>Wie oben schon erwähnt, trat BPV 3 gegen BPV 2 an und verlor die Begegnung mit 0:5.</p>
-
-						<p>Die zweite Begegnung gegen den 1. BC Karlsruhe 1 konnte BPV 3 deutlich mit 4:1 gewinnen.</p>
-
-						<p>Die dritte Begegnung gegen BC Eisingen 1 musste BPV 3 knapp abgeben mit 2:3.</p>
-
-						<p>BPV 3 bewegt sich mit dem 8. PLatz im Mittelfeld der Liga.</p>
+						<p>Die 5. musste in der zweiten Begegnung gegen Dogern 2 antreten. Nach den Tripletten stand es 1:1. Zwei 
+						rasch gewonnene Siege in den Doubletten verhinderten ein Zitterspiel, so dass die Niederlage  in einer sich 
+						hinziehenden 3. Doublette den Gesamtsieg nicht mehr gefährden konnte.</p>
 
 						<div class="galerie-foto">
-							<a data-fancybox="gallery" href="images/WebRLSuedbig4.jpg">
-							<img src="images/WebRLSuedbig4.jpg" alt="Regionalliga Süd im Seepark"
-							title="Regionalliga Süd im Seepark" style="margin-bottom: 1em;" /></a>
+							<a data-fancybox="gallery" href="images/WebLandesligabig4.jpg">
+							<img src="images/WebLandesligabig4.jpg" alt="Landesliga im Seepark"
+							title="Landesliga im Seepark" style="margin-bottom: 1em;" /></a>
 						</div>
 
-						<p>Unser Dank gilt der Vierten und Fünften Mannschaft die im Service die Spieler versorgte und so zu einem
-							gelungenen Ligatag beitrug.</p>
+						<p>Die 5. befindet sich als Neuling mit weißer Weste auf dem 3. Platz und beging den weiteren Tag sehr 
+						"euphorisiert".</p>
+
+						<p>Die 4. landet mit einem Sieg und einer Niederlage im vorderen Mittelfeld auf einem guten 5. Platz.</p>
+
+						<p>Unser Dank gilt der 1. Mannschaft, (Christophe, Oliver, Haribo, John, Coco, Nante, Harry M., Frederic) welche die 
+						Spieler versorgte. Als Schiedsrichter fungierte Edwin Tiede.</p>
+
+						<p>Der zweite Spieltag findet am 11.5. in Feldkirch statt. Dort sind 3 Spieltage zu absolvieren.&nbsp;&nbsp;<i>cf</i></p>
 
 						<div class="galerie-foto">
 							<a data-fancybox="gallery" href="images/WebLexwareOpen2025big.png">
@@ -187,7 +181,7 @@
 	<noscript>
 		JavaScript ist nicht verfügbar oder es ist deaktiviert.
 		<br, />
-		Bitte verwenden Sie einen Browser, der JavaScript unterstützt,
+		Bitte verwenden Sie einen Browser, der JavaScript unterstützt,"
 		oder aktivieren Sie JavaScript in Ihrem Browser.
 	</noscript>
 
@@ -204,6 +198,9 @@
 	<script src="scripts/DataFancyBox.js"></script>
 
 	<script src="scripts/AufrufButton.js"></script>
+
+<!-- <p style="display: flex; justify-content: space-between; align-items: flex-end;"><span>Der zweite Spieltag findet am 11.5. in Feldkirch statt. Dort sind 3 Spieltage zu absolvieren.</span><span style="white-space: nowrap;"><i>cf</i></span></p> -->
+
 
 
 </body>

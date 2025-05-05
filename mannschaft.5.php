@@ -27,8 +27,8 @@
     </nav2>
 
     <teaser>
-        <img src="images/5Mann2024.jpg" title="5. Mannschaft des BPV Freiburg" alt="5. Mannschaft des BPV Freiburg">
-        <h2 style="margin-top: 1em;">5. Mannschaft des BPV Freiburg</h2>
+        <img src="images/5Mann2025.jpg" title="5. Mannschaft des BPV Freiburg" alt="5. Mannschaft des BPV Freiburg">
+        <h2 style="margin-top: 1em;">5. Mannschaft</h2>
     </teaser>
 
 
@@ -42,13 +42,13 @@
 
                 <p>Zavatsilavina Philibert Andriananantenasoa<br>
                 Florian Bischler<br>
-                Martin Böhler<br>
                 Johanna Bischler<br>
                 Peter Bischler<br>
                 Hansjörg Grund<br>
                 Christian Fakler (Mannschaftsführer)&nbsp;&nbsp;<small>Mail: CFakler61@gmail.com></small><br>
                 Pieter Krebs<br>
-                Hannes Schuler</p>
+                Hannes Schuler<br>
+                Andrej Stark</p>
 
             </div>
 
