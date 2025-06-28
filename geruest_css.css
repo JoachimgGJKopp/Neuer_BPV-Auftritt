@@ -2,7 +2,7 @@
 
         
         html {       /* Hintergrundbild fixed */
-            background: url(images/Hintergruende/Mai2025.jpg) no-repeat center center fixed;
+            background: url(images/Hintergruende/Juni2025.jpg) no-repeat center center fixed;
             -webkit-background-size: cover;
             -moz-background-size: cover;
             -o-background-size: cover;
@@ -21,7 +21,7 @@
             left: 0;
             width: 100%;
             height: 100%;
-            background: snow;
+            background-color: snow;
             z-index: -1; /* Hinter den Inhalt setzen */
         }
         
@@ -57,17 +57,16 @@
 
             
         :root {
-            background-color: snow;
             --main-color: rgb(3, 75, 3);
-            --sub-color: rgb(133, 134, 133)   
+            --sub-color: rgb(108, 119, 108);
+            --fuehrer-color: rgb(230, 249, 230);
         }
 
         h1{ font-size: 180%; }
         h2{ font-size: 140%; }
         h3{ font-size: 120%; }
 
-        h1,h2,h3 {
-            color: var(--main-color);
+        h1,h2,h3 {            color: var(--main-color);
             font: bold 10px Times;
             margin-bottom: 10px;
         }

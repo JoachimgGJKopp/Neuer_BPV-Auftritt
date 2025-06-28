@@ -4,7 +4,7 @@ $ordner = 'imagefolder/' . getFolder(); // Pfad zu deinem Bilder-Ordner
 
 // echo $ordner;
 
-// Alle Bilder mit dem Endung big.jpg finden
+// Alle Bilder mit der Endung big.jpg finden
 $bilder_gross = glob($ordner . '/*big.jpg');
 
 // Array für kleine Bilder erstellen

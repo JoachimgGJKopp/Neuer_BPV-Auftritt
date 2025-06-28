@@ -5,6 +5,7 @@
 	<title>Boule und Pétanque spielen im Freiburger Seepark beim Badischen Pétanque-Verein e.V. Freiburg</title>
 
 	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/ui@4.0.0/dist/fancybox.css">
+	<link rel="stylesheet" href="style.css">
 
 	<?php include('header.php'); ?>
 
@@ -19,8 +20,8 @@
 	</button>
 
 	<header id="header">
-		<img id=logo src="images/logo.png" title="Boule spielen im Freiburger Seepark beim Badischen Pétanque-Verein e.V. Freiburg" 
-		alt="Pétanque spielen im Freiburger Seepark beim Badischen Pétanque-Verein e.V. Freiburg">
+		<img id=logo src="images/logo.png" title="Boule spielen im Freiburger Seepark beim Badischen Pétanque-Verein e.V. Freiburg"
+			alt="Pétanque spielen im Freiburger Seepark beim Badischen Pétanque-Verein e.V. Freiburg">
 	</header>
 
 	<h1 hidden>Boule und Pétanque spielen im Freiburger Seepark beim Badischen Pétanque-Verein e.V. Freiburg</h1>
@@ -55,7 +56,7 @@
 
 			<div class="row" style="margin: 0px -1.5em;">
 
-				<div class="col-12 col-sm-4">
+				<div class="col-12 col-sm-4"> <!-- Spalte 1 -->
 
 					<div class="pe-1">
 
@@ -63,111 +64,115 @@
 
 						<div class="galerie-foto">
 							<a data-fancybox="gallery" href="images/WebSommercup2025big.jpg">
-							<img src="images/WebSommercup2025big.jpg" alt="Sommercup 2025"
-							title="Sommercup 2025" style="margin-bottom: 1em;" /></a>
+								<img src="images/WebSommercup2025big.jpg" alt="Sommercup 2025"
+									title="Sommercup 2025" style="margin-bottom: 1em;" /></a>
 						</div>
 
-						<p style="color: red">Am Samstag, den 10. Mai spielen die Erste, Zweite und Dritte Mannschaft Liga. 
-						Deshalb fällt der Sommercup aus.</p>
+						<p style="color: red">Am 28. Juni fällt der Sommercup aus wegen Ligaspielen.</p>
 
-						<p>Am Samstag, den 17. Mai 2025 spielen wir im Seepark ab 13.30 Uhr Doublette Supermêlée. Das Spiel 
-						ist lizenzfrei und jedermann ist herzlich eingeladen mit uns mitzuspielen.</p>
+						<p>Am Samstag, den 5. Juli 2025 spielen wir im Seepark ab 13.30 Uhr Doublette Tête à Tête. Das Spiel
+							ist lizenzfrei und jedermann ist herzlich eingeladen mit uns mitzuspielen.</p>
 
-						<p>Der Einsatz pro Spieler beträgt 5 EUR, davon gehen 1.50 EUR in den Preisgeldtopf für Abschlussturnier 
-						und Endrangliste. Cash pro Turnier und Spieler sind 3,50 EUR.</p>
+						<p>Der Einsatz pro Spieler beträgt 5 EUR, davon gehen 1.50 EUR in den Preisgeldtopf für Abschlussturnier
+							und Endrangliste. Cash pro Turnier und Spieler sind 3,50 EUR.</p>
+
+						<!-- <p>Details sind auch auf dem Plakat oben oder unter dem Tab "Turniere > <a target="_blank"href="turniere2.php">Sommercup</a>" zu finden.</p> -->
 
 						<div class="galerie-foto">
-							<a data-fancybox="gallery" href="images/WebSommercup20250503big.jpg">
-							<img src="images/WebSommercup20250503big.jpg" alt="Sommercup 2025"
-							title="Sommercup 2025" style="margin-bottom: 1em;" /></a>
+							<a data-fancybox="gallery" href="images/WebSommercup20250621big.jpg">
+								<img src="images/WebSommercup20250621big.jpg" alt="Sommercup 2025"
+									title="Sommercup 2025" style="margin-bottom: 1em;" /></a>
 						</div>
 
-						<p>Am 3. Mai 2025 spielten 34 Spieler und Spielerinnen Doublette Formée bei schwülem bewölkten Wetter.</p>
+						<p>Am 21. Juni 2025 spielten 24 Spieler und Spielerinnen Doublette Formée bei Sonne und Wärme satt.</p>
 
 						<p><strong>Die Sieger sind:</strong></p>
-						<p>1. Mensur Barakovic und Thomas Marschner,<br>
-						2. Atef Gharsellaoui und Harry Kröner,<br>
-						3. Harald Oeschger und Thomas Sekinger,<br>
-						4. Peter Bischler und Nik Heyder.</p>
+						<p>1. Wolfgang Behr und Mensur Barakovic,<br>
+							2. Damir Hanken und Andreas Herrmann,<br>
+							3. Salvatore Fernandez Und Nik Heyder.</p>
 
-						<p>Hier die <a href="images/Samstagspiele_Tag_03_20250503.pdf">Rangliste</a> vom 3. Mai.</p>
-					
+						<p>Hier die <a href="images/Samstagspiele_Tag_08_20250614.pdf">Rangliste</a> vom 14. Juni.</p>
+
 					</div>
 
 				</div>
 
-				<div class="col-12 col-sm-4">
+				<div class="col-12 col-sm-4"> <!-- Spalte 2 -->
 
 					<div class="px-1">
 
-						<h3>1. Mai Turnier Wiehre</h3>
+						<h3>1. Lexware Open</h3>
+
+						<p>Am Sonntag, den 22. Juni 2025 kamen zur 1. Lexware Open im Seepark in Freiburg 61 Doubletten, wovon 18 Équipes rein
+							französisch waren (national gemischte Doubletten wurden statistisch nicht erfasst).</p>
+
+						<p>Mit in der Spitze über 37 Grad Celsius war der Tag sehr heiß mit Schleierwolken am Himmel, was dazu führte, dass es Probleme
+							beim Nachschub gut gekühlter Getränke gab.</p>
+
+						<p>Es wurden 4 Runden Schweizer System gespielt.
+							Die ersten 16 Équipes qualifizierten sich für die KO-Runde: Die ersten 8 gingen ins A-Turnier, die zweiten 8
+							ins B-Turnier. Die KO-Runde begann im Viertelfinale.</p>
 
 						<div class="galerie-foto">
-							<a data-fancybox="gallery" href="images/WebWiehre2025big.jpg">
-							<img src="images/WebWiehre2025big.jpg" alt="1. Mai Turnier in der Wiehre"
-							title="1. Mai Turnier in der Wiehre" style="margin-bottom: 1em;" /></a>
+							<a data-fancybox="gallery" href="images/FinaleA.jpg">
+								<img src="images/FinaleA.jpg" alt="1. Lexware Open"
+									title="1. Lexware Open" style="margin-bottom: 1em;" /></a>
 						</div>
 
-						<p>Erfolgreiche BPV Spieler am traditionellen 1. Mai Turnier in der Wiehre. Vor rund 100 Zuschauern 
-						konnten sich Andry Ram mit Nico Öschger (Gutach) in einem spannenden Finalspiel mit 13:4 gegen 
-						Sofiane Lounes und Andrej Stark durchsetzen. Nante und Faly siegten im C-Turnier.&nbsp;&nbsp;<i>nh</i></p>
+						<p><strong>Die Sieger des A-Turniers sind:</strong></p>
 
-						<h3> Start der Landesliga</h3>
-
-						<div class="galerie-foto">
-							<a data-fancybox="gallery" href="images/WebLandesligabig3.jpg">
-							<img src="images/WebLandesligabig3.jpg" alt="Landesliga im Seepark"
-							title="Landesliga im Seepark" style="margin-bottom: 1em;" /></a>
-						</div>
-
-						<p>Bei bestem trockenen Boulewetter startete gestern im Boulodrome Seepark die Landesliga-Saison.</p>
-
-						<p>In der ersten Begegnung kam es gleich zum Lokalderby der beiden gastgebenden Mannschaften BPV 4 und 
-						BPV 5. Hier war die 4. Mannschaft zunächst schneller auf dem Platz präsent und führte nach den Tripletten 
-						2:0. In einer tollen Aufholjagd konnte der BPV 5 danach alle Doubletten für sich entscheiden und so den 
-						ersten Sieg in der neuen Liga einfahren.</p>
-
-						<p style="margin-bottom: 0;">Die zweite Begegnung vom BPV 4 konnte vom Ergebnis klar mit 4:1</p>
-
+						<p>1. Philippe Jankowski und Jerry Cagniac,<br>
+							2.Clement Melnikoff und Marcus Falterman,<br>
+							3. Frederic Riess und Din Vuh,<br>
+							3. Kilian Schartner und Damien Dantomy,<br>
+							5. Gilbert und Wesley Bodein,<br>
+							5. Dieter Zimmer und Andri Ram,<br>
+							5. Marios Daros und Jules Skot,<br>
+							5. Harri Ranaivo und Fenitra Andria.</p>
 
 					</div>
 
 				</div>
 
-				<div class="col-12 col-sm-4">
+				<div class="col-12 col-sm-4"> <!-- Spalte 3 -->
 
 					<div class="ps-1">
 
-						<p>gegen Denzlingen 2 gewonnen werden.</p> 
-
-						<p>Die 5. musste in der zweiten Begegnung gegen Dogern 2 antreten. Nach den Tripletten stand es 1:1. Zwei 
-						rasch gewonnene Siege in den Doubletten verhinderten ein Zitterspiel, so dass die Niederlage  in einer sich 
-						hinziehenden 3. Doublette den Gesamtsieg nicht mehr gefährden konnte.</p>
-
 						<div class="galerie-foto">
-							<a data-fancybox="gallery" href="images/WebLandesligabig4.jpg">
-							<img src="images/WebLandesligabig4.jpg" alt="Landesliga im Seepark"
-							title="Landesliga im Seepark" style="margin-bottom: 1em;" /></a>
+							<a data-fancybox="gallery" href="images/FinaleB.jpg">
+								<img src="images/FinaleB.jpg" alt="1. Lexware Open"
+									title="1. Lexware Open" style="margin-bottom: 1em;" /></a>
 						</div>
 
-						<p>Die 5. befindet sich als Neuling mit weißer Weste auf dem 3. Platz und beging den weiteren Tag sehr 
-						"euphorisiert".</p>
+						<p><strong>Die Sieger des B-Turniers sind:</strong></p>
 
-						<p>Die 4. landet mit einem Sieg und einer Niederlage im vorderen Mittelfeld auf einem guten 5. Platz.</p>
+						<p>1. Tsila und Tains,<br>
+							2. Adil Chemmakh und Tina Ladisone,<br>
+							3. David Ivan Farias da Silva und David Freudenberg,<br>
+							3. Antonio Megali und David da Silva (F),<br>
+							5. Philippe Olivares und Paola,<br>
+							5. Massimo da Silva und Francesco Megali,<br>
+							5. David Wuchterl und Sofian Lounes,<br>
+							5. Stefan und Matthieu Kirhoff.</p>
 
-						<p>Unser Dank gilt der 1. Mannschaft, (Christophe, Oliver, Haribo, John, Coco, Nante, Harry M., Frederic) welche die 
-						Spieler versorgte. Als Schiedsrichter fungierte Edwin Tiede.</p>
+						<p>Zu großem Dank verpflichtet sind wir unserer 5. Mannschaft und Martin Böhler, die statt Turnier zu spielen in der knalligen Hitze
+							im Service schufteten von 8 Uhr morgens bis nach 20 Uhr abends.<br>
 
-						<p>Der zweite Spieltag findet am 11.5. in Feldkirch statt. Dort sind 3 Spieltage zu absolvieren.&nbsp;&nbsp;<i>cf</i></p>
+						Ebenfalls Dank schulden wir dem Turnierleiter Christian Fakler für seine Arbeit und dem Vorsitzenden
+							Nik Heyder in der Organisation.</p>
+
+						<p>171 Bilder stehen in der <a target="_blank" href="galerie.php?folder=Erste_Lexware_Open_2025">Galerie</a>.</p>
+
 
 						<div class="galerie-foto">
-							<a data-fancybox="gallery" href="images/WebLexwareOpen2025big.png">
-							<img src="images/WebLexwareOpen2025big.png" alt="1. Lexware Open 2025"
-							title="1. Lexware Open 2025" style="margin-bottom: 1em;" /></a>
+							<a data-fancybox="gallery" href="images/WebVeltheim20250708big.jpg">
+								<img src="images/WebVeltheim20250708big.jpg" alt="Freundschaftsturnier gegen Veltheim"
+									title="Freundschaftsturnier gegen Veltheim" style="margin-bottom: 1em;" /></a>
 						</div>
+
 
 					</div>
-					
+
 				</div>
 
 			</div>
@@ -199,7 +204,9 @@
 
 	<script src="scripts/AufrufButton.js"></script>
 
-<!-- <p style="display: flex; justify-content: space-between; align-items: flex-end;"><span>Der zweite Spieltag findet am 11.5. in Feldkirch statt. Dort sind 3 Spieltage zu absolvieren.</span><span style="white-space: nowrap;"><i>cf</i></span></p> -->
+	<!-- <p style="color: red"><p-->
+
+	<!-- <p>171 Bilder stehen in der <a target="_blank" href="galerie.php?folder=Erste_Lexware_Open_2025">Galerie</a>.</p> -->
 
 
 

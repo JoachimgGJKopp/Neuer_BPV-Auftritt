@@ -35,18 +35,21 @@
 
         <div class="row">
 
-            <h3 class="ps-0 mt-1">Mannschaftsmitglieder</h3>
-
             <div class="col-12 col-sm-12 ps-0">
 
                 <p>Oliver Anders<br>
                 Harry Burger<br>
                 Njakanosy Iandrianantenaina<br>
-                Didier Kauffmann (Mannschaftsführer)&nbsp;&nbsp;<small>Mail: didier.kauffmann1702@gmail.com</small><br>
+
+                <span style="background-color: var(--fuehrer-color) !important; display: inline-block; padding: 0px; margin-right: 0px; font-size: inherit;">
+                Didier Kauffmann (Mannschaftsführer)&nbsp;&nbsp;<wbr /><small>didier.kauffmann1702@gmail.com</small>
+                </span><br>
+                
                 Franz Kirschner<br>
                 John Lancon<br>
                 Harry Maugeais<br>
                 Anjaratiana Rabeariosa<br>
+                Frédéric Riess<br>
                 Christophe Riff<br>
                 Timo Sommer<br>
                 Sébastien Tromeur<br>

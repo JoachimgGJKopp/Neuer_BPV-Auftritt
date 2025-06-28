@@ -40,6 +40,7 @@
         <li>
             <a href="#">Ergebnisse</a>
             <ul class="dropdown">
+                <li><a href="ergebnis14.php">Erste Lexware Open 2025</a></li>
                 <li><a href="ergebnis13.php">Jubiläumsturnier 2024</a></li>
                 <li><a href="ergebnis12.php">Herbstturnier 2024</a></li>
 		        <li><a href="ergebnis11.php">Frühlingsturnier 2024</a></li>
@@ -57,6 +58,7 @@
 
             <?php
                 $galerien = [
+                    'Erste Lexware Open 2025',
                     'Herbstfest 2024',
                     'Jubiläumsturnier 2024',
                     'Herbstturnier 2024',

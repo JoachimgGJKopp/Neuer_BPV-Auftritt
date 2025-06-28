@@ -36,8 +36,6 @@
 
         <div class="row">
 
-            <h3 class="ps-0 mt-1">Mannschaftsmitglieder</h3>
-
             <div class="col-12 col-sm-12 ps-0">
 
                 <p>Zavatsilavina Philibert Andriananantenasoa<br>
@@ -45,7 +43,9 @@
                 Johanna Bischler<br>
                 Peter Bischler<br>
                 Hansjörg Grund<br>
-                Christian Fakler (Mannschaftsführer)&nbsp;&nbsp;<small>Mail: CFakler61@gmail.com></small><br>
+                <span style="background-color: var(--fuehrer-color); display: inline-block; padding: 0px; margin-right: 0px; font-size: inherit;">
+                Christian Fakler (Mannschaftsführer)&nbsp;&nbsp;<wbr /><small>CFakler61@gmail.com</small>
+                </span><br>
                 Pieter Krebs<br>
                 Hannes Schuler<br>
                 Andrej Stark</p>

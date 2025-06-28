@@ -36,20 +36,21 @@
 
         <div class="row">
 
-            <h3 class="ps-0 mt-1">Mannschaftsmitglieder</h3>
-
             <div class="col-12 col-sm-12 ps-0">
 
                 <p>Mensur Barakovic<br>
                 Matthew Byrne<br> 
                 Bernd Birnbreier<br>
-                Salvador Fernandez (Mannschaftsführer)&nbsp;&nbsp;<small>Mail: salvafreiburg@gmail.com</small><br>
+
+                <span style="background-color: var(--fuehrer-color); display: inline-block; padding: 0px; margin-right: 0px; font-size: inherit;">
+                Salvador Fernandez (Mannschaftsführer)&nbsp;&nbsp;<wbr /><small>salvafreiburg@gmail.com</small>
+                </span><br>
+
                 Hermann Klausmann<br>
                 Hans Koch<br>
                 Thomas Marschner<br>
                 Cathy Noll<br>
-                Hans Pfeiffer<br>
-                Frédéric Riess</p>
+                Hans Pfeiffer</p>
 
             </div>
 

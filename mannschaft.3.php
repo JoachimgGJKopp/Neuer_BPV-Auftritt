@@ -35,15 +35,17 @@
 
         <div class="row">
 
-            <h3 class="ps-0 mt-1">Mannschaftsmitglieder</h3>
-
             <div class="col-12 col-sm-12 ps-0">
 
                 <p>Serge Aloird<br>
                 Edith Aschard<br>
                 Raphael Bour<br>
                 Sahoby Olivier Herinantenaina<br>
-                Andreas Herrmann (Mannschaftsführer)&nbsp;&nbsp;<small>Mail: hoerm68@web.de</small></br>
+
+                <span style="background-color: var(--fuehrer-color); display: inline-block; padding: 0px; margin-right: 0px; font-size: inherit;">
+                Andreas Herrmann (Mannschaftsführer)&nbsp;&nbsp;<wbr /><small>hoerm68@web.de</small>
+                </span><br>
+
                 Helmut Köttner<br>
                 Rita Kurz<br>
                 Martin Pfitzner<br>

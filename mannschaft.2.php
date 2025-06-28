@@ -27,7 +27,7 @@
     </nav2>
 
     <teaser>
-        <img src="images/2Mann2024.jpg" title="2. Mannschaft des BPV Freiburg" alt="2. Mannschaft des BPV Freiburg">
+        <img src="images/2Mann2025.jpg" title="2. Mannschaft des BPV Freiburg" alt="2. Mannschaft des BPV Freiburg">
         <h2 style="margin-top: 1em;">2. Mannschaft</h2>
     </teaser>
 
@@ -35,18 +35,19 @@
 
         <div class="row">
 
-            <h3 class="ps-0 mt-1">Mannschaftsmitglieder</h3>
-
             <div class="col-12 col-sm-12 ps-0">
 
                 <p>David Ivan Farias Da Silva<br>
                 Paulo Da Silva<br>
                 Muazzez Eckert<br>
                 Dominik Hanser<br>
-                Andreas Herrmann<br>
                 Nik Heyder<br>
                 Lyes-Sofian Lounes<br>
-                Heike Nägele (Mannschaftsführerin)&nbsp;&nbsp;<small>Mail: hnaegele@web.de</small><br>
+
+                <span style="background-color: var(--fuehrer-color); display: inline-block; padding: 0px; margin-right: 0px; font-size: inherit;">
+                Heike Nägele (Mannschaftsführerin)&nbsp;&nbsp;<wbr /><small>hnaegele@web.de</small>
+                </span><br>
+
                 Xavier Peyre<br>
                 Andriniaina Fenohasina Ramahemintsoa<br>
                 Fabrice Roy</p>
